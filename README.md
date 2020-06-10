@@ -1,10 +1,10 @@
-# Anserini Evaluation Tools
+# Anserini Tools
 
-This repo holds evaluation tools shared across [anserini](http://anserini.io/), [pyserini](http://pyserini.io/), and [pygaggle](http://pygaggle.ai/) as a Git submodule.
+This repo holds various tools and scripts shared across [anserini](http://anserini.io/), [pyserini](http://pyserini.io/), and [pygaggle](http://pygaggle.ai/) as a Git submodule.
 
-Build included tools as follows (you might get warnings, but you can ignore):
+Build the included evaluation tools as follows (you might get warnings, but you can ignore):
 
 ```bash
-tar xvfz trec_eval.9.0.4.tar.gz && cd trec_eval.9.0.4 && make && cd ..
-cd ndeval && make && cd ..
+cd eval && tar xvfz trec_eval.9.0.4.tar.gz && cd trec_eval.9.0.4 && make && cd ../..
+cd eval && cd ndeval && make && cd ../..
 ```

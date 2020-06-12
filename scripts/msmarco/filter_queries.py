@@ -17,10 +17,10 @@
 import argparse
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Keeps only queries that are in the qrels file.')
-    parser.add_argument('--qrels', required=True, help='MS MARCO .tsv qrels file')
-    parser.add_argument('--queries', required=True, help='queries file')
-    parser.add_argument('--output_queries', required=True, help='path to write the queries file')
+    parser = argparse.ArgumentParser(description='Keeps only queries in a qrels file.')
+    parser.add_argument('--qrels', required=True, help='MS MARCO tsv qrels file.')
+    parser.add_argument('--queries', required=True, help='Queries file.')
+    parser.add_argument('--output', required=True, help='Output queries file.')
 
     args = parser.parse_args()
 
@@ -30,7 +30,7 @@ if __name__ == '__main__':
             query_id, _, _, _ = line.rstrip().split('\t')
             qrels.add(query_id)
 
-    with open(args.output_queries, 'w', encoding='utf-8', newline='\n') as fout:
+    with open(args.output, 'w', encoding='utf-8', newline='\n') as fout:
         with open(args.queries, encoding='utf-8') as f:
             for line in f:
                 query_id, _ = line.rstrip().split('\t')

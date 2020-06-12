@@ -12,12 +12,15 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+#
 
+import sys
 import argparse
 import time
-import os, sys
 
-from pyserini.search import pysearch
+sys.path.insert(0, './')
+
+from pyserini.search import SimpleSearcher
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Retrieve MS MARCO Passages.')
@@ -38,7 +41,7 @@ if __name__ == '__main__':
 
     total_start_time = time.time()
 
-    searcher = pysearch.SimpleSearcher(args.index)
+    searcher = SimpleSearcher(args.index)
     searcher.set_bm25(args.k1, args.b)
     print('Initializing BM25, setting k1={} and b={}'.format(args.k1, args.b), flush=True)
     if args.rm3:

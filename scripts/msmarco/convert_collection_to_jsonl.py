@@ -1,23 +1,23 @@
-# -*- coding: utf-8 -*-
-"""
-Anserini: A Lucene toolkit for replicable information retrieval research
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-"""
+#
+# Pyserini: Python interface to the Anserini IR toolkit built on Lucene
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
 
 import json
 import os
 import argparse
+
 
 def convert_collection(args):
     print('Converting collection...')
@@ -36,15 +36,17 @@ def convert_collection(args):
             output_jsonl_file.write(json.dumps(output_dict) + '\n')
 
             if i % 100000 == 0:
-                print('Converted {} docs in {} files'.format(i, file_index))
+                print(f'Converted {i:,} docs, writing into file {file_index}')
 
     output_jsonl_file.close()
 
+
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='''Converts MSMARCO's tsv collection to Anserini jsonl files.''')
-    parser.add_argument('--collection_path', required=True, help='MS MARCO .tsv collection file')
-    parser.add_argument('--output_folder', required=True, help='output filee')
-    parser.add_argument('--max_docs_per_file', default=1000000, type=int, help='maximum number of documents in each jsonl file.')
+    parser = argparse.ArgumentParser(description='Convert MSMARCO tsv collection into jsonl files for Anserini.')
+    parser.add_argument('--collection-path', required=True, help='Path to MS MARCO tsv collection.')
+    parser.add_argument('--output-folder', required=True, help='Output folder.')
+    parser.add_argument('--max-docs-per-file', default=1000000, type=int,
+                        help='Maximum number of documents in each jsonl file.')
 
     args = parser.parse_args()
 

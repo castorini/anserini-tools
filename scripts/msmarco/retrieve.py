@@ -31,7 +31,7 @@ if __name__ == '__main__':
     parser.add_argument('--k1', default=0.82, type=float, help='BM25 k1 parameter.')
     parser.add_argument('--b', default=0.68, type=float, help='BM25 b parameter.')
     # See our MS MARCO documentation to understand how these parameter values were tuned.
-    parser.add_argument('--rm3', action='store_true', default=False, help='use RM3')
+    parser.add_argument('--rm3', action='store_true', default=False, help='Use RM3.')
     parser.add_argument('--fbTerms', default=10, type=int, help='RM3: number of expansion terms.')
     parser.add_argument('--fbDocs', default=10, type=int, help='RM3: number of documents.')
     parser.add_argument('--originalQueryWeight', default=0.5, type=float, help='RM3: weight of original query.')

@@ -1,19 +1,20 @@
-# -*- coding: utf-8 -*-
-"""
-Anserini: A Lucene toolkit for replicable information retrieval research
+#
+# Pyserini: Python interface to the Anserini IR toolkit built on Lucene
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-"""
+"""Compute the fraction of judged documents at various cutoffs."""
 
 import argparse
 import collections
@@ -24,8 +25,7 @@ from typing import Set
 
 
 def load_qrels(path: str) -> Dict[str, Set[str]]:
-    """Loads qrels into a dict of key: query_id, value: set of relevant doc
-    ids."""
+    """Loads qrels into a dict of key: query_id, value: set of relevant doc ids."""
     qrels = collections.defaultdict(set)
     with open(path) as f:
         for i, line in enumerate(f):
@@ -37,8 +37,7 @@ def load_qrels(path: str) -> Dict[str, Set[str]]:
 
 
 def load_run(path: str) -> Dict[str, List[str]]:
-    """Loads run into a dict of key: query_id, value: list of candidate doc
-    ids."""
+    """Loads run into a dict of key: query_id, value: list of candidate doc ids."""
     run = collections.OrderedDict()
     with open(path) as f:
         for line in f:
@@ -57,18 +56,14 @@ def load_run(path: str) -> Dict[str, List[str]]:
     return sorted_run
 
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(
-        description='measure the percentage of judged documents at various '
-                    'cutoffs.')
-    parser.add_argument('--qrels', type=str, required=True, help='qrels file')
-    parser.add_argument('--run', type=str, required=True, help='run file')
-    parser.add_argument('--cutoffs', nargs='+', type=int,
-                        default=[5, 10, 20, 30],
-                        help='Space-separate list of cutoffs. '
-                             'E.g.: --cutoffs 5 10 20')
-    parser.add_argument('-q', action='store_true', dest='print_topic',
-                        help='In addition to summary evaluation, give evaluation for each query/topic')
+def main():
+    parser = argparse.ArgumentParser(description=__doc__,
+                                     formatter_class=lambda prog: argparse.HelpFormatter(prog, width=100))
+    parser.add_argument('--qrels', metavar='FILE', type=str, required=True, help='Qrels file.')
+    parser.add_argument('--run', metavar='FILE', type=str, required=True, help='Run file.')
+    parser.add_argument('--cutoffs', metavar='N', nargs='+', type=int, default=[10, 100, 1000],
+                        help='Space-separate list of cutoffs, e.g., --cutoffs 10 100 1000.')
+    parser.add_argument('--q', '-q', action='store_true', dest='print_topic', help='Print metrics per topic.')
 
     args = parser.parse_args()
 
@@ -89,4 +84,6 @@ if __name__ == "__main__":
         percentage_judged /= max(1, len(run))
         print(f'judged_cut_{max_rank}\tall\t{percentage_judged:.4f}')
 
-    print('\nDone')
+
+if __name__ == "__main__":
+    main()

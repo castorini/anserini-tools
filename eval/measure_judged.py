@@ -30,7 +30,7 @@ def load_qrels(path: str) -> Dict[str, Set[str]]:
     with open(path) as f:
         for i, line in enumerate(f):
             line = ' '.join(line.split())
-            query_id, _, doc_id, relevance = line.rstrip().split(' ')
+            query_id, _, doc_id, relevance = line.rstrip().split()
             qrels[query_id].add(doc_id)
 
     return qrels
@@ -41,7 +41,7 @@ def load_run(path: str) -> Dict[str, List[str]]:
     run = collections.OrderedDict()
     with open(path) as f:
         for line in f:
-            query_id, _, doc_title, rank, _, _ = line.split(' ')
+            query_id, _, doc_title, rank, _, _ = line.split()
             if query_id not in run:
                 run[query_id] = []
             run[query_id].append((doc_title, int(rank)))

@@ -22,9 +22,6 @@ import collections
 
 def is_relevant(grade: int, threshold: int):
     return grade > threshold
-        return True
-    else:
-        return False
 
 
 def main():

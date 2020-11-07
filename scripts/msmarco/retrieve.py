@@ -18,9 +18,13 @@ import sys
 import argparse
 import time
 
+# We're going to explicitly use a local installation of Pyserini (as opposed to a pip-installed one).
+# Comment these lines out to use a pip-installed one instead.
 sys.path.insert(0, './')
+sys.path.insert(0, '../pyserini/')
 
 from pyserini.search import SimpleSearcher
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Retrieve MS MARCO Passages.')

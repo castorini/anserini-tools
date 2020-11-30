@@ -36,8 +36,8 @@ queries = args.queries
 qrels_trec = args.qrels_trec
 qrels_tsv = args.qrels_tsv
 
-if not os.path.exists(args.base):
-    os.makedirs(args.base)
+if not os.path.exists(base_directory):
+    os.makedirs(base_directory)
 
 print('# Settings')
 print(f'base directory: {base_directory}')

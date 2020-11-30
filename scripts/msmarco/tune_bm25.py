@@ -70,7 +70,7 @@ for filename in sorted(os.listdir(base_directory)):
 
     # Convert to a TREC run and evaluate with trec_eval:
     subprocess.call(f'python tools/scripts/msmarco/convert_msmarco_to_trec_run.py \
-        --input {base_directory}/{filename} --output {base}/{filename}.trec', shell=True)
+        --input {base_directory}/{filename} --output {base_directory}/{filename}.trec', shell=True)
     results = subprocess.check_output(['tools/eval/trec_eval.9.0.4/trec_eval', qrels_trec,
                                        f'{base_directory}/{filename}.trec', '-mrecall.1000', '-mmap'])
     match = re.search('map +\tall\t([0-9.]+)', results.decode('utf-8'))

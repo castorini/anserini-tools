@@ -22,7 +22,7 @@ import re
 import subprocess
 
 parser = argparse.ArgumentParser(description='Tunes BM25 parameters for MS MARCO Passages')
-parser.add_argument('--base', required=True, help='base directory for storing runs')
+parser.add_argument('--base-directory', required=True, help='base directory for storing runs')
 parser.add_argument('--index', required=True, help='index to use')
 parser.add_argument('--queries', required=True, help='queries for evaluation')
 parser.add_argument('--qrels-trec', required=True, help='qrels for evaluation (TREC format)')
@@ -30,7 +30,7 @@ parser.add_argument('--qrels-tsv', required=True, help='qrels for evaluation (MS
 
 args = parser.parse_args()
 
-base = args.base
+base_directory = args.base_directory
 index = args.index
 queries = args.queries
 qrels_trec = args.qrels_trec
@@ -40,7 +40,7 @@ if not os.path.exists(args.base):
     os.makedirs(args.base)
 
 print('# Settings')
-print(f'base directory: {base}')
+print(f'base directory: {base_directory}')
 print(f'index: {index}')
 print(f'queries: {queries}')
 print(f'qrels (TREC): {qrels_trec}')
@@ -51,11 +51,11 @@ for k1 in [0.6, 0.7, 0.8, 0.9, 1.0, 1.1, 1.2]:
     for b in [0.5, 0.6, 0.7, 0.8, 0.9]:
         print(f'Trying... k1 = {k1}, b = {b}')
         filename = f'run.bm25.k1_{k1}.b_{b}.txt'
-        if os.path.isfile(f'{base}/{filename}'):
+        if os.path.isfile(f'{base_directory}/{filename}'):
             print('Run already exists, skipping!')
         else:
             subprocess.call(f'python tools/scripts/msmarco/retrieve.py --index {index} --queries {queries} \
-                --output {base}/{filename} --k1 {k1} --b {b} --hits 1000', shell=True)
+                --output {base_directory}/{filename} --k1 {k1} --b {b} --hits 1000', shell=True)
 
 print('\n\nStarting evaluation...')
 
@@ -63,16 +63,16 @@ print('\n\nStarting evaluation...')
 max_score = 0
 max_file = ''
 
-for filename in sorted(os.listdir(base)):
+for filename in sorted(os.listdir(base_directory)):
     # TREC output run file, perhaps left over from a previous tuning run: skip.
     if filename.endswith('trec'):
         continue
 
     # Convert to a TREC run and evaluate with trec_eval:
     subprocess.call(f'python tools/scripts/msmarco/convert_msmarco_to_trec_run.py \
-        --input {base}/{filename} --output {base}/{filename}.trec', shell=True)
+        --input {base_directory}/{filename} --output {base}/{filename}.trec', shell=True)
     results = subprocess.check_output(['tools/eval/trec_eval.9.0.4/trec_eval', qrels_trec,
-                                       f'{base}/{filename}.trec', '-mrecall.1000', '-mmap'])
+                                       f'{base_directory}/{filename}.trec', '-mrecall.1000', '-mmap'])
     match = re.search('map +\tall\t([0-9.]+)', results.decode('utf-8'))
     ap = float(match.group(1))
     match = re.search('recall_1000 +\tall\t([0-9.]+)', results.decode('utf-8'))
@@ -81,7 +81,7 @@ for filename in sorted(os.listdir(base)):
     # Evaluate with official scoring script
     results = subprocess.check_output(['python', 'tools/scripts/msmarco/msmarco_eval.py',
                                        'collections/msmarco-passage/qrels.train.tsv',
-                                       f'{base}/{filename}'])
+                                       f'{base_directory}/{filename}'])
     match = re.search(r'MRR @10: ([\d.]+)', results.decode('utf-8'))
     rr = float(match.group(1))
     print(f'{filename}: MRR@10 = {rr}, MAP = {ap}, R@1000 = {recall}')

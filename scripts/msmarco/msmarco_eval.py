@@ -7,6 +7,7 @@ Creation Date : 06/12/2018
 Last Modified : 1/21/2019
 Authors : Daniel Campos <dacamp@microsoft.com>, Rutger van Haasteren <ruvanh@microsoft.com>
 """
+import re
 import sys
 import statistics
 
@@ -22,7 +23,7 @@ def load_reference_from_stream(f):
     qids_to_relevant_passageids = {}
     for l in f:
         try:
-            l = l.strip().split('\t')
+            l = re.split('[\t\s]', l.strip())
             qid = int(l[0])
             if qid in qids_to_relevant_passageids:
                 pass

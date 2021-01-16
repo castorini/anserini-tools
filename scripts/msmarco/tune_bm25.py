@@ -79,7 +79,7 @@ for filename in sorted(os.listdir(base_directory)):
     recall = float(match.group(1))
 
     # Evaluate with official scoring script
-    results = subprocess.check_output(['python', 'tools/scripts/msmarco/msmarco_eval.py',
+    results = subprocess.check_output(['python', 'tools/scripts/msmarco/msmarco_passage_eval.py',
                                        'collections/msmarco-passage/qrels.train.tsv',
                                        f'{base_directory}/{filename}'])
     match = re.search(r'MRR @10: ([\d.]+)', results.decode('utf-8'))

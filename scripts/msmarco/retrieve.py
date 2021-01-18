@@ -14,6 +14,10 @@
 # limitations under the License.
 #
 
+# IMPORTANT NOTE: As of January 2021, this script is *DEFUNCT*.
+# That is, you *SHOULDN'T* be using it anymore.
+# For "standard" batch retrieval runs on MS MARCO, use 'python -m pyserini.search ...'.
+
 import sys
 import argparse
 import time
@@ -27,6 +31,8 @@ from pyserini.search import SimpleSearcher
 
 
 if __name__ == '__main__':
+    print(f'WARNING: this script is defunct. Use python -m pyserini.search instead.')
+
     parser = argparse.ArgumentParser(description='Retrieve MS MARCO Passages.')
     parser.add_argument('--queries', required=True, default='', help='Queries file.')
     parser.add_argument('--output', required=True, default='', help='Output run file.')

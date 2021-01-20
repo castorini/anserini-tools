@@ -24,7 +24,7 @@ def convert_collection(args):
     file_index = 0
     with open(args.collection_path, encoding='utf-8') as f:
         for i, line in enumerate(f):
-            doc_id, doc_text = line.rstrip().split('\t')
+            id, url, title, body = line.split('\t')
 
             if i % args.max_docs_per_file == 0:
                 if i > 0:
@@ -32,7 +32,7 @@ def convert_collection(args):
                 output_path = os.path.join(args.output_folder, 'docs{:02d}.json'.format(file_index))
                 output_jsonl_file = open(output_path, 'w', encoding='utf-8', newline='\n')
                 file_index += 1
-            output_dict = {'id': doc_id, 'contents': doc_text}
+            output_dict = {'id': id, 'url': url, 'title': title, 'contents': body}
             output_jsonl_file.write(json.dumps(output_dict) + '\n')
 
             if i % 100000 == 0:
@@ -42,7 +42,7 @@ def convert_collection(args):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Convert MSMARCO tsv passage collection into jsonl files for Anserini.')
+    parser = argparse.ArgumentParser(description='Convert MSMARCO tsv document collection into jsonl files for Anserini.')
     parser.add_argument('--collection-path', required=True, help='Path to MS MARCO tsv collection.')
     parser.add_argument('--output-folder', required=True, help='Output folder.')
     parser.add_argument('--max-docs-per-file', default=1000000, type=int,

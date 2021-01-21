@@ -43,8 +43,8 @@ def convert_collection(args):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Convert MSMARCO tsv passage collection into jsonl files for Anserini.')
-    parser.add_argument('--collection-path', required=True, help='Path to MS MARCO tsv collection.')
+    parser = argparse.ArgumentParser(description='Convert DPR tsv passage collection into jsonl files for Anserini.')
+    parser.add_argument('--collection-path', required=True, help='Path to DPR tsv collection.')
     parser.add_argument('--output-folder', required=True, help='Output folder.')
     parser.add_argument('--max-docs-per-file', default=1000000, type=int,
                         help='Maximum number of documents in each jsonl file.')

@@ -238,7 +238,7 @@ def has_answers(text, answers, tokenizer, regex=False):
     return False
 
 
-def evaluate(retrieval_file, topk, regex=False):
+def evaluate_retrieval(retrieval_file, topk, regex=False):
     tokenizer = SimpleTokenizer()
     retrieval = json.load(open(retrieval_file))
     accuracy = []
@@ -265,4 +265,4 @@ if __name__ == '__main__':
     parser.add_argument('--regex', action='store_true', default=False, help="regex match")
     args = parser.parse_args()
 
-    evaluate(args.retrieval, args.topk, args.regex)
+    evaluate_retrieval(args.retrieval, args.topk, args.regex)

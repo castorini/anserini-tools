@@ -238,23 +238,23 @@ def has_answers(text, answers, tokenizer, regex=False):
     return False
 
 
-def evaluate(args):
+def evaluate(retrieval_file, topk, regex=False):
     tokenizer = SimpleTokenizer()
-    retrieval = json.load(open(args.retrieval))
+    retrieval = json.load(open(retrieval_file))
     accuracy = []
     for qid in tqdm(list(retrieval.keys())):
         answers = retrieval[qid]['answers']
         contexts = retrieval[qid]['contexts']
         has_ans = 0
         for idx, ctx in enumerate(contexts):
-            if idx >= args.topk:
+            if idx >= topk:
                 break
             text = ctx['text'].split('\n')[1]  # [0] is title, [1] is text
-            if has_answers(text, answers, tokenizer, args.regex):
+            if has_answers(text, answers, tokenizer, regex):
                 has_ans = 1
         accuracy.append(has_ans)
 
-    print(f'Top{args.topk}\taccuracy: {np.mean(accuracy)}')
+    print(f'Top{topk}\taccuracy: {np.mean(accuracy)}')
 
 
 if __name__ == '__main__':
@@ -265,4 +265,4 @@ if __name__ == '__main__':
     parser.add_argument('--regex', action='store_true', default=False, help="regex match")
     args = parser.parse_args()
 
-    evaluate(args)
+    evaluate(args.retrieval, args.topk, args.regex)

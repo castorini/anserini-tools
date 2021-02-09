@@ -241,27 +241,34 @@ def has_answers(text, answers, tokenizer, regex=False):
 def evaluate_retrieval(retrieval_file, topk, regex=False):
     tokenizer = SimpleTokenizer()
     retrieval = json.load(open(retrieval_file))
-    accuracy = []
+    accuracy = { k : [] for k in topk }
+    max_k = max(topk)
+
     for qid in tqdm(list(retrieval.keys())):
         answers = retrieval[qid]['answers']
         contexts = retrieval[qid]['contexts']
-        has_ans = 0
+        has_ans_idx = max_k  # first index in contexts that has answers
+
         for idx, ctx in enumerate(contexts):
-            if idx >= topk:
+            if idx >= max_k:
                 break
             text = ctx['text'].split('\n')[1]  # [0] is title, [1] is text
             if has_answers(text, answers, tokenizer, regex):
-                has_ans = 1
-        accuracy.append(has_ans)
+                has_ans_idx = idx
+                break
 
-    print(f'Top{topk}\taccuracy: {np.mean(accuracy)}')
+        for k in topk:
+            accuracy[k].append(0 if has_ans_idx >= k else 1)
+
+    for k in topk:
+        print(f'Top{k}\taccuracy: {np.mean(accuracy[k])}')
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--retrieval', type=str, metavar='path',
                         help="Path to retrieval output file.")
-    parser.add_argument('--topk', type=int, help="topk to evaluate")
+    parser.add_argument('--topk', type=int, nargs='+', help="topk to evaluate")
     parser.add_argument('--regex', action='store_true', default=False, help="regex match")
     args = parser.parse_args()
 

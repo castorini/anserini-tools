@@ -64,11 +64,17 @@ def main():
     parser.add_argument('--cutoffs', metavar='N', nargs='+', type=int, default=[10, 100, 1000],
                         help='Space-separate list of cutoffs, e.g., --cutoffs 10 100 1000.')
     parser.add_argument('--q', '-q', action='store_true', dest='print_topic', help='Print metrics per topic.')
+    parser.add_argument('--topics-in-qrels-only', action='store_true', help='Ignore unlisted topicIds in qrels')
 
     args = parser.parse_args()
 
     qrels = load_qrels(args.qrels)
     run = load_run(args.run)
+
+    # Filters out topicIds from the run that are not in the qrels
+    if args.topics_in_qrels_only:
+        run = {key: value for key, value in run.items() if key in qrels}
+
 
     for max_rank in args.cutoffs:
         percentage_judged = 0

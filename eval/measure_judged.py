@@ -49,7 +49,7 @@ def load_run(path: str) -> Dict[str, List[str]]:
     # Sort candidate docs by rank.
     sorted_run = collections.OrderedDict()
     for query_id, doc_titles_ranks in run.items():
-        doc_titles_ranks.sort(key=lambda x: x[1])
+        sorted(doc_titles_ranks, key=lambda x: x[1])
         doc_titles = [doc_titles for doc_titles, _ in doc_titles_ranks]
         sorted_run[query_id] = doc_titles
 
@@ -64,11 +64,19 @@ def main():
     parser.add_argument('--cutoffs', metavar='N', nargs='+', type=int, default=[10, 100, 1000],
                         help='Space-separate list of cutoffs, e.g., --cutoffs 10 100 1000.')
     parser.add_argument('--q', '-q', action='store_true', dest='print_topic', help='Print metrics per topic.')
+    parser.add_argument('--topics-in-qrels-only', dest='valid_topics', action='store_true', help='Ignore unlisted topicIds in qrels')
 
     args = parser.parse_args()
 
     qrels = load_qrels(args.qrels)
     run = load_run(args.run)
+
+    # Filters out topicIds from the run that are not in the qrels
+    if args.valid_topics:
+        for key in list(run.keys()):
+            if key not in qrels.keys():
+                del run[key]
+
 
     for max_rank in args.cutoffs:
         percentage_judged = 0

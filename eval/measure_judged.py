@@ -62,7 +62,7 @@ def main():
     parser.add_argument('--qrels', metavar='FILE', type=str, required=True, help='Qrels file.')
     parser.add_argument('--run', metavar='FILE', type=str, required=True, help='Run file.')
     parser.add_argument('--cutoffs', metavar='N', nargs='+', type=int, default=[10, 100, 1000],
-                        help='Space-separate list of cutoffs, e.g., --cutoffs 10 100 1000.')
+                        help='Space-separated list of cutoffs, e.g., --cutoffs 10 100 1000.')
     parser.add_argument('--q', '-q', action='store_true', dest='print_topic', help='Print metrics per topic.')
     parser.add_argument('--topics-in-qrels-only', action='store_true', help='Ignore unlisted topicIds in qrels')
 

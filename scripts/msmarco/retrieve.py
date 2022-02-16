@@ -31,7 +31,7 @@ from pyserini.search.lucene import LuceneSearcher
 
 
 if __name__ == '__main__':
-    print(f'WARNING: this script is defunct. Use python -m pyserini.search instead.')
+    print(f'WARNING: this script is defunct. Use python -m pyserini.search.lucene instead.')
 
     parser = argparse.ArgumentParser(description='Retrieve MS MARCO Passages.')
     parser.add_argument('--queries', required=True, default='', help='Queries file.')

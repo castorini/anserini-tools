@@ -27,7 +27,7 @@ import time
 sys.path.insert(0, './')
 sys.path.insert(0, '../pyserini/')
 
-from pyserini.search import SimpleSearcher
+from pyserini.search import LuceneSearcher
 
 
 if __name__ == '__main__':
@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
     total_start_time = time.time()
 
-    searcher = SimpleSearcher(args.index)
+    searcher = LuceneSearcher(args.index)
     searcher.set_bm25(args.k1, args.b)
     print(f'Initializing BM25, setting k1={args.k1} and b={args.b}', flush=True)
     if args.rm3:

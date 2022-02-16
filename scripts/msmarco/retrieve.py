@@ -27,11 +27,11 @@ import time
 sys.path.insert(0, './')
 sys.path.insert(0, '../pyserini/')
 
-from pyserini.search import SimpleSearcher
+from pyserini.search.lucene import LuceneSearcher
 
 
 if __name__ == '__main__':
-    print(f'WARNING: this script is defunct. Use python -m pyserini.search instead.')
+    print(f'WARNING: this script is defunct. Use python -m pyserini.search.lucene instead.')
 
     parser = argparse.ArgumentParser(description='Retrieve MS MARCO Passages.')
     parser.add_argument('--queries', required=True, default='', help='Queries file.')
@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
     total_start_time = time.time()
 
-    searcher = SimpleSearcher(args.index)
+    searcher = LuceneSearcher(args.index)
     searcher.set_bm25(args.k1, args.b)
     print(f'Initializing BM25, setting k1={args.k1} and b={args.b}', flush=True)
     if args.rm3:

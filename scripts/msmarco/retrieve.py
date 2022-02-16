@@ -27,7 +27,7 @@ import time
 sys.path.insert(0, './')
 sys.path.insert(0, '../pyserini/')
 
-from pyserini.search import LuceneSearcher
+from pyserini.search.lucene import LuceneSearcher
 
 
 if __name__ == '__main__':

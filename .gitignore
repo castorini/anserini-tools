@@ -1,2 +1,8 @@
 eval/ndeval/ndeval
 eval/trec_eval.9.0.4/
+
+# Not public yet
+qrels.dl22-passage.txt
+qrels.neuclir22-fa.txt
+qrels.neuclir22-ru.txt
+qrels.neuclir22-zh.txt

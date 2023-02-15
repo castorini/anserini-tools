@@ -36,7 +36,7 @@ if __name__ == '__main__':
         last_doc_id = ''
         n_docs = 0
         for line in open(args.input):
-            query_id, _, doc_id, rank, score, _ = line.strip().split(' ')
+            query_id, _, doc_id, rank, score, _ = line.strip().split()
             rank = int(rank)
             score = float(score)
             if query_id != last_query_id:

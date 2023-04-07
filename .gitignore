@@ -4,13 +4,6 @@
 eval/ndeval/ndeval
 eval/trec_eval.9.0.4/
 
-# Not public yet
-qrels.dl22*
-qrels.neuclir22*
-
-# Too big to check in, must download separately
-topics-and-qrels/msmarco-v2-passage-neardupes.txt.gz
-
 # MIRACL training set not public
 qrels.miracl-v1.0-*-train.tsv
 topics.miracl-v1.0-*-train.tsv

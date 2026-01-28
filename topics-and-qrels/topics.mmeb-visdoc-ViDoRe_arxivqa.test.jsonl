@@ -1,0 +1,500 @@
+{"qid":"0","query":"Based on the graph, what is the impact of correcting for fspec not equal to 1 on the surface density trend?"}
+{"qid":"1","query":"Based on the progression from JUL10 to FEB11Q, what trend can be observed in the thread participation?"}
+{"qid":"2","query":"What physical phenomenon could the pattern of lines on the right side of the figure represent?"}
+{"qid":"3","query":"What is the approximate uv-distance where the measured real component starts to significantly deviate from the models shown?"}
+{"qid":"4","query":"In which subfigures does the average arrival flux (<v>) appear to have a direct relationship with betweenness?"}
+{"qid":"5","query":"Based on the figure, how does changing the parameter V from 0.1 to 0.2 affect the system's transition to disorder for N=200?"}
+{"qid":"6","query":"What is the main variable being analyzed on the x-axis of these graphs?"}
+{"qid":"7","query":"Based on the graph, how does the von Neumann entropy of the Hawking radiation (\\( S^{HR}_{vN} \\)) behave as the parameter \\( \\Omega_0 \\) increases after \\( \\Omega_{Page} \\)?"}
+{"qid":"8","query":"What does the figure primarily illustrate?"}
+{"qid":"9","query":"What role does asymmetrical feedback play in the context of Figure C?"}
+{"qid":"10","query":"Based on the figure, which statement is true about the relationship between \\( (K')^T \\) and \\( V \\)?"}
+{"qid":"11","query":"What can be inferred about the relationship between \\( \\delta(T) \\) and r from the rightmost graph?"}
+{"qid":"12","query":"What feature of the graph allows for the comparison of different \\(\\eta\\) values?"}
+{"qid":"13","query":"What inputs does the Monocular Reconstruction process require to generate an expression in the given system?"}
+{"qid":"14","query":"Which of the following best describes the behavior of the solid line function as E approaches 10?"}
+{"qid":"15","query":"What does the trend of \\( Q_e / Q^{TM}_{lb} \\) indicate about the system performance over the iterations?"}
+{"qid":"16","query":"If 'S' represents species richness, what can be deduced about the biodiversity of the ecosystem as 'S' increases?"}
+{"qid":"17","query":"If the variable on the x-axis represents time, what can be inferred about the rate of change of the parameter over time?"}
+{"qid":"18","query":"Based on the diagram, what is a possible consequence of the 'Network Down' state for the network's performance?"}
+{"qid":"19","query":"Based on the magnetic hysteresis loops presented, what can be inferred about the anisotropy of the CoO/Pt multilayers?"}
+{"qid":"20","query":"What does the method described in section c) \"force matching without forces (this method)\" primarily eliminate in the process of force matching?"}
+{"qid":"21","query":"What does the black sphere with an arrow represent in these diagrams?"}
+{"qid":"22","query":"What type of data visualization is depicted in the image?"}
+{"qid":"23","query":"What is the approximate Z_i score for the lowest ranked motif in Figure C?"}
+{"qid":"24","query":"What does the graph suggest about the performance of NS algorithm as compared to the OPT algorithm in terms of secrecy capacity at SNR = 20 dB for K=10?"}
+{"qid":"25","query":"What does the figure suggest is the relationship between the scene graph mapping (HGM) and the encoders (G^x_Enc and G^y_Enc)?"}
+{"qid":"26","query":"Based on the scatter plot, what is the approximate range of \\(\\Delta E/E_R\\) values when \\(\\phi\\) is between 0 and \\( \\pi/2 \\)?"}
+{"qid":"27","query":"If \\( \\tau_1 / r_0 \\) represents a time scale in the evolution of the Schwarzschild-AdS black hole, what does the graph suggest about \\( r_h / r_0 \\) at this time scale compared to \\( \\tau_c / r_0 \\)?"}
+{"qid":"28","query":"Based on the RadQA context, which cervical spine levels show the most severe degenerative changes?"}
+{"qid":"29","query":"Based on the progression from the initial state to Setup (E), what can be inferred about the magnetic field's behavior over time?"}
+{"qid":"30","query":"At what approximate x-axis value does the purple diamond dataset begin to level off?"}
+{"qid":"31","query":"What does the dashed line represent in this layered network diagram?"}
+{"qid":"32","query":"What is the significance of the two different sizes mentioned in figure (c)?"}
+{"qid":"33","query":"What is the value of \\( k \\) at the point where \\( P_f \\) starts to increase in Figure a?"}
+{"qid":"34","query":"For which dataset is the most likely number of communities greater than 10?"}
+{"qid":"35","query":"What does the dashed red line in the figure represent?"}
+{"qid":"36","query":"According to the diagram, which component is NOT part of the scalable and efficient execution with Region Templates?"}
+{"qid":"37","query":"Compared to figures a2 and b2, what is unique about the bending stiffness in figure c2?"}
+{"qid":"38","query":"Based on the data, what can be inferred about the relationship between \\( t_{L0} \\) and \\( L \\) for different radii of the coil?"}
+{"qid":"39","query":"What does the intersection point of all three wave functions (2s, 1p, and 1d) closest to r = 0 indicate about their behavior?"}
+{"qid":"40","query":"What is the primary visual focus indicated by the red arrows in the majority of the frames?"}
+{"qid":"41","query":"What does the intersection of the two trend lines on the graph indicate?"}
+{"qid":"42","query":"What does the term \\( d^{lim} \\) in the figure most likely represent?"}
+{"qid":"43","query":"Which equation provides a closer fit to the simulation results based on the figure?"}
+{"qid":"44","query":"What can be inferred about the variable \\( \\phi \\) as \\( t\\omega_r \\) increases beyond the range shown in the graph?"}
+{"qid":"45","query":"In the depicted model architecture, what is the primary role of the \"Layerwise Generator\" component?"}
+{"qid":"46","query":"Based on the data presented in panel d), what is the trend of channel width as the applied magnetic field increases?"}
+{"qid":"47","query":"What is the purpose of the voxel norm and global norm in the pre-training and fine-tuning processes depicted in the figure?"}
+{"qid":"48","query":"What does the slope of the line in figure (b) approximately indicate?"}
+{"qid":"49","query":"Based on the graph, how does \\( N' \\) (in thousands) relate to \\( N_0^{2/5} \\) for \\( N_0^{2/5} < 80 \\)?"}
+{"qid":"50","query":"What does the solid red line represent in the figure?"}
+{"qid":"51","query":"Which family has a consistent performance close to 100% across both Compound and QBFEval'20 benchmarks?"}
+{"qid":"52","query":"Based on the vector fields shown in the bottom portion of the figure, what characteristic changes from panel A to panel D?"}
+{"qid":"53","query":"Based on the trends in panel (a), what can be inferred about the behavior of noise power as frequency approaches zero?"}
+{"qid":"54","query":"Which molecule is at the center of the depicted biochemical process?"}
+{"qid":"55","query":"Based on the diagram in section (b), which concept is being visually represented through the connections in the coordinate space?"}
+{"qid":"56","query":"Based on the behavior of the functions in the figure, what is a likely physical context of the graphs?"}
+{"qid":"57","query":"As per the figure, what is the relationship between the primary energy of cosmic rays and the signal-to-noise ratio (SNR) at a fixed count rate?"}
+{"qid":"58","query":"At what total utilization does the proposed algorithm begin to diverge significantly from the exhaustive search in terms of the percentage of schedulable task sets?"}
+{"qid":"59","query":"Which figure shows a signal that might be characteristic of intermittent interference or breaks in transmission?"}
+{"qid":"60","query":"What is the relationship between the elements labeled 'x' and 'y' on the left side of the figure and the elements 'a', 'b', 'c' on the right side of the figure?"}
+{"qid":"61","query":"In the model architecture presented, what is the function of the 'Attention-Based Relationship Reasoning'?"}
+{"qid":"62","query":"In Figure (b), which process shows the least variation in the coefficient of performance \\( \\varepsilon \\) over the entire range of τ?"}
+{"qid":"63","query":"At what approximate oxygen coverage does the energy difference (E) between ferromagnetic (FM) and antiferromagnetic (AF) structures reach its maximum based on the trends shown?"}
+{"qid":"64","query":"Based on the figure, what can be inferred about the location of the observed subject?"}
+{"qid":"65","query":"Based on the graph, after how many years does the concentration for α = 0.2 fall below 1 mg/L?"}
+{"qid":"66","query":"What might the purpose of the white silhouette against the black background be?"}
+{"qid":"67","query":"At approximately what value of z does the data indicate that the halo mass \\( M_{cut} \\) (fit b\\_ln) surpasses \\( 10^{13} \\ h^{-1}M_{\\odot} \\)?"}
+{"qid":"68","query":"What does the graph indicate about the relationship between \\( \\langle r(t) \\rangle \\) and time (t) during steady-state conditions?"}
+{"qid":"69","query":"What is the role of 'SCAI-DM' in the depicted workflow?"}
+{"qid":"70","query":"Based on the color coding in the figure, which range of radio detection fraction is most common for the lowest photometric rms values?"}
+{"qid":"71","query":"According to the figure, what distinguishes the Unfolded RED (U-RED) depicted in part (b) from the SGD-Net in part (a)?"}
+{"qid":"72","query":"What do the dotted lines across the \\( y_l(u) \\) curve represent?"}
+{"qid":"73","query":"Based on the diagram, which element directly influences the output \\( \\psi_t \\)?"}
+{"qid":"74","query":"What does the figure suggest about the relationship between frequency and the variable S?"}
+{"qid":"75","query":"What does the divergence of lines after Jt = 2 suggest about the system's behavior in figure (b)?"}
+{"qid":"76","query":"Based on the angles shown, what range of angles does the X-ray source move through during the imaging process?"}
+{"qid":"77","query":"How does the time evolution of the wave function's probability density in figure (f) compare to that in figure (c)?"}
+{"qid":"78","query":"The cells in figure c are most consistent with which of the following stages of erythropoiesis?"}
+{"qid":"79","query":"At approximately what energy does the peak of the S(E) occur according to the graph?"}
+{"qid":"80","query":"What does the dashed horizontal line at g-r = 0.6 represent in this scatter plot?"}
+{"qid":"81","query":"Which point is likely to have the smallest radius circle if the circles represent distances from the respective points to the query point?"}
+{"qid":"82","query":"As x increases from 0 to 0.15, what trend is observable in the figure for both DMRG and MA methods?"}
+{"qid":"83","query":"Which simulation data set shows a trend of alignment angles clustering around both 60° and -60°?"}
+{"qid":"84","query":"What can be inferred about the trend of the measured variable after January 16th?"}
+{"qid":"85","query":"Based on the inset graphs, what is the characteristic behavior of the transition percentage with respect to velocity?"}
+{"qid":"86","query":"What does the graph suggest about the performance of Attribute SBM and Regular SBM as the Pin/Pout ratio increases?"}
+{"qid":"87","query":"Which qubit configuration shows the greatest decline in reward value by the end of 1600 measurement steps?"}
+{"qid":"88","query":"What is the significance of the blue polyhedra in figure (c)?"}
+{"qid":"89","query":"What does the progression of stages 1 to 3 in the LSM likely illustrate?"}
+{"qid":"90","query":"What is the result of the operation between X_S and X_A according to figure a)?"}
+{"qid":"91","query":"What can be inferred about the system's behavior during the 'Initial transient' phase as opposed to the 'Periodic regime'?"}
+{"qid":"92","query":"In the context of this diagram, what does the process of backpropagation achieve?"}
+{"qid":"93","query":"Based on the graph, how does the value of \\( 10^6x_{30} \\) change with an increase in \\( 10^6x_{29} \\)?"}
+{"qid":"94","query":"What does the red spiral in the figure represent in relation to the perihelion distance \\( q \\) and inclination \\( i \\)?"}
+{"qid":"95","query":"Which function family shows a decreasing trend after \\( r = 10^1 \\)?"}
+{"qid":"96","query":"In the context of the figure, what does the transition from the \"Virgin configuration\" to the \"Reference configuration\" likely represent?"}
+{"qid":"97","query":"What pattern can be discerned from the heatmap in Figure C regarding the page ranks of historical figures on Wikipedia across different centuries?"}
+{"qid":"98","query":"Based on figure (e), what can be inferred about the use of 'Nano D RF Connectors'?"}
+{"qid":"99","query":"What can be inferred about the stability of the coefficients over time when comparing the plots in figures A and E?"}
+{"qid":"100","query":"What is the purpose of the buffers in this diagram?"}
+{"qid":"101","query":"What trend is observed in the density of states (DOS) peaks as the number \\( N \\) of particles increases?"}
+{"qid":"102","query":"What is the primary difference between the standard pre-training and the proposed pre-training method as illustrated in the figure?"}
+{"qid":"103","query":"Based on figure (b), which statement is true regarding the relationship between FT1 and FT2?"}
+{"qid":"104","query":"According to the data presented in figure a, which dimension showed the greatest difference in scoring between the \"Arhat\" and \"Gold Mask\" conditions?"}
+{"qid":"105","query":"Based on the geometry shown in figure (a), what does the blue rhombus most likely represent?"}
+{"qid":"106","query":"Which band exhibits a clear bandgap in panel (b)?"}
+{"qid":"107","query":"What does the intersection of lines labeled \\( E_1, E_2, E_3, \\) and \\( E_4 \\) represent in this space-time diagram?"}
+{"qid":"108","query":"Which statement best describes the approximation's accuracy compared to the exact values?"}
+{"qid":"109","query":"What is the trend of the temperature as a function of redshift z as shown in the graph?"}
+{"qid":"110","query":"Based on the phase space plots in figure (b), what can be inferred about the state of the system at point 2?"}
+{"qid":"111","query":"In the experiment results shown, which graph represents the frequency response of the AlN-on-sapphire device?"}
+{"qid":"112","query":"What does the y-axis represent in the given figure?"}
+{"qid":"113","query":"What does the graph suggest about the relationship between \\( e(Nw) \\) and \\( Nw \\)?"}
+{"qid":"114","query":"Which statement is true based on the relationship between the ensemble gap and individual classifier gap in the CIFAR 10 ensemble models?"}
+{"qid":"115","query":"What does the graph suggest about the scaling of different operators in the large-N limit?"}
+{"qid":"116","query":"Based on the trends shown in the figure, what can be inferred about the behavior of \\( n(k) \\) as \\( k/k_F^0 \\) increases?"}
+{"qid":"117","query":"If the colors in the image represent different categories, what can be inferred about the category represented by the color cyan?"}
+{"qid":"118","query":"What can be inferred about the physical property represented in the figure as moving from the outer edges towards the center?"}
+{"qid":"119","query":"What does the black area labeled 'q' in figure (a) most likely represent?"}
+{"qid":"120","query":"What trend can be observed as the parameter γ2 increases from 0.0 to 1.0 in the graph?"}
+{"qid":"121","query":"What does the 'seed assembly' section in the diagram most likely represent?"}
+{"qid":"122","query":"In Figure (a), what does the transition from \"Hegemonic Consensus\" to \"Segregated Consensus\" as α increases indicate?"}
+{"qid":"123","query":"Based on the trend line overlaid on the data, what can be inferred about the relationship between I magnitude and V-I color?"}
+{"qid":"124","query":"If the trend of the \"UPPER LIMIT\" curve continues beyond redshift z of 2, which of the following is a reasonable prediction?"}
+{"qid":"125","query":"What does the concept of \"Few Bodyness\" in the figure indicate?"}
+{"qid":"126","query":"What interaction is represented by the solid blue line in Figure (a)?"}
+{"qid":"127","query":"Based on the trend in the graph, which method has shown a greater degree of uncertainty in the measurement of the Hubble constant over the years?"}
+{"qid":"128","query":"In figure (b), the \"Vg\" stands for which of the following in the context of the Quantum Dot Analogue?"}
+{"qid":"129","query":"What does the color scale in panel (b) represent?"}
+{"qid":"130","query":"How is the 'smallest loss' determined in Mechanism 1?"}
+{"qid":"131","query":"What function do the \"R_series\" components in the \"warm(er) electronics\" section likely serve in this circuit?"}
+{"qid":"132","query":"Based on the figure, at which values of θ does the probability density appear to be the lowest?"}
+{"qid":"133","query":"What does Δt in figure (a) represent?"}
+{"qid":"134","query":"Based on the figure, which statement is true regarding the direction of wave propagation?"}
+{"qid":"135","query":"Based on the figure, which statement is accurate regarding the parcellation and time course extraction step in fMRI analysis?"}
+{"qid":"136","query":"What time of day does the scene depicted in figure (a) most likely represent?"}
+{"qid":"137","query":"What conclusion can be drawn about the noise level in the z-direction compared to the x-direction from the sensitivity graph in figure B?"}
+{"qid":"138","query":"What trend is depicted by the solid lines in the top graph?"}
+{"qid":"139","query":"What pattern can be observed when comparing the distribution of points in sections a) and d)?"}
+{"qid":"140","query":"Based on the figure, what is the relationship between \\( u(t) \\) and \\( \\lambda(t) \\)?"}
+{"qid":"141","query":"What does the left side of the diagram indicate in terms of experimental results?"}
+{"qid":"142","query":"Which process is depicted in part C of the figure?"}
+{"qid":"143","query":"Which technique displays the greatest reduction in 'Time (s)' when analyzed with HURDAT data according to the lower graph?"}
+{"qid":"144","query":"Based on the energy levels represented in the figure, which oxygen isotope has the highest energy level for the ground state?"}
+{"qid":"145","query":"Which statement best describes the trend observed as λ increases from 0.1 to 0.7?"}
+{"qid":"146","query":"What can be inferred about the state \\( \\varepsilon_{\\alpha_1} \\) in comparison to \\( \\varepsilon_{\\alpha_2} \\)?"}
+{"qid":"147","query":"What does the red curve in both graphs represent?"}
+{"qid":"148","query":"Based on the figure, which model performs best under the \"Extreme low-shot regime\" in terms of robustness and validation accuracy?"}
+{"qid":"149","query":"What does the evolution of the density profiles over time suggest about the system's behavior?"}
+{"qid":"150","query":"Which array configuration demonstrates the highest variability in spectral efficiency as the aperture increases?"}
+{"qid":"151","query":"Based on the temperature-dependent photoluminescence (PL) spectra shown in the figure, which transition peak consistently appears across different materials and temperatures?"}
+{"qid":"152","query":"In figure (a), which curve represents the highest efficiency at an average output number of photons \\(\\bar{n}\\) of 10?"}
+{"qid":"153","query":"What trend can be observed when the temperature increases for the ethylene glycol-glycerol mixture at a DASPI concentration of 0.01 mM?"}
+{"qid":"154","query":"What is the primary purpose of the Attention Module in this neural network model?"}
+{"qid":"155","query":"What variable is being kept constant in all three simulations presented in the figures?"}
+{"qid":"156","query":"Considering the Adjacent NK-Landscape problem, which approach requires the smallest minimally required population size across all time distributions in the steady-state model?"}
+{"qid":"157","query":"Which city shows a combined coverage probability for O2 and Vodafone that is more consistent across different methods?"}
+{"qid":"158","query":"By examining figure (c), what can be inferred about the crystal structure's symmetry?"}
+{"qid":"159","query":"Based on the trends shown in graph 'B', which physical quantity is being measured, and how is it behaving over the observed period?"}
+{"qid":"160","query":"What can be inferred about the consistency of the data across the different methodologies used in the graphs?"}
+{"qid":"161","query":"In the process shown, which step involves the use of confidence levels to refine labels?"}
+{"qid":"162","query":"Based on the top graph, what can be inferred about the performance of MF5 box15 compared to SP box15 at a separation of 1 arcsec?"}
+{"qid":"163","query":"What does the symbol 'ℓ' represent in figure (b)?"}
+{"qid":"164","query":"Based on the trend of the F1-measure for the test set (validation not allowed), what can be inferred about the model's performance as more training data is used?"}
+{"qid":"165","query":"Based on subplot (c), what can be inferred about the relationship between the dimensionless quantity (t^0.21) and time?"}
+{"qid":"166","query":"What does the symbol \\( \\chi_0 \\) in the figure represent?"}
+{"qid":"167","query":"Based on the figure, what does \"+J\" and \"-J\" signify in the master equation system?"}
+{"qid":"168","query":"What does the red dashed line with square markers in the graph most likely represent?"}
+{"qid":"169","query":"What does the contour plot within the image most likely represent?"}
+{"qid":"170","query":"Based on the progression from A to C, what does the blue square in component B likely indicate?"}
+{"qid":"171","query":"Based on the progression from Step 1 to Step 100, what can be inferred about the data points' distribution for each category?"}
+{"qid":"172","query":"In figure (b), what does the parameter 'r' likely represent in the context of the branching structure?"}
+{"qid":"173","query":"What feature of the complex energy spectrum can be inferred from figures (b) and (e)?"}
+{"qid":"174","query":"What does the parameter 'd' denote in figure (a)?"}
+{"qid":"175","query":"What does the symbol 'I' in the diagram represent within the context of the system?"}
+{"qid":"176","query":"Based on the bottom figure, what can be concluded about the BAT Rate as a function of radius?"}
+{"qid":"177","query":"What conclusion can be drawn about the inner product distribution for the 'Sphere' from figure c)?"}
+{"qid":"178","query":"Based on the figure, what is the result of combining the CNN block output and the attention guide?"}
+{"qid":"179","query":"Based on figure (b), how does the response for A = Kc compare to A = Ks for Φ = 2?"}
+{"qid":"180","query":"What does \\( \\beta \\) likely symbolize in this figure?"}
+{"qid":"181","query":"What observation can be made about the attention distance of clean AIs when comparing clean, poisoned, and spurious inputs?"}
+{"qid":"182","query":"Based on the scatter of points in the figure, what can be inferred about the measurement precision in the central region?"}
+{"qid":"183","query":"At which threshold density (n_thr) does the cumulative fraction of emission reach 50%?"}
+{"qid":"184","query":"Assuming each point within the figures represents a data point from an experiment, which of the following statements is supported by the visual data?"}
+{"qid":"185","query":"What is the role of the coordinate \\( p \\) in the figure?"}
+{"qid":"186","query":"Which statement can be inferred about the consistency of grounding accuracy across different layers based on the figure?"}
+{"qid":"187","query":"Which of the following statements is supported by the figure 'a'?"}
+{"qid":"188","query":"What does \"M1\" most likely represent in this context?"}
+{"qid":"189","query":"Which assumption shows a decrease in the median value of False Positives (FP) as the Per-Family Error Rate (PFER) increases?"}
+{"qid":"190","query":"What trend does the magnitude response of the system exhibit as the frequency increases, according to Figure b?"}
+{"qid":"191","query":"What do the dashed lines in figure (b) most likely represent?"}
+{"qid":"192","query":"Approximately how many distinct levels can be observed in the \\( \\delta \\) variable in Figure (a)?"}
+{"qid":"193","query":"At what altitude is the HAPS platform operating according to the diagram?"}
+{"qid":"194","query":"What can be inferred about the regions labeled by \\( h_{w_{k-1}} \\) and \\( h_{w_k} \\) in Figure (c)?"}
+{"qid":"195","query":"What does panel (a) of the figure primarily illustrate?"}
+{"qid":"196","query":"If you were to extrapolate the trend observed in the graph, which of the following outcomes would be most likely at temperatures slightly above 3 K?"}
+{"qid":"197","query":"What does the value 'z' represent in the context of these images?"}
+{"qid":"198","query":"Based on the scale bars provided, what can be inferred about the experimental setup in figure (c)?"}
+{"qid":"199","query":"What does the point labeled 'b, d' on the graph in subfigure a) indicate about the system being studied?"}
+{"qid":"200","query":"What does the 'exponential moving average' in the figure refer to?"}
+{"qid":"201","query":"Based on figure (a), what is the full width at half maximum (FWHM) of the pulse at \\( Z = 105 \\) cm?"}
+{"qid":"202","query":"How are the phenomena depicted in the top figure studied in the facility shown in the bottom figure?"}
+{"qid":"203","query":"What does the \\(\\Delta V_f\\) in the figure represent?"}
+{"qid":"204","query":"What could this blue semi-circular shape indicate in a diagnostic imaging context?"}
+{"qid":"205","query":"What can be inferred about the performance of the system for the Lorenz model using different layers of correction?"}
+{"qid":"206","query":"Based on the figure, what can be inferred about the path of the ant?"}
+{"qid":"207","query":"Which state demonstrates the highest stability in the magnetic field strength over the temperature range shown?"}
+{"qid":"208","query":"What does the variable \\(\\theta_{ab}\\) in the figure most likely represent?"}
+{"qid":"209","query":"What type of quantum gate is prominently featured in the first step of the Ramsey-Sequence diagram (a)?"}
+{"qid":"210","query":"What do the images in figures (c), (d), and (e) represent in the context of the study?"}
+{"qid":"211","query":"In part (a) of the figure, what does the black dashed line represent when compared to the red square wave?"}
+{"qid":"212","query":"What does the highlighted portion of the signal in the figure most likely indicate?"}
+{"qid":"213","query":"Based on the figures, what can be inferred about the velocity distribution of the CO gas in these galaxies?"}
+{"qid":"214","query":"What is indicated by the red arrow and the list of words 'perched, sat, seated, hopped,...' in the figure?"}
+{"qid":"215","query":"What is the most likely field of study or context for the data presented in these graphs?"}
+{"qid":"216","query":"Based on the progression pattern in the question matrix, which of the following options correctly completes the sequence?"}
+{"qid":"217","query":"What does the color gradient in the large object on Figure A represent?"}
+{"qid":"218","query":"Which neural network architecture experiences the least increase in runtime when comparing the original with no activation functions?"}
+{"qid":"219","query":"Based on the graph, what can be inferred about the relationship between bulk concentration and adsorption mass density Γ_Ds?"}
+{"qid":"220","query":"What can be inferred about the state of the system at time t=20 in figure B?"}
+{"qid":"221","query":"What observational technique is used in Figure (g) to study the solar atmosphere?"}
+{"qid":"222","query":"Based on figure (a), what can be inferred about the relationship between the experimental data (orange crosses) and the theoretical model (black line)?"}
+{"qid":"223","query":"What can be inferred about the frequency of state transitions between n-1, n, and n+1?"}
+{"qid":"224","query":"Based on the diagram, what is the purpose of the Behlke Push-Pull?"}
+{"qid":"225","query":"Assuming each figure represents a state in a dynamic process, what can be inferred about the rate of the process from A to C?"}
+{"qid":"226","query":"In Figure (a), which fluorescent marker is associated with the highest expression level of CD117+ cells?"}
+{"qid":"227","query":"What does the code block within the `if(response.needs_signature())` check accomplish?"}
+{"qid":"228","query":"What imaging characteristic of oligodendroglioma can be inferred from Figures E and F?"}
+{"qid":"229","query":"Which of the following best describes the relationship between the terms \"Netanyahu\" and \"Israel\" as depicted in the diagram?"}
+{"qid":"230","query":"What can be inferred about the variability of \\( T(V) \\) values from the top right figure when the threshold is between 10 and 30?"}
+{"qid":"231","query":"What is the common application mentioned for both ZnS and ZnO when doped with certain elements?"}
+{"qid":"232","query":"In graph (c), which of the following statements is true regarding the relationship between the spin signal current (I_n) and the distance (d) for different magnetic fields (B)?"}
+{"qid":"233","query":"What is the output of the 'Message Passing Network' used for in this architecture?"}
+{"qid":"234","query":"What does the peak at around Log ν ≈ 14.65 in the spectral energy distribution (SED) of SDSS J102623.61+254259.5 correspond to?"}
+{"qid":"235","query":"What computer vision technique does the fifth figure demonstrate?"}
+{"qid":"236","query":"In figure (b), what is the approximate range of \\( E_n \\) where \\( P_{out} = N/2 \\) has the highest concentration of data points?"}
+{"qid":"237","query":"Based on the distribution of data points in the scatter plot, what can be said about the majority of stars in this sample?"}
+{"qid":"238","query":"Based on the sequences from figure (a) to (c), what can be inferred about the cyan-colored cylinder's role?"}
+{"qid":"239","query":"Which anatomical structures are highlighted in red in the figure?"}
+{"qid":"240","query":"Based on the figure, what can be inferred about the behavior of \\( \\langle x^2(t) \\rangle \\) as time progresses?"}
+{"qid":"241","query":"What trend is observed for the eigenvalues of \\( \\Gamma_X \\) as the index increases in the left figure?"}
+{"qid":"242","query":"What does the parameter \\( Q \\) represent in the inset of the figure?"}
+{"qid":"243","query":"Based on the trend lines in figure (b), what can be inferred about the average velocity \\( \\langle v \\rangle \\) as the external force \\( F^{ex} \\) increases for \\( \\phi = 0.50 \\)?"}
+{"qid":"244","query":"Based on the wavelet transformation techniques applied in the figures, which one is likely to provide the most compact and smooth representation of the data?"}
+{"qid":"245","query":"What does the top portion of the figure illustrate about BERT's predictions?"}
+{"qid":"246","query":"Which graph indicates a secondary data inset within the primary graph?"}
+{"qid":"247","query":"What common feature is observed in the contour plots for sources GSS30-IRS1, GSS30-IRS3, and GSS30-IRS2?"}
+{"qid":"248","query":"What does the shaded region in the figure predominantly correspond to?"}
+{"qid":"249","query":"Based on the figure, how does the signal fluctuation compare between Night 1 and Night 3?"}
+{"qid":"250","query":"Which mass track on the Hertzsprung-Russell diagram does HD 185351 most closely follow based on its metallicity and position on the graph?"}
+{"qid":"251","query":"What is the purpose of the bondwires as illustrated in the cross-section of the figure?"}
+{"qid":"252","query":"What trend is observed in the energy \\( E \\) of the system as the coupling constant \\( g_{BI} \\) increases?"}
+{"qid":"253","query":"What can be inferred about the performance of the system from the numerical values presented in the training, validation, and test images?"}
+{"qid":"254","query":"Based on the graph, what is the approximate value of the total scattered intensity for n = 0.1 at Time = 50 γ^-1?"}
+{"qid":"255","query":"What trend is observed in graph (c) as the Effective Trap Depth increases?"}
+{"qid":"256","query":"What behavior does the dotted line in graph (a) depict over the normalized time \\( s \\)?"}
+{"qid":"257","query":"What is the main purpose of the green check mark symbols in the figures?"}
+{"qid":"258","query":"Between days 4 and 12, which group showed the most significant increase in the proportion of CSCs?"}
+{"qid":"259","query":"What does the dashed line represent in figure (c) from 'right UE estimation' to 'AP'?"}
+{"qid":"260","query":"What is the relationship between Cluster E and Cluster D in Figure (a)?"}
+{"qid":"261","query":"If the residuals are an indication of the fit quality, which color filter has the best fit for the model used in this data?"}
+{"qid":"262","query":"What is the purpose of the red and blue boxes in the original image X as shown in the figure?"}
+{"qid":"263","query":"What effect does increasing the parameter A from 1 to 28 have on the cooling length for ultra-high energy cosmic rays at z = 1?"}
+{"qid":"264","query":"What is the purpose of the 'Conv1' layer in the 12net section of the architecture?"}
+{"qid":"265","query":"What is the expected value of participating in the lottery as shown in the chart?"}
+{"qid":"266","query":"Based on the trend shown by the blue curve, what can be inferred about the behavior of the system as Q* approaches 10?"}
+{"qid":"267","query":"What trend can be observed regarding the perturbation modularity when the chaoticity (α) increases from 1.3 to 2.0 at t=10 for the \"From random\" condition?"}
+{"qid":"268","query":"What can be inferred about the peaks observed in figure (a) at different times?"}
+{"qid":"269","query":"What does the graph in panel (a) likely represent?"}
+{"qid":"270","query":"In panel D of the figure, what is the result of applying the \"Trained Model\" to the individual CBTs (C^1 to C^N)?"}
+{"qid":"271","query":"What is the primary purpose of the \"Alignment Predictor\" in this neural network model?"}
+{"qid":"272","query":"What does the peak of the curves in the histogram in the top panel represent?"}
+{"qid":"273","query":"What is the primary feature added to the visualization in figure 'c' that differentiates it from figures 'a' and 'b'?"}
+{"qid":"274","query":"What does the series of nodes \\( \\{x_i, ..., x_n\\} \\) connected by edges most likely represent in this figure?"}
+{"qid":"275","query":"What does the figure suggest about the relationship between the root mean square voltage (U_rms) and the crossover frequency?"}
+{"qid":"276","query":"What does the meter in the diagrams most likely represent in the context of this scientific figure?"}
+{"qid":"277","query":"What is the main focus of panel B in the figure?"}
+{"qid":"278","query":"Based on the figure, during which time period was the relative background at its lowest?"}
+{"qid":"279","query":"What does the distribution of red squares in the figure most likely represent?"}
+{"qid":"280","query":"Based on the figure, which method estimates the ground state energy per site closest to the DMRG upper bound?"}
+{"qid":"281","query":"What does the label \"SEM\" on the figure most likely refer to?"}
+{"qid":"282","query":"What does the dashed red line in the graph represent?"}
+{"qid":"283","query":"In the depicted workflow, at what stage is the Convolutional Neural Network (CNN) employed?"}
+{"qid":"284","query":"Based on the graph, what can be inferred about the relationship between G(r) and r/L?"}
+{"qid":"285","query":"In the context of the control system, what is the purpose of the \"Hybridized Platoon Dynamics MIMO System\"?"}
+{"qid":"286","query":"Based on figure (b), what happens to the scattering length 'a' as the collision energy 'E_coll' increases for rubidium (Rb) at 600 nK?"}
+{"qid":"287","query":"What relationship does the figure suggest between the infrared luminosity (\\(L_{IR}\\)) and the AGN bolometric fraction for the middle-merger stage?"}
+{"qid":"288","query":"Which type of support is represented by the smallest cluster of nodes in the network graph?"}
+{"qid":"289","query":"At \\( L = 128 \\), which model and dimensionality combination has the highest value of \\( W \\)?"}
+{"qid":"290","query":"What does the point labeled \\( w^* \\) represent in both figures?"}
+{"qid":"291","query":"What does the figure suggest about the relationship between \\( d_p \\) and \\( d_a \\) as \\( k_p \\) increases?"}
+{"qid":"292","query":"Based on Figure c, what can be inferred about the relationship between the blue and red areas?"}
+{"qid":"293","query":"How does the mean estimated effect size of the SCCS compare to that of the Historical Comparator?"}
+{"qid":"294","query":"What is the common class that 'class MySystem' inherits from in both diagrams a) and b)?"}
+{"qid":"295","query":"What feature of the design suggests that the tank is meant to hold liquid under pressure?"}
+{"qid":"296","query":"Which feature maps are directly involved in the calculation of the gradients at point 'b' during backpropagation?"}
+{"qid":"297","query":"Based on the figure provided, what can be inferred about the image analysis capabilities of SSL Histo ResNet18 compared to ImageNet pre-trained ResNet50?"}
+{"qid":"298","query":"What is the purpose of the shaded plane in the figure?"}
+{"qid":"299","query":"Based on the local explanation for class 'leak', what can be inferred about the 'perc75_htlb_buddy_alloc_success::vmstat' metric?"}
+{"qid":"300","query":"What value of \\( \\alpha \\) corresponds to \\( \\beta = 0.5 \\) in figure (a)?"}
+{"qid":"301","query":"Assuming the segments are processes being executed, and blue and green represent two different states, which node is in a unique state at segment 0?"}
+{"qid":"302","query":"Based on the cumulative distribution function in the inset of the figure, for low-metallicity environments (12+log(O/H) < 8.7), at which redshift (z) value does the function ψ(z) approach 0.9?"}
+{"qid":"303","query":"What can be inferred about the feature at approximately 5000 Å on the x-axis?"}
+{"qid":"304","query":"What can be inferred about the population's stability from the given figure?"}
+{"qid":"305","query":"Which method of data release does not visibly alter the shape of the original data distribution?"}
+{"qid":"306","query":"What does the red dotted line in the figure most likely represent?"}
+{"qid":"307","query":"Based on figure (a), what is the impact of increasing the number of synthetic samples (N_synth) used in the training?"}
+{"qid":"308","query":"Based on the trends shown in the graph, which of the following best describes the behavior of the curves as r approaches 0.1?"}
+{"qid":"309","query":"What does 'TimeDistributed' imply in the context of this neural network diagram?"}
+{"qid":"310","query":"What is indicated by the intersection of all line plots at \\( t/(t_f = 62.82) = 1 \\) in the figure?"}
+{"qid":"311","query":"Based on the trend lines in the graph, which scenario shows the least decline in the percentage of participants likely to download an app over time?"}
+{"qid":"312","query":"Based on the insets in panels b and d, what is the relationship between eigenvalue rank and variance?"}
+{"qid":"313","query":"What is the primary objective of the process depicted in the figure?"}
+{"qid":"314","query":"What does the shaded area between the GP mean and the target density signify in the graph?"}
+{"qid":"315","query":"At which point does figure (c) indicate a rapid decrease in droplet height?"}
+{"qid":"316","query":"At what velocity does the largest peak in the red line occur?"}
+{"qid":"317","query":"Based on the bottom histogram, what can be inferred about the density of galaxies at different redshifts?"}
+{"qid":"318","query":"What does the shaded area represent in the lower set of plots for each value of \\( k \\)?"}
+{"qid":"319","query":"Based on the figure, which statement best describes the data points represented in blue?"}
+{"qid":"320","query":"What can be inferred about the trend of the fraction of correctly classified vertices as ε increases?"}
+{"qid":"321","query":"Which method shows the least change in the ratio \\( r/\\text{k}_{\\text{HD}} \\) as \\( \\Delta U/\\text{k}_{\\text{B}}T \\) increases from 0 to 25?"}
+{"qid":"322","query":"Referring to figure (d), at approximately what temperature does the ΔG_HCP→FCC become zero at 32.5 GPa?"}
+{"qid":"323","query":"Based on the figure, which statement best describes the path from point A to point B?"}
+{"qid":"324","query":"What is the likely purpose of showing multiple restoration results (A, B, C) alongside Pix2Pix and PS-GAN?"}
+{"qid":"325","query":"Based on the figure, which statement is true regarding the proportion of companies from India compared to those from Canada?"}
+{"qid":"326","query":"Compared to the Randomized Experiment, which method(s) show a consistently higher Avg Reward across all levels of Ice Coverage?"}
+{"qid":"327","query":"What type of quantum phase transition does the figure represent as J varies from negative infinity to positive infinity?"}
+{"qid":"328","query":"What can be inferred about the stability of cooperation in a population as represented in these graphs?"}
+{"qid":"329","query":"What does the green square within C1 represent in the leftmost figure?"}
+{"qid":"330","query":"What is the role of the 'Scale Sampler' in the depicted voice conversion process?"}
+{"qid":"331","query":"What does the 'OUP' label in the figure most likely stand for?"}
+{"qid":"332","query":"Based on the right map in the figure, which area shows the greatest normalized gain in accessibility?"}
+{"qid":"333","query":"At what temperature does the main graph show a peak in the magnetic susceptibility (χ) for H = 10 kOe?"}
+{"qid":"334","query":"Based on Figure A, how does the value of \\( \\gamma_{cr} \\) compare to \\( \\gamma^{opt} \\) across different sampling ratios?"}
+{"qid":"335","query":"Considering the solid grey lines and their intersections with the black points, what could these black points signify?"}
+{"qid":"336","query":"What conclusion can be drawn about the effect of an increasing magnetic field on the peak specific heat capacity in graph (c)?"}
+{"qid":"337","query":"Based on the data presented in figure (a), which tissue type shows the largest range of feature values contributing to classification accuracy?"}
+{"qid":"338","query":"How can the system's sensitivity to false authentication be described using the figure?"}
+{"qid":"339","query":"If the third row of images represents a data transformation of the facial expressions above, what is the likely purpose of this transformation?"}
+{"qid":"340","query":"What does the inset in figure b) indicate about the normalized velocity (\\(v'/\\bar{v}\\)) at very close distances to G1?"}
+{"qid":"341","query":"What does the green shaded region in both panels (a) and (b) of the figure represent?"}
+{"qid":"342","query":"Based on the figure, which method shows the smallest variation in \\( \\lambda \\) values?"}
+{"qid":"343","query":"Based on panel b) of the graph, which date range shows the most significant increase in the number of countries reporting COVID-19 cases?"}
+{"qid":"344","query":"In the rightmost figure, what does the spread of \\( Z_{synth} \\) and \\( Z_{obs} \\) indicate?"}
+{"qid":"345","query":"What phenomenon does the peak labeling of '2/3', '1', and '5/3' in part (c) most likely correspond to?"}
+{"qid":"346","query":"What can be inferred about the relationship between the scale \\( M_* \\) and the reheating temperature \\( T_R \\) for a fixed number of extra dimensions?"}
+{"qid":"347","query":"Which part of the GRU does the tanh activation function directly influence in this figure?"}
+{"qid":"348","query":"Based on the graph, how does the probability of success change as the \\( N/S \\) ratio increases?"}
+{"qid":"349","query":"What does the inset in Figure (b) indicate about the Gaussian fit?"}
+{"qid":"350","query":"Which element serves as a bridge between the theoretical framework and the empirical observations in the diagram?"}
+{"qid":"351","query":"Which label on the diagram likely denotes a variable that is dependent on the number of particles (N) in a system?"}
+{"qid":"352","query":"What is the minimum spanning tree of the graph with edge weights as labeled?"}
+{"qid":"353","query":"What does part \"a\" of the diagram likely represent in the context of FPGA configuration?"}
+{"qid":"354","query":"Which line shows the least variation in the parameter 'p' over the range of 'α' shown in the graph?"}
+{"qid":"355","query":"What does the contour plot in Figure (c) for \\( r = 8 \\) indicate about the relationship between \\( t \\) and \\( m \\)?"}
+{"qid":"356","query":"What can be inferred about the outlier processing times in the \"Composed (no-IPC)\" category?"}
+{"qid":"357","query":"What feature does the 'All I Missed' option provide in the CA259 course video interface?"}
+{"qid":"358","query":"Which entity acts as a central hub in this network?"}
+{"qid":"359","query":"If you had to remove a work type to minimize the loss of interactions with partner 3, which one would be the best choice?"}
+{"qid":"360","query":"What does the red area in the figure most likely represent?"}
+{"qid":"361","query":"Which effective shielding method results in the highest \\( R_t \\) value at a GEM tilt angle of 30 degrees?"}
+{"qid":"362","query":"What is the relationship between lookback time and the number density of young quiescent galaxies according to the figure?"}
+{"qid":"363","query":"What can be inferred about the relationship between the X and Y axes in both Figure (a) and Figure (b)?"}
+{"qid":"364","query":"What is the significance of the black arrow marked \"Max I10\" in the Ik landscape (Figure b)?"}
+{"qid":"365","query":"What type of computational method shows the smallest energy splitting between the \\(3\\Phi(v)\\) and \\(3\\Phi(a)\\) states in CUO\\(Ar_4\\)?"}
+{"qid":"366","query":"What is the role of 'Semantic Distribution Uncertainty Reward' in the process depicted in the figure?"}
+{"qid":"367","query":"As \\( M_{true} 200c \\) increases, how does the fractional mass uncertainty change for the MLE error with FG + 5 µK-arcmin noise?"}
+{"qid":"368","query":"What trend does the log₁₀g^(2)(0) exhibit as Δc/g approaches 2?"}
+{"qid":"369","query":"In which step would the performance of the model be most directly evaluated in the depicted process?"}
+{"qid":"370","query":"Based on the figure, which of the following statements is true regarding the behavior of the function ψ(λ) at λ = 0?"}
+{"qid":"371","query":"What does the purple triangle in the top right corner of both figures represent?"}
+{"qid":"372","query":"Based on graphs (e) and (f), what is the correct statement regarding the average \\( <x^{2}> \\) as a function of \\( \\Gamma \\) and \\( \\sigma \\)?"}
+{"qid":"373","query":"What does the parameter \\( t \\) likely represent in these graphs?"}
+{"qid":"374","query":"What can be inferred about the sample size and its effect on the variability of coefficient estimates for the variables in the model?"}
+{"qid":"375","query":"What does the 3D surface in figure (a) represent in the context of the data presented?"}
+{"qid":"376","query":"Based on the time scales provided, which graph(s) could be representing a quicker dynamic process?"}
+{"qid":"377","query":"Based on the color scale at the bottom of the images, what can be inferred about the center of the circular pattern in both images a) and b)?"}
+{"qid":"378","query":"Based on the data provided, at approximately what energy does the intensity peak for the (0.5, -1, 1)o and (0.5, 0.5, 0.5)c measurements at 5 K?"}
+{"qid":"379","query":"Based on the simulations, how does the flow pattern change with an increase in Elasticity number (Er)?"}
+{"qid":"380","query":"Which two countries show a consistent increase in their cumulative shares of Physics Nobel Prizes throughout the 20th century?"}
+{"qid":"381","query":"In Figure B, what does the initial peak in the g(r) function for both conditions suggest?"}
+{"qid":"382","query":"During which time interval did the relative error percentage peak the highest?"}
+{"qid":"383","query":"Referring to the upper plot for the CH₄/H₂O ratio, what can be inferred about the data consistency?"}
+{"qid":"384","query":"Based on the figure, which statement is true regarding the total energy of systems with non-integer nuclear charges compared to integer nuclear charges?"}
+{"qid":"385","query":"What can be inferred about the final output in comparison to the initial text?"}
+{"qid":"386","query":"At approximately which timestep does the scale \\( 10^{-1} \\) (pink line) reach its maximum \\( r \\) value?"}
+{"qid":"387","query":"What does the peak of the histogram near \\( n_y = 0 \\) suggest about the distribution of \\( n_y \\) values?"}
+{"qid":"388","query":"What strategy is depicted in part (b) of the figure to influence individual behavior in a group setting?"}
+{"qid":"389","query":"Based on the figure, how does the gap differ between the Polar and PdA phases?"}
+{"qid":"390","query":"What can be inferred about the \"control\" group's average contribution compared to the other groups in the study?"}
+{"qid":"391","query":"What component in Figure (a) is responsible for dimensionality reduction and non-linearity in the Transformer model?"}
+{"qid":"392","query":"In the figure, what is the purpose of the \\( h_{\\theta} \\) blocks within the Reconstruction Module?"}
+{"qid":"393","query":"What metric is depicted on the x-axis of the graph?"}
+{"qid":"394","query":"Which entity is responsible for detecting the keys in the diagram?"}
+{"qid":"395","query":"What is the relationship between the Chinese characters and the musical notes?"}
+{"qid":"396","query":"What does the change in color intensity along the diagonal in Figure a represent?"}
+{"qid":"397","query":"In the lower part of the figure, which variable is modified by the addition of 'ad' to the 'warping' process?"}
+{"qid":"398","query":"What does the inset graph within the main graph indicate about the relationship between '\\(\\Delta\\)M/\\(\\Delta\\)A' and '\\(\\alpha\\) (%)'?"}
+{"qid":"399","query":"Comparing graph a) and b), which curve demonstrates a threshold behavior where the population |c_n|^2 remains constant until a critical field amplitude ratio ε is reached?"}
+{"qid":"400","query":"Based on the figure, what can be inferred about the stability of spectral lines over time in both STRAIGHT SO and BENT SO configurations?"}
+{"qid":"401","query":"What can be inferred about the relationship between level spacing and L_D from the graph?"}
+{"qid":"402","query":"What does the transition from Time bin 1 to Leaf bin represent in panel b of the figure?"}
+{"qid":"403","query":"What is the relationship between insomnia and the molecular pathways as illustrated in the figure?"}
+{"qid":"404","query":"If one were to correct the uncertain relationship regarding Alan Turing's nationality, which of the following information would be most relevant based on the figure?"}
+{"qid":"405","query":"What is the approximate value of relative error when \\( N_U \\) is 1000 and \\( u_{max} \\) is \\( 30k_{W/KO2} \\)?"}
+{"qid":"406","query":"What do the blue lines in figure (a) likely represent?"}
+{"qid":"407","query":"In the progression of images for the male subject, which feature progressively changes?"}
+{"qid":"408","query":"At what value of \\( r/R_{\\text{Ein}} \\) do the gaussian and gaussian+hole profiles intersect?"}
+{"qid":"409","query":"Based on the figure, which dataset category has the most balanced distribution of the '+' and '-' classes?"}
+{"qid":"410","query":"Which image processing method seems to most effectively reduce the noise surrounding the central object?"}
+{"qid":"411","query":"What does the dashed line with the arrow pointing to the right signify in the context of the adiabatic potential energy surfaces shown?"}
+{"qid":"412","query":"Based on the figure, how is the information structured?"}
+{"qid":"413","query":"What does the series of plots in panel (a) of the figure primarily represent?"}
+{"qid":"414","query":"If you were to reduce α from 30 to 5 while keeping β constant at 10^5, according to figure a, how would the measured quantity change?"}
+{"qid":"415","query":"What does the process illustrated in the figure aim to achieve in the context of medical imaging?"}
+{"qid":"416","query":"What can be inferred about the gain and the nonlinear coefficient \\( \\Gamma_2^{(3)} \\) at \\( P_p = 0 \\) dBm from figure (b)?"}
+{"qid":"417","query":"Based on the figure, which statement best describes the transition from 'SANE' to 'MAD'?"}
+{"qid":"418","query":"Based on Figure B, how are the data points most likely distributed?"}
+{"qid":"419","query":"What does the dashed vertical line at q ≈ 0.4 nm^-1 in the plots indicate?"}
+{"qid":"420","query":"In which league does the data most closely approximate the expected perfect balance?"}
+{"qid":"421","query":"Considering the behavior of \\( I(\\hat{n}_2; X) \\) for the ReLU-ReLU network, what can be inferred about its relationship with the standard deviation \\( \\sigma \\)?"}
+{"qid":"422","query":"Based on panels (d), (e), and (f), how does the energy affect the Fermi contour in this material?"}
+{"qid":"423","query":"What does \"linker 1\" in the figure indicate about the relationship between filament 1 and filament 3?"}
+{"qid":"424","query":"Based on the 'Radar Point Cloud' figure, what is the most likely use of this data?"}
+{"qid":"425","query":"At which point does the detection power reach approximately 66% according to figure B?"}
+{"qid":"426","query":"What data subset has the highest normalized frequency in the 'mag' histogram?"}
+{"qid":"427","query":"What is the purpose of the 'PASS Pipeline' as depicted in the figure?"}
+{"qid":"428","query":"What does Panel A of the figure primarily illustrate?"}
+{"qid":"429","query":"Based on the figure, what can be inferred about the interactions between the particles?"}
+{"qid":"430","query":"What is indicated by the dashed lines in the phase (φn(r)) panels of the figure?"}
+{"qid":"431","query":"Based on the figure, what does the term \"EPR entangled\" in (c) refer to?"}
+{"qid":"432","query":"What variable is kept constant along the vertical axis of the graph on the left?"}
+{"qid":"433","query":"Based on the inset graph, how does the resistivity (ρ) of FeSe vary with the square of the magnetic field (H²) at T = 15 K?"}
+{"qid":"434","query":"What is indicated by the red dotted path marked with arrows?"}
+{"qid":"435","query":"Which statement best describes the trend shown by the different curves in the graph?"}
+{"qid":"436","query":"What does the dashed line in the figure with the proposed method represent?"}
+{"qid":"437","query":"What trend is observed in the probability distribution \\( p_r \\) as the state rank \\( r \\) increases in both graphs?"}
+{"qid":"438","query":"What does the arrow with the letter 'p' in the lower part of the diagram indicate?"}
+{"qid":"439","query":"What feature differentiates the rhombohedral stacking in Figure (c) from the other structures?"}
+{"qid":"440","query":"Based on the weighted combinations in plots (g), (h), and (i), what can be inferred about the events with invariant mass close to 1.6 GeV/c²?"}
+{"qid":"441","query":"Based on the trend shown in the graph, what can be inferred about the relationship between \\( N/N_0 \\) and frequency (j) as the frequency approaches 2 Hz?"}
+{"qid":"442","query":"What feature can be inferred about the algorithm used in Figure (c)?"}
+{"qid":"443","query":"What does the black waveform in graph b suggest about the system it represents?"}
+{"qid":"444","query":"Based on the information in the figure, what was the Eiffel Tower's ranking in terms of height among man-made structures at the time of its completion?"}
+{"qid":"445","query":"Based on the Overthrust model, which layer appears to have the highest seismic velocity?"}
+{"qid":"446","query":"What does the dashed red line labeled 'h' in the graph most likely represent?"}
+{"qid":"447","query":"Which parameter has the least variance in the log-normal IMF model histograms across different astronomical objects?"}
+{"qid":"448","query":"What does figure (b) depict in relation to visual perception?"}
+{"qid":"449","query":"Based on the graph, which instrument shows the least variance in the residuals for Model 3 fit over the range of Hα fluxes?"}
+{"qid":"450","query":"What does the inset graph within the main graph illustrate?"}
+{"qid":"451","query":"What is the peak differential cross-section value for electron-impact ionization at a kinetic energy of approximately 100 keV for the nonrelativistic case?"}
+{"qid":"452","query":"What can be inferred about the term \"alexa\" in the given figure?"}
+{"qid":"453","query":"What does the term \\( \\delta/g \\) in panel (c) likely represent in the context of this figure?"}
+{"qid":"454","query":"If one were to describe the trend of the data in relation to the two reference lines at 75 km s^-1 and 122 km s^-1, which of the following statements would be accurate?"}
+{"qid":"455","query":"What is the relationship between initial density and mass fraction of \\( ^{16}O \\) as indicated by the graph?"}
+{"qid":"456","query":"Based on the figure, which of the following statements is true regarding the relationship between M and R for the line labeled \\( \\alpha = 0.58 \\)?"}
+{"qid":"457","query":"What can be inferred about the distribution of values in the source matrix for figure (a)?"}
+{"qid":"458","query":"What aspect of the red and blue structures could suggest a comparative analysis?"}
+{"qid":"459","query":"What process is depicted in figure (a)?"}
+{"qid":"460","query":"Based on the diagram, how is the new model from the 'Aggregate' step utilized?"}
+{"qid":"461","query":"Which panel indicates the presence of a gap opening in the Fermi surface?"}
+{"qid":"462","query":"In figure (a), what does the surface \\( Y = \\mu^1(s) \\) signify?"}
+{"qid":"463","query":"In which figure is the dark region most centrally concentrated?"}
+{"qid":"464","query":"Based on the energy dispersion curves, what is the approximate energy value at which the L point intersects the T1 band in the [111] direction?"}
+{"qid":"465","query":"What does the color gradient on the FR and RL objects in the figure most likely represent?"}
+{"qid":"466","query":"Based on the residuals plot in the lower panel, how well does the best-fit model account for the variations in radial velocity data?"}
+{"qid":"467","query":"What pattern can be observed regarding the use of loops statements compared to classes and methods in this dataset?"}
+{"qid":"468","query":"What does the parameter \\( \\Omega(f) \\) likely represent in the graph?"}
+{"qid":"469","query":"What is the primary function of the matrices shown in figure (b)?"}
+{"qid":"470","query":"Based on figure (c), what can be inferred about the density of states (DOS) for 'f states' at the energy level of -2 eV?"}
+{"qid":"471","query":"What do the red dotted arrows in both (a) and (b) of the figure indicate?"}
+{"qid":"472","query":"What does the '180°' symbol in the diagram indicate?"}
+{"qid":"473","query":"Which island is located to the northeast of Madagascar (MG) as indicated on the map?"}
+{"qid":"474","query":"Which of the following best describes the relationship between states shown in panel (b)?"}
+{"qid":"475","query":"In the \"Ground truth\" section of the figure, which object is identified as an unknown entity?"}
+{"qid":"476","query":"What does the variable \\( Y_t \\) in the figure represent?"}
+{"qid":"477","query":"Based on the distribution of data points in the graph, what can be inferred about the relationship between 'Transit Stellar Ratio' and 'Reduced Chi Squared Out of Transit'?"}
+{"qid":"478","query":"Based on the figure, which of the following sequences correctly describes the flow of data in the Encoder Architecture?"}
+{"qid":"479","query":"What is the maximum output power achieved by the OPO as shown in the figure?"}
+{"qid":"480","query":"Compared to figure (a), what is the most notable difference in the pattern shown in figure (c)?"}
+{"qid":"481","query":"Which input state corresponds to the smallest number of counts in figure (b)?"}
+{"qid":"482","query":"Which scenario shows a better performance in terms of a lower secrecy outage probability at a SINR threshold of 10 dB?"}
+{"qid":"483","query":"What can be deduced about the stability of the system depicted in figure (b)?"}
+{"qid":"484","query":"According to the graph, which type of oligomer has the smallest P1 energy gap at the highest oligomer length represented?"}
+{"qid":"485","query":"What is the lattice momentum range depicted in panel (b) of the figure?"}
+{"qid":"486","query":"In graph (c), what is the significance of the inset graph showing \\( \\lambda_{\\infty}(L) \\) as a function of \\( L^{-1} \\)?"}
+{"qid":"487","query":"What is the purpose of the shaded areas across the w frames in the MQ and NLQ figure?"}
+{"qid":"488","query":"What does the \"IC loss\" in the diagram specifically aim to minimize?"}
+{"qid":"489","query":"In the context of vector forces, what is depicted in subfigure (c)?"}
+{"qid":"490","query":"What is the primary difference in the trend lines between the independent and coregulated scenarios in Panel D?"}
+{"qid":"491","query":"What can be concluded about the stars represented by blue squares in the upper right panel?"}
+{"qid":"492","query":"According to the graph, how does the longitudinal resistivity (ρxx) vary with the magnetic field (B⊥) near 1.5 T?"}
+{"qid":"493","query":"What is the purpose of the \"Observer\" component in the self-organizing distribution grid?"}
+{"qid":"494","query":"What is the relationship between Mode 3 value ranges and their frequency as shown in the figure?"}
+{"qid":"495","query":"What is the purpose of the magnified sections in the figures?"}
+{"qid":"496","query":"At which step does the 'Fine-tuning' method reach its peak accuracy according to the graph?"}
+{"qid":"497","query":"Which of the following best describes the interaction denoted by the red circled 'da' and '-d' in the figure?"}
+{"qid":"498","query":"What does the circuit diagram in Figure b) represent?"}
+{"qid":"499","query":"What laser sources were used in the Raman spectroscopy experiments depicted in the figure?"}

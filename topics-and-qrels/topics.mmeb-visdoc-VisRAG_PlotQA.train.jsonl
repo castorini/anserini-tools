@@ -1,0 +1,863 @@
+{"qid":"8111.png-1","query":"Across all years, what is the minimum percentage of unemployed female labor force in Europe(all income levels) ?","answer":"7.3613074550266","options":null,"is_numerical":1}
+{"qid":"21444.png-1","query":"Is the depth of food deficit in 2003 less than that in 2005 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"9909.png-1","query":"What is the ratio of the proportion of the female labor force who participated in production in Germany in 2000 to that in 2004 ?","answer":"1.0684327227600094","options":null,"is_numerical":1}
+{"qid":"9228.png-1","query":"What is the difference between the highest and the second highest number of usable tractors in agriculture in 1963 ?","answer":"18389.0","options":null,"is_numerical":1}
+{"qid":"11576.png-1","query":"In which country was the IDA resource allocation index in 2005 maximum?","answer":"Maldives","options":null,"is_numerical":0}
+{"qid":"13364.png-1","query":"What is the difference between the male labor force participation rate in Malawi in 2008 and the male labor force participation rate in High income: nonOECD in 2007 ?","answer":"6.767655591825097","options":null,"is_numerical":1}
+{"qid":"30667.png-1","query":"What is the difference between the net taxes on products in 1960 in Kenya and that in Mauritania ?","answer":"273004000.0","options":null,"is_numerical":1}
+{"qid":"3360.png-1","query":"In how many years, is the total theoretical duration of secondary education in Burkina Faso greater than the average total theoretical duration of secondary education in Burkina Faso taken over all years ?","answer":"0","options":null,"is_numerical":1}
+{"qid":"29109.png-1","query":"What is the difference between the mineral rent of/in 1970 and mineral rent of/in 1971 in Mauritania?","answer":"0.2597005935779002","options":null,"is_numerical":1}
+{"qid":"7506.png-1","query":"In how many years, is the employment in industrial sector in Poland greater than the average employment in industrial sector in Poland taken over all years ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"551.png-1","query":"In which year was the net concessional disbursements from rdb maximum?","answer":"1974","options":null,"is_numerical":0}
+{"qid":"11161.png-1","query":"In how many countries, is the amount of CO2 emitted in 1961 greater than 1 % ?","answer":"6","options":null,"is_numerical":1}
+{"qid":"9905.png-1","query":"What is the number of applications filed in Switzerland in 1979 ?","answer":"4441.0","options":null,"is_numerical":1}
+{"qid":"20033.png-1","query":"What is the difference between the highest and the second highest percentage of new female entrants in Angola ?","answer":"1.1478919982909943","options":null,"is_numerical":1}
+{"qid":"26968.png-1","query":"What is the difference between the percentage of pregnant anaemic women in Yemen, Rep. and the percentage of non-pregnant anaemic women in Germany?","answer":"23.799999999999997","options":null,"is_numerical":1}
+{"qid":"27089.png-1","query":"In how many countries, is the IDA resource allocation index in 2005 greater than the average IDA resource allocation index in 2005 taken over all countries ?","answer":"3","options":null,"is_numerical":1}
+{"qid":"12193.png-1","query":"In which year was the male labor force participation rate in Sub-Saharan Africa (developing only) maximum?","answer":"2014","options":null,"is_numerical":0}
+{"qid":"27398.png-1","query":"In how many countries, is the percentage of food imports greater than the average percentage of food imports taken over all countries ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"23529.png-1","query":"Across all countries, what is the minimum value added by manufacturing sector ?","answer":"4.23692686140648","options":null,"is_numerical":1}
+{"qid":"30615.png-1","query":"In how many countries, is the CPIA rating in 2007 greater than 1.2 ?","answer":"5","options":null,"is_numerical":1}
+{"qid":"14899.png-1","query":"In how many years, is the CPIA rating in Sub-Saharan Africa (developing only) greater than the average CPIA rating in Sub-Saharan Africa (developing only) taken over all years ?","answer":"3","options":null,"is_numerical":1}
+{"qid":"26954.png-1","query":"In how many countries, is the container port traffic in 2000 greater than 1600000 TEU?","answer":"1","options":null,"is_numerical":1}
+{"qid":"13879.png-1","query":"What is the difference between the highest and the second highest percentage of the unemployed labor force with secondary education in Kazakhstan ?","answer":"2.299999237060497","options":null,"is_numerical":1}
+{"qid":"13136.png-1","query":"What is the ratio of the proportion of the male population that is economically active in Trinidad and Tobago in 2000 to that in 2002 ?","answer":"1.0625000413921162","options":null,"is_numerical":1}
+{"qid":"10607.png-1","query":"Is the sum of the percentage of female labor force in 1991 in Philippines and Poland greater than the maximum percentage of female labor force in 1990 across all countries ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"29841.png-1","query":"Is the difference between the net official aid flow in Tanzania in 2005 and 2006 greater than the difference between the net official aid flow in Congo (Democratic) in 2005 and 2006 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"12967.png-1","query":"In the year 2013, what is the difference between the number of teachers teaching in primary schools in Turkey and number of teachers teaching in primary schools in Cayman Islands ?","answer":"281740.0","options":null,"is_numerical":1}
+{"qid":"31298.png-1","query":"What is the average agricultural production index in 1962 per country?","answer":"37.628","options":null,"is_numerical":1}
+{"qid":"158.png-1","query":"In which year was the percentage of land area under agriculture minimum?","answer":"2002","options":null,"is_numerical":0}
+{"qid":"12222.png-1","query":"In which year was the percentage of students enrolled in primary schools in Czech Republic maximum?","answer":"1983","options":null,"is_numerical":0}
+{"qid":"2332.png-1","query":"Is the total agricultural land in Dominica in 1974 less than that in 1975 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"29661.png-1","query":"What is the difference between the highest and the second highest percentage of vaccinated children in Fragile and conflict affected situations ?","answer":"2.7212674450991017","options":null,"is_numerical":1}
+{"qid":"19522.png-1","query":"What is the difference between the amount of methane emissions in 2008 and the amount of industrial nitrous oxide emissions in 1990?","answer":"1289.6","options":null,"is_numerical":1}
+{"qid":"12655.png-1","query":"What is the difference between the male labor force participation rate in Arab World in 1998 and that in 1999 ?","answer":"-0.23068453062612093","options":null,"is_numerical":1}
+{"qid":"25726.png-1","query":"What is the ratio of the under-five mortality rate in Korea (Democratic) in 2004 to that in 2006?","answer":"1.0776397515527951","options":null,"is_numerical":1}
+{"qid":"8175.png-1","query":"What is the ratio of the percentage of amount earned from merchandise imports in Bermuda in 1996 to that in 1997 ?","answer":"1.5516707620937527","options":null,"is_numerical":1}
+{"qid":"12714.png-1","query":"Across all years, what is the minimum net official aid flow in Europe(all income levels) ?","answer":"200000","options":null,"is_numerical":0}
+{"qid":"4522.png-1","query":"What is the average unemployed female youth population per year ?","answer":"15.631007007092267","options":null,"is_numerical":1}
+{"qid":"16424.png-1","query":"In which country was the government expenditure per student maximum ?","answer":"Rwanda","options":null,"is_numerical":0}
+{"qid":"28811.png-1","query":"What is the ratio of the percentage of male labor force with secondary education in Uruguay in 2007 to that in 2010?","answer":"0.3551531882473327","options":null,"is_numerical":1}
+{"qid":"822.png-1","query":"In the year 2012, what is the difference between the Logistic performance index in Arab World and Logistic performance index in Romania ?","answer":"-0.39700000000000024","options":null,"is_numerical":1}
+{"qid":"26452.png-1","query":"In which country was the total arable land in 1961 maximum?","answer":"Lesotho","options":null,"is_numerical":0}
+{"qid":"26395.png-1","query":"In the year 2007, what is the difference between the number of trademark applications made by the residents in Papua New Guinea and number of trademark applications made by the residents in Bangladesh ?","answer":"-2805.0","options":null,"is_numerical":1}
+{"qid":"2511.png-1","query":"What is the difference between the highest and the second highest IMF credit in the Department of Defense in Niger ?","answer":"4665000","options":null,"is_numerical":1}
+{"qid":"5467.png-1","query":"Is the difference between the insurance provided by non-residents in 2005 and 2006 greater than the difference between any two years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"7468.png-1","query":"What is the Logistic performance index in 2007 in Benin ?","answer":"2.56","options":null,"is_numerical":1}
+{"qid":"32755.png-1","query":"In how many years, is the freight insurance greater than 8 % ?","answer":"5","options":null,"is_numerical":1}
+{"qid":"14620.png-1","query":"What is the ratio of the total CO2 emitted in Turkey in 1986 to that in 1989 ?","answer":"1.001453568268503","options":null,"is_numerical":1}
+{"qid":"24413.png-1","query":"Is the sum of the amount of commercial service exports in 2007 and 2008 greater than the maximum amount of commercial service imports across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"14615.png-1","query":"What is the average oda received as percentage of gni per country ?","answer":"1.3351250926482054","options":null,"is_numerical":1}
+{"qid":"12485.png-1","query":"Is the amount of long-term external debts owed by residents in India in 1983 less than that in 1984 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"16707.png-1","query":"Is the sum of the rating measuring quality of port infrastructure in Chile and China greater than the maximum rating measuring quality of port infrastructure across all countries ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"15488.png-1","query":"In how many countries, is the unemployed female youth greater than the average unemployed female youth taken over all countries ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"4374.png-1","query":"In which year was the percentage of the unemployed male labor force with primary education in Europe(developing only) minimum?","answer":"2000","options":null,"is_numerical":0}
+{"qid":"31640.png-2","query":"What is the difference between the highest and the second highest CPIA rating in 2005 ?","answer":"-0.07777777777777972","options":null,"is_numerical":1}
+{"qid":"29141.png-1","query":"What is the difference between the CPIA rating of/in 2007 and CPIA rating of/in 2005 in Comoros?","answer":"0.0","options":null,"is_numerical":1}
+{"qid":"7844.png-1","query":"In which country was the amount of methane emitted in 2000 maximum?","answer":"Russian Federation","options":null,"is_numerical":0}
+{"qid":"2530.png-1","query":"Across all years, what is the minimum number of usable tractors in agriculture in Timor-Leste ?","answer":"8.0","options":null,"is_numerical":1}
+{"qid":"32470.png-1","query":"In how many years, is the number of tax payers greater than 4  ?","answer":"6","options":null,"is_numerical":1}
+{"qid":"29383.png-1","query":"Is the Amount of goods and services imports in Georgia in 1992 less than that in 1993 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"24449.png-1","query":"In how many years, is the land under cereal production in New Caledonia greater than the average land under cereal production in New Caledonia taken over all years ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"1121.png-1","query":"What is the number of trademark applications made by the nonresidents in Europe(developing only) in 2010 ?","answer":"118205.0","options":null,"is_numerical":1}
+{"qid":"12896.png-1","query":"Across all countries, what is the minimum gross enrolment ratio(male) in tertiary schools ?","answer":"4.3550500869751","options":null,"is_numerical":1}
+{"qid":"15812.png-1","query":"Is the percentage of part-time male workers in France less than that in Greece?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"3864.png-1","query":"Is the value added by the agricultural sector in Liberia in 2000 less than that in 2001 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"26599.png-1","query":"In which country was the amount earned from merchandise imports in 1960 maximum?","answer":"Denmark","options":null,"is_numerical":0}
+{"qid":"8969.png-2","query":"What is the difference between the amount of co2 emissions from solid fuel in 1995 and that in 1997 ?","answer":"-5797.425","options":null,"is_numerical":1}
+{"qid":"2023.png-1","query":"What is the average net financial aid flows in Guyana per year?","answer":"0.0","options":null,"is_numerical":1}
+{"qid":"3846.png-1","query":"In how many years, is the net bilateral aid flow in Liberia greater than 96000000 US$?","answer":"0","options":null,"is_numerical":1}
+{"qid":"21823.png-1","query":"In how many years, is the number of required meetings with tax officials greater than 0.44  ?","answer":"3","options":null,"is_numerical":1}
+{"qid":"3190.png-1","query":"Is the sum of the amount of methane emitted in Denmark in 2000 and 2005 greater than the maximum amount of methane emitted in Cambodia across all years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"29658.png-1","query":"What is the difference between the total theoretical duration of primary education in Trinidad and Tobago in 1988 and the total theoretical duration of primary education in Tanzania in 1985?","answer":"0","options":null,"is_numerical":0}
+{"qid":"10795.png-1","query":"Is the difference between the number of applications filed in Switzerland in 2011 and 2013 greater than the difference between the number of applications filed in Bosnia and Herzegovina in 2011 and 2013 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"4165.png-1","query":"Across all years, what is the maximum amount of short-term external debts owed by residents in Congo (Republic) ?","answer":"51000000","options":null,"is_numerical":0}
+{"qid":"14330.png-1","query":"In how many years, is the percentage of value added in manufacturing by textiles and clothing in Senegal greater than the average percentage of value added in manufacturing by textiles and clothing in Senegal taken over all years ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"17360.png-1","query":"In the year 1999, what is the difference between the employment to population ratio(age 15-24) and employment to population ratio(age 15+) ?","answer":"-5.000003814697301","options":null,"is_numerical":1}
+{"qid":"10469.png-1","query":"Across all years, what is the maximum average precipitation in Central African Republic ?","answer":"1343","options":null,"is_numerical":0}
+{"qid":"28637.png-1","query":"What is the difference between the net official DA received in 1962 in Sub-Saharan Africa (all income levels) and the net official DA received in 1963 in OECD members?","answer":"2.6712498675431022","options":null,"is_numerical":1}
+{"qid":"27060.png-1","query":"What is the average earnings from trade in 1960 per country?","answer":"50.05012843264037","options":null,"is_numerical":1}
+{"qid":"14181.png-2","query":"What is the ratio of the percentage of female labor force with primary education in Latvia in 2007 to that in 2011 ?","answer":"1.400000027247837","options":null,"is_numerical":1}
+{"qid":"1117.png-1","query":"What is the average annual population growth in Switzerland per year?","answer":"0.6701903508509179","options":null,"is_numerical":1}
+{"qid":"11176.png-1","query":"In which year was the price of diesel in Korea (Democratic) maximum?","answer":"2008","options":null,"is_numerical":0}
+{"qid":"3571.png-1","query":"In how many years, is the labor force participation rate in Belize greater than the average labor force participation rate in Belize taken over all years ?","answer":"3","options":null,"is_numerical":1}
+{"qid":"26699.png-1","query":"Is the sum of the under-five mortality rate in 2010 in Canada and Chile greater than the maximum under-five mortality rate in 1990 across all countries ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"13296.png-1","query":"In the year 2007, what is the difference between the CPIA rating in Bangladesh and CPIA rating in Mongolia ?","answer":"-0.3999999999999999","options":null,"is_numerical":1}
+{"qid":"25831.png-1","query":"Across all years, what is the minimum PPP conversion factor for GDP in Italy ?","answer":"0.779308","options":null,"is_numerical":1}
+{"qid":"12938.png-1","query":"In how many countries, is the overall level rating greater than 8  ?","answer":"5","options":null,"is_numerical":1}
+{"qid":"2932.png-1","query":"Is the net bilateral aid flow in Tajikistan strictly greater than the net bilateral aid flow in Barbados over the years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"7839.png-1","query":"What is the difference between the percentage of repeaters (females) in Senegal in 1985 and that in 1994 ?","answer":"0.9462700000000002","options":null,"is_numerical":1}
+{"qid":"6826.png-1","query":"Across all years, what is the maximum rating of statistical capacity in Azerbaijan ?","answer":"93.3333333333333","options":null,"is_numerical":1}
+{"qid":"27261.png-1","query":"What is the difference between the highest and the second highest percentage of HIV infected male population in 1991 ?","answer":"-0.17822215014232","options":null,"is_numerical":1}
+{"qid":"3319.png-1","query":"Across all years, what is the maximum employment to population ratio in Sub-Saharan Africa (developing only) ?","answer":"70.9672663125105","options":null,"is_numerical":1}
+{"qid":"1279.png-1","query":"Does the total cereal yield in Malawi monotonically increase over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"4168.png-1","query":"What is the average female infant mortality rate in Senegal per year?","answer":"62.025000000000006","options":null,"is_numerical":1}
+{"qid":"12463.png-1","query":"What is the difference between the net taxes on products in 1960 in Ecuador and that in Honduras ?","answer":"27389800.0","options":null,"is_numerical":1}
+{"qid":"17736.png-1","query":"Does the percentage of obese female children monotonically increase over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"27396.png-1","query":"What is the average income share held by highest 10% of the population per country ?","answer":"23.25","options":null,"is_numerical":1}
+{"qid":"13021.png-1","query":"In how many years, is the percentage of expenses made by the government on subsidies and transfers in Grenada greater than 16 % ?","answer":"4","options":null,"is_numerical":1}
+{"qid":"11148.png-1","query":"What is the ratio of the balance of payments for travel services in Slovak Republic in 2006 to that in 2007 ?","answer":"0.9732844263995364","options":null,"is_numerical":1}
+{"qid":"18673.png-1","query":"In which year was the percentage of trained teachers in Burundi maximum?","answer":"2010","options":null,"is_numerical":0}
+{"qid":"2646.png-1","query":"What is the average land under cereal production in Estonia per year?","answer":"283901.75","options":null,"is_numerical":1}
+{"qid":"26759.png-1","query":"In which year was the percentage of trained teachers in Benin minimum?","answer":"2009","options":null,"is_numerical":0}
+{"qid":"9940.png-1","query":"What is the ratio of the rating index in Equatorial Guinea in 2006 to that in 2007 ?","answer":"1.119047619047619","options":null,"is_numerical":1}
+{"qid":"9542.png-1","query":"What is the difference between the total arms export in 1962 in Spain and that in Sweden ?","answer":"-25000000.0","options":null,"is_numerical":1}
+{"qid":"14971.png-1","query":"Is the CPIA rating in Chad in 2009 less than that in 2011 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"16433.png-1","query":"What is the difference between the highest and the lowest unemployed females population ?","answer":"1.0","options":null,"is_numerical":1}
+{"qid":"12997.png-1","query":"What is the difference between the total CO2 emitted in Tanzania in 2005 and the total CO2 emitted in South Africa in 2003 ?","answer":"-0.03185249586704986","options":null,"is_numerical":1}
+{"qid":"7964.png-1","query":"What is the difference between the highest and the second highest under-five mortality rate in 1961 ?","answer":"27.19999999999999","options":null,"is_numerical":1}
+{"qid":"1729.png-1","query":"Across all years, what is the minimum PPP conversion factor for GDP in Marshall Islands ?","answer":"0.879941453631203","options":null,"is_numerical":1}
+{"qid":"14623.png-1","query":"Across all countries, what is the maximum percentage of exports to different countries in 1963 ?","answer":"63.4845396749119","options":null,"is_numerical":1}
+{"qid":"21343.png-1","query":"What is the median adjusted net savings ?","answer":"7118811.260908615","options":null,"is_numerical":1}
+{"qid":"307.png-1","query":"What is the ratio of the percentage of undernourished male children in 1999 to that in 2011?","answer":"0.9682539238020308","options":null,"is_numerical":1}
+{"qid":"5164.png-1","query":"What is the difference between the contraceptive prevalence in 1984 and 1994 ?","answer":"-9.700000000000003","options":null,"is_numerical":1}
+{"qid":"7908.png-1","query":"What is the difference between the proportion of the female labor force who participated in production in 1992 in Malta and the proportion of the female labor force who participated in production in 1991 in Maldives?","answer":"43.1000003814698","options":null,"is_numerical":1}
+{"qid":"25444.png-1","query":"In which country was the number of procedures to build a warehouse in in 2006 minimum?","answer":"Mozambique","options":null,"is_numerical":0}
+{"qid":"2135.png-1","query":"In the year 1994, what is the difference between the amount earned from merchandise imports in North America and amount earned from merchandise imports in Aruba ?","answer":"843398726256.9833","options":null,"is_numerical":1}
+{"qid":"19971.png-1","query":"In which year was the value added by the industrial sector in Uruguay maximum?","answer":"2002","options":null,"is_numerical":0}
+{"qid":"25317.png-1","query":"Across all countries, what is the maximum total cereal production in 1961 ?","answer":"9289600.0","options":null,"is_numerical":1}
+{"qid":"3587.png-1","query":"Across all years, what is the minimum Balance of Payments in Maldives ?","answer":"9302139.3","options":null,"is_numerical":1}
+{"qid":"16291.png-1","query":"What is the median unemployed male youth population ?","answer":"7.250000238418565","options":null,"is_numerical":1}
+{"qid":"4968.png-1","query":"Does the percentage of babies who were born with low-birthweight monotonically increase over the years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"29258.png-1","query":"What is the difference between the highest and the lowest percentage of total labor force with primary education in Slovak Republic ?","answer":"0.8999996185302779","options":null,"is_numerical":1}
+{"qid":"10332.png-1","query":"In which country was the number of documents required per shipment to import goods in 2007 maximum?","answer":"Nigeria","options":null,"is_numerical":0}
+{"qid":"31186.png-1","query":"Does \"Efficiency of custom clearance process\" appear as one of the legend labels in the graph ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"20469.png-1","query":"What is the difference between the highest and the second highest net bilateral aid flow in Sao Tome and Principe ?","answer":"970000.0","options":null,"is_numerical":1}
+{"qid":"30644.png-1","query":"What is the ratio of the net national savings in Sudan in 2010 to that in 2012?","answer":"2.0594466948255366","options":null,"is_numerical":1}
+{"qid":"7492.png-1","query":"What is the average share of income held by first 20% of the population in Moldova per year ?","answer":"40.92","options":null,"is_numerical":1}
+{"qid":"27991.png-1","query":"What is the ratio of the percentage of total male population who survived till the age of 65 years in 1961 in Iceland to that in India?","answer":"2.416242819204161","options":null,"is_numerical":1}
+{"qid":"2659.png-1","query":"What is the average age dependency ratio(young) in Cameroon per year?","answer":"88.77981051754804","options":null,"is_numerical":1}
+{"qid":"25776.png-1","query":"What does the 1st bar from the right in Albania represents ?","answer":"Tertiary education","options":null,"is_numerical":0}
+{"qid":"25098.png-1","query":"In which country was the cost of damage caused due to forest depletion in 1970 maximum?","answer":"Burundi","options":null,"is_numerical":0}
+{"qid":"11097.png-1","query":"What is the ratio of the amount spent on the travel items of national tourists in Uganda in 2010 to that in 2011 ?","answer":"0.8166666666666667","options":null,"is_numerical":1}
+{"qid":"14657.png-1","query":"What is the total number of enrolments in primary education in the graph ?","answer":"4879755","options":null,"is_numerical":0}
+{"qid":"7822.png-1","query":"In which country was the age dependency ratio(old) in 1961 maximum?","answer":"Ireland","options":null,"is_numerical":0}
+{"qid":"25716.png-1","query":"Across all countries, what is the maximum number of applications filed in 1961 ?","answer":"23219.0","options":null,"is_numerical":1}
+{"qid":"20549.png-1","query":"Across all years, what is the maximum proportion of male employers in Russian Federation ?","answer":"0.8999999761581421","options":null,"is_numerical":1}
+{"qid":"25179.png-1","query":"Across all countries, what is the maximum participation of population in social insurance programs ?","answer":"53.0315119460687","options":null,"is_numerical":1}
+{"qid":"1567.png-1","query":"Is the number of applications filed in Guatemala strictly greater than the number of applications filed in Europe(developing only) over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"30590.png-1","query":"Across all countries, what is the minimum amount spent on imports in 2008 ?","answer":"3120807925.0","options":null,"is_numerical":1}
+{"qid":"11141.png-1","query":"What is the average amount of fertilizer consumption in Russian Federation per year ?","answer":"14.559670047727","options":null,"is_numerical":1}
+{"qid":"12906.png-1","query":"What is the difference between the natural gas rent in 1971 in Japan and that in Mexico ?","answer":"-0.2994355641571796","options":null,"is_numerical":1}
+{"qid":"17146.png-3","query":"Does the fertility rate monotonically increase over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"748.png-1","query":"What is the difference between the cost of damage caused due to CO2 emissisons in Cameroon in 1984 and that in 1985 ?","answer":"-2693210.5376277007","options":null,"is_numerical":1}
+{"qid":"7826.png-1","query":"What is the difference between the age dependency ratio(young) in 1962 and age dependency ratio(young) in 1961 in Moldova ?","answer":"1.610166049765887","options":null,"is_numerical":1}
+{"qid":"9320.png-1","query":"In which country was the percentage of labor force in 1990 minimum?","answer":"Armenia","options":null,"is_numerical":0}
+{"qid":"13718.png-1","query":"Across all years, what is the maximum CPIA rating in South Asia ?","answer":"3.5625","options":null,"is_numerical":1}
+{"qid":"27308.png-1","query":"In which year was the amount exported in Europe(all income levels) minimum?","answer":"2005","options":null,"is_numerical":0}
+{"qid":"24517.png-1","query":"In which year was the adolescent fertility rate in Algeria minimum?","answer":"1974","options":null,"is_numerical":0}
+{"qid":"32557.png-1","query":"What is the difference between the contributing male family workers in 2004 and 2006 ?","answer":"0.1","options":null,"is_numerical":1}
+{"qid":"13100.png-1","query":"Does \"2004\" appear as one of the legend labels in the graph ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"30781.png-1","query":"What does the 1st bar from the left in Private funds represents ?","answer":"Samoa","options":null,"is_numerical":0}
+{"qid":"86.png-1","query":"Across all years, what is the maximum percentage of self-employed female workers in Kyrgyz Republic ?","answer":"51.2999992370605","options":null,"is_numerical":1}
+{"qid":"28990.png-1","query":"What is the CPIA rating in Sub-Saharan Africa (developing only) in 2010 ?","answer":"3.35526315789474","options":null,"is_numerical":1}
+{"qid":"14008.png-1","query":"In how many countries, is the amount of grants received(excluding technical cooperation) greater than the average amount of grants received(excluding technical cooperation) taken over all countries ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"21138.png-1","query":"What is the difference between the highest and the second highest gross intake ratio in Cameroon ?","answer":"19.456441872558578","options":null,"is_numerical":1}
+{"qid":"23508.png-1","query":"What is the difference between the Logistic performance index in 2010 in Dominican Republic and that in Egypt, Arab Rep. ?","answer":"0.029999999999999805","options":null,"is_numerical":1}
+{"qid":"13902.png-1","query":"Across all countries, what is the minimum number of days required to start a business in 2005 ?","answer":"8.0","options":null,"is_numerical":1}
+{"qid":"13424.png-1","query":"In how many countries, is the employment to population ratio in 1991 greater than 26 % ?","answer":"4","options":null,"is_numerical":1}
+{"qid":"32101.png-2","query":"Do a majority of the years between 2011 and 2012 (inclusive) have birth registration greater than 68 % ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"14479.png-1","query":"In the year 2011, what is the difference between the number of depositors involved with commercial banks in Croatia and number of depositors involved with commercial banks in Israel ?","answer":"413.43670257342","options":null,"is_numerical":1}
+{"qid":"18803.png-1","query":"In which year was the male mortality rate in Indonesia maximum?","answer":"2008","options":null,"is_numerical":0}
+{"qid":"17993.png-1","query":"Across all years, what is the maximum total aid received in Israel ?","answer":"172350000.0","options":null,"is_numerical":1}
+{"qid":"12027.png-1","query":"Is it the case that in every year, the sum of the net official aid flow in Vietnam and net official aid flow in Bolivia is greater than the net official aid flow in Arab World ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"19156.png-1","query":"Across all years, what is the maximum number of passengers carried by air carriers in China ?","answer":"53234000.0","options":null,"is_numerical":1}
+{"qid":"14015.png-1","query":"Across all years, what is the maximum expenditure spent by government on the primary education in Mexico ?","answer":"40.0029182434082","options":null,"is_numerical":1}
+{"qid":"12356.png-1","query":"What is the difference between the emission of sf6 gas in North America and that in OECD members ?","answer":"4161.4","options":null,"is_numerical":1}
+{"qid":"16400.png-1","query":"What is the median average precipitation in depth ?","answer":"1651.0","options":null,"is_numerical":1}
+{"qid":"8361.png-1","query":"Is the urban population in 1960 in Belarus less than that in Belize ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"12853.png-1","query":"What is the difference between the percentage of newborns who received vaccination for tetanus in Lao PDR and that in Togo ?","answer":"-12","options":null,"is_numerical":0}
+{"qid":"22360.png-2","query":"Across all years, what is the minimum total female labor force ?","answer":"21.1330413614311","options":null,"is_numerical":1}
+{"qid":"3313.png-1","query":"What is the percentage of the unemployed female labor force with secondary education in Ethiopia in 1999 ?","answer":"66.6999969482422","options":null,"is_numerical":1}
+{"qid":"23905.png-1","query":"In which year was the share of income held by first 20% of the population in Turkey maximum?","answer":"2011","options":null,"is_numerical":0}
+{"qid":"24634.png-1","query":"What is the birth rate in 1961 in Albania ?","answer":"41.26600000000001","options":null,"is_numerical":1}
+{"qid":"16007.png-1","query":"What is the ratio of the poverty gap at national poverty lines in Indonesia to that in Kazakhstan?","answer":"3.8","options":null,"is_numerical":1}
+{"qid":"33238.png-1","query":"Is the total number of international migrant stock in 1990 less than that in 1995 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"10952.png-1","query":"What is the percentage of female labor force who received secondary education in Germany ?","answer":"59.4000015258789","options":null,"is_numerical":1}
+{"qid":"30444.png-1","query":"In which country was the net bilateral aid flow in 1963 maximum?","answer":"Iran","options":null,"is_numerical":0}
+{"qid":"26551.png-2","query":"In the year 2002, what is the difference between the infant mortality rate in Germany and infant mortality rate in Micronesia ?","answer":"-36.4","options":null,"is_numerical":1}
+{"qid":"9498.png-2","query":"Is the ratio of bank capital and reserves to total assets in 2002 in Bolivia less than that in Bosnia and Herzegovina ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"31844.png-1","query":"In which year was the total unemployed male labour force maximum ?","answer":"2010","options":null,"is_numerical":0}
+{"qid":"23338.png-1","query":"In which year was the amount of disbursements of loans from regional development banks in Low income maximum?","answer":"1980","options":null,"is_numerical":0}
+{"qid":"28926.png-1","query":"In which country was the net official aid flow in 2009 minimum?","answer":"Cote d'Ivoire","options":null,"is_numerical":0}
+{"qid":"14636.png-1","query":"What is the difference between the total electricity produced in 1960 and total electricity produced in 1962 in Italy ?","answer":"-0.24025448645366998","options":null,"is_numerical":1}
+{"qid":"29331.png-1","query":"What is the difference between the highest and the second highest amount of CO2 emitted in Poland ?","answer":"1602.4789999999994","options":null,"is_numerical":1}
+{"qid":"30763.png-2","query":"What is the ratio of the employment to population ratio in OECD members in 1998 to that in 1999?","answer":"1.0027929268402107","options":null,"is_numerical":1}
+{"qid":"29263.png-1","query":"What is the difference between the labor force participation rate in Russian Federation in 2005 and that in 2008 ?","answer":"-1.399997711181598","options":null,"is_numerical":1}
+{"qid":"334.png-1","query":"Across all years, what is the maximum enrollment rate of male students ?","answer":"51.01927","options":null,"is_numerical":1}
+{"qid":"29981.png-1","query":"What is the difference between the total revenue generated in Barbados in 2007 and that in 2008 ?","answer":"0.2981002265981001","options":null,"is_numerical":1}
+{"qid":"11653.png-1","query":"What is the total arms import in Mongolia in 1983 ?","answer":"114000000.0","options":null,"is_numerical":1}
+{"qid":"6146.png-1","query":"In how many years, is the employment in public sector in Zambia greater than 36 % ?","answer":"0","options":null,"is_numerical":1}
+{"qid":"4024.png-1","query":"In the year 2011, what is the difference between the percentage of broad money claimed on domestic economy in Honduras and percentage of broad money claimed on domestic economy in Croatia ?","answer":"5.52637894124987","options":null,"is_numerical":1}
+{"qid":"30449.png-1","query":"Across all years, what is the maximum gross enrolment ratio(male) in tertiary schools ?","answer":"11.4195804595947","options":null,"is_numerical":1}
+{"qid":"11977.png-1","query":"What is the difference between the gross intake ratio in Sierra Leone in 2012 and that in 2013 ?","answer":"-8.68864440918","options":null,"is_numerical":1}
+{"qid":"31374.png-1","query":"What is the natural gas rent in 1971 in Colombia ?","answer":"0.19420342737455","options":null,"is_numerical":1}
+{"qid":"8036.png-1","query":"What is the average percentage of total female population who survived till the age of 65 years in 1960 per country ?","answer":"44.19668800000001","options":null,"is_numerical":1}
+{"qid":"32228.png-1","query":"Across all years, what is the maximum age dependency ratio ?","answer":"63.4230750667721","options":null,"is_numerical":1}
+{"qid":"33537.png-1","query":"Is the freight insurance in 2009 less than that in 2012 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"29077.png-1","query":"What is the difference between the natural gas rent of/in 1972 and natural gas rent of/in 1973 in Bolivia?","answer":"-0.8965284261092208","options":null,"is_numerical":1}
+{"qid":"27325.png-1","query":"Across all countries, what is the maximum percentage of the HIV infected people who are receiving antiretroviral therapy in 2002 ?","answer":"21.0","options":null,"is_numerical":1}
+{"qid":"4436.png-1","query":"In which year was the cost of communications and computer minimum ?","answer":"2010","options":null,"is_numerical":0}
+{"qid":"24241.png-1","query":"In how many years, is the male mortality rate greater than 70 ?","answer":"5","options":null,"is_numerical":1}
+{"qid":"978.png-1","query":"In which year was the percentage of obese female children minimum?","answer":"2000","options":null,"is_numerical":0}
+{"qid":"13644.png-1","query":"In which country was the natural gas rent in 1971 maximum?","answer":"Algeria","options":null,"is_numerical":0}
+{"qid":"6910.png-1","query":"In which country was the percentage of population who used sanitation services minimum?","answer":"Burkina Faso","options":null,"is_numerical":0}
+{"qid":"22124.png-1","query":"Across all years, what is the minimum container port traffic ?","answer":"1013483.0","options":null,"is_numerical":1}
+{"qid":"4604.png-1","query":"What is the difference between the highest and the second highest vitamin a supplementation coverage rate ?","answer":"0","options":null,"is_numerical":1}
+{"qid":"2191.png-2","query":"What is the difference between the highest and the second highest Insurance provided to residents in Lao PDR ?","answer":"1.755775526316092","options":null,"is_numerical":1}
+{"qid":"23973.png-2","query":"What is the difference between the under-5 mortality rate in 2002 and that in 2003 ?","answer":"0.09999999999999964","options":null,"is_numerical":1}
+{"qid":"14014.png-1","query":"In which country was the balance of payments of travel services in 2007 maximum?","answer":"Sudan","options":null,"is_numerical":0}
+{"qid":"24325.png-1","query":"In how many countries, is the amount of co2 emissions from gaseous fuel greater than 230000 kt ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"19713.png-1","query":"Is the percentage of amount earned from merchandise exports in Portugal strictly greater than the percentage of amount earned from merchandise exports in Moldova over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"11912.png-1","query":"What does the 1st bar from the top in Italy represents ?","answer":"1963","options":null,"is_numerical":0}
+{"qid":"6285.png-1","query":"Is the sum of the annual growth rate in broad money in 2003 and 2006 greater than the maximum annual growth rate in quasi money across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"12087.png-1","query":"In how many countries, is the total imports of goods and services in 1962 greater than 8400000000 US$ ?","answer":"1","options":null,"is_numerical":1}
+{"qid":"28845.png-1","query":"In which country was the total CO2 emitted in 1960 maximum?","answer":"Finland","options":null,"is_numerical":0}
+{"qid":"9715.png-1","query":"What is the difference between the amount of CO2 emitted due to industrial production in 1961 and amount of CO2 emitted due to industrial production in 1960 in Fiji ?","answer":"-0.04536461460570099","options":null,"is_numerical":1}
+{"qid":"18244.png-1","query":"What is the difference between the highest and the lowest PPP conversion factor for private consumption in Afghanistan ?","answer":"3","options":null,"is_numerical":1}
+{"qid":"32895.png-1","query":"In how many countries, is the co2 emissions from gaseous fuel consumption greater than 6800000 kt ?","answer":"1","options":null,"is_numerical":1}
+{"qid":"32895.png-2","query":"What is the difference between the highest and the second highest co2 emissions from gaseous fuel consumption ?","answer":"8203772.729","options":null,"is_numerical":1}
+{"qid":"23467.png-1","query":"Does \"Males\" appear as one of the legend labels in the graph ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"25958.png-1","query":"What is the average GDP per capita in 1961 per country?","answer":"8736.872825004326","options":null,"is_numerical":1}
+{"qid":"4606.png-2","query":"Do a majority of the years between 2007 and 2006 (inclusive) have population in urban agglomerations greater than 2000000 % ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"17055.png-1","query":"In the year 1971, what is the difference between the enrollment rate in primary education and enrollment rate in secondary education ?","answer":"42.311560000000014","options":null,"is_numerical":1}
+{"qid":"540.png-1","query":"What is the ratio of the earnings from merchandise exports in 1969 to that in 1970?","answer":"1.2984650139156781","options":null,"is_numerical":1}
+{"qid":"24349.png-1","query":"Is the income share held by highest 10% of the population in 1998 less than that in 2003 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"10274.png-1","query":"In the year 2003, what is the difference between the number of researchers who participated in R&D projects in Ireland and number of researchers who participated in R&D projects in Spain ?","answer":"306.0222100000001","options":null,"is_numerical":1}
+{"qid":"27361.png-1","query":"What is the ratio of the net official development assistance aid received in 1961 in Congo (Republic) to that in Costa Rica?","answer":"0.05264697279906405","options":null,"is_numerical":1}
+{"qid":"16397.png-1","query":"What is the median ida resource allocation index ?","answer":"3.5125","options":null,"is_numerical":1}
+{"qid":"30265.png-1","query":"Across all years, what is the minimum percentage of taxes paid by businesses in Zambia ?","answer":"10.4","options":null,"is_numerical":1}
+{"qid":"3630.png-1","query":"What is the average total theoretical duration of primary education in Macedonia per year?","answer":"4.0","options":null,"is_numerical":1}
+{"qid":"4048.png-1","query":"What is the ratio of the percentage of expenses made by the government on compensation of employees in Sub-Saharan Africa (developing only) in 2007 to that in 2009?","answer":"0.9717900405369723","options":null,"is_numerical":1}
+{"qid":"27123.png-1","query":"Across all countries, what is the maximum number of new registrations in 2005 ?","answer":"9.1079741264402","options":null,"is_numerical":1}
+{"qid":"21360.png-1","query":"Is the number of births attended by skilled health staff in 2002 less than that in 2006 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"3350.png-1","query":"Is the total CO2 emitted in Upper middle income in 1990 less than that in 1991 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"4021.png-1","query":"In the year 1995, what is the difference between the female labor force participation rate in St. Vincent and the Grenadines and female labor force participation rate in Sub-Saharan Africa (all income levels) ?","answer":"-6.660773737830198","options":null,"is_numerical":1}
+{"qid":"22192.png-1","query":"What is the median percentage of children who were provided with ari treatment ?","answer":"65.8","options":null,"is_numerical":1}
+{"qid":"29280.png-1","query":"What is the difference between the CPIA rating in Togo in 2008 and the CPIA rating in Eritrea in 2010?","answer":"-0.5","options":null,"is_numerical":1}
+{"qid":"2190.png-1","query":"What is the ratio of the total amount earned by exporting goods and services in Low & middle income in 2009 to that in 2010?","answer":"0.8439836521517533","options":null,"is_numerical":1}
+{"qid":"32475.png-1","query":"What is the difference between the highest and the second highest unemployed female youth population ?","answer":"4.21","options":null,"is_numerical":1}
+{"qid":"4485.png-1","query":"In which year was the cereal yield maximum ?","answer":"1990","options":null,"is_numerical":0}
+{"qid":"24530.png-1","query":"What is the difference between the highest and the second highest cost of communications and computers in 2007 ?","answer":"-32.8869184201474","options":null,"is_numerical":1}
+{"qid":"7708.png-1","query":"What is the average electricity production in in 1962 per country ?","answer":"61.12607978989772","options":null,"is_numerical":1}
+{"qid":"31659.png-1","query":"What is the amount of industrial nitrous oxide emitted in 2008 in Germany ?","answer":"9718.4","options":null,"is_numerical":1}
+{"qid":"10886.png-1","query":"What is the ratio of the entrance age of children in lower secondary education in Ecuador to that in Peru ?","answer":"1.0","options":null,"is_numerical":1}
+{"qid":"6580.png-1","query":"What is the difference between the rating of statistical capacity in Dominica in 2011 and that in 2012 ?","answer":"-10.0","options":null,"is_numerical":1}
+{"qid":"8351.png-1","query":"What is the difference between the percentage of obese female children and percentage of obese male children in Yemen, Rep. ?","answer":"0.20000004768371982","options":null,"is_numerical":1}
+{"qid":"5220.png-2","query":"Is the average precipitation in depth in 1987 less than that in 1997 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"7895.png-1","query":"Across all countries, what is the maximum percentage of HIV infected population in in 1990 ?","answer":"5.1","options":null,"is_numerical":1}
+{"qid":"7871.png-1","query":"Is it the case that in every country, the sum of the net official aid flow in 2008 and net official aid flow in 2007 is greater than the net official aid flow in 2006 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"17659.png-1","query":"Does \"Primary completion rate\" appear as one of the legend labels in the graph ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"1532.png-1","query":"Across all years, what is the minimum total calories needed to lift the undernourished population in Uzbekistan ?","answer":"45","options":null,"is_numerical":0}
+{"qid":"21226.png-1","query":"Across all years, what is the maximum percentage of GDP claimed on the central government in Lesotho ?","answer":"0","options":null,"is_numerical":1}
+{"qid":"18194.png-1","query":"Across all years, what is the maximum number of out-of-school female children in Swaziland ?","answer":"19433.0","options":null,"is_numerical":1}
+{"qid":"26592.png-2","query":"Across all countries, what is the maximum number of broadband subscriptions in 1999 ?","answer":"3336286.0","options":null,"is_numerical":1}
+{"qid":"2423.png-2","query":"In how many years, is the percentage of tax revenue from customs in Poland greater than 16 %?","answer":"0","options":null,"is_numerical":1}
+{"qid":"32587.png-1","query":"Is the sum of the unemployed youth in 2006 and 2008 greater than the maximum unemployed youth across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"7730.png-1","query":"In how many years, is the information index in Nicaragua greater than 0.4  ?","answer":"3","options":null,"is_numerical":1}
+{"qid":"22893.png-1","query":"Across all countries, what is the maximum official aid received ?","answer":"2092760000","options":null,"is_numerical":0}
+{"qid":"29300.png-1","query":"What is the average net bilateral aid flow in 1962 per country?","answer":"29655000.0","options":null,"is_numerical":1}
+{"qid":"9920.png-1","query":"Across all countries, what is the maximum capital used up in the process of production in 1970 ?","answer":"7.28214105754768","options":null,"is_numerical":1}
+{"qid":"9037.png-1","query":"Is the sum of the total amount earned by exporting goods and services in Russian Federation in 1996 and 1997 greater than the maximum total amount earned by exporting goods and services in Heavily indebted poor countries across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"12614.png-1","query":"What is the difference between the net official aid flow in 1971 in Nigeria and the net official aid flow in 1968 in Paraguay?","answer":"3470000.0","options":null,"is_numerical":1}
+{"qid":"1406.png-1","query":"In which year was the current expenditures in secondary public institutions in South Africa maximum?","answer":"2009","options":null,"is_numerical":0}
+{"qid":"15066.png-1","query":"In which country was the long-term female unemployment minimum ?","answer":"Mexico","options":null,"is_numerical":0}
+{"qid":"27678.png-1","query":"In the year 2000, what is the difference between the total arms export in Moldova and total arms export in Pakistan ?","answer":"3000000.0","options":null,"is_numerical":1}
+{"qid":"31455.png-2","query":"What is the difference between the adjusted net savings in Angola in 1998 and the adjusted net savings in Vanuatu in 1996?","answer":"0","options":null,"is_numerical":1}
+{"qid":"10488.png-2","query":"In how many countries, is the net GHG emissions or removals by LUCF in 1990 greater than -0.36000000000000004 Mt ?","answer":"0","options":null,"is_numerical":1}
+{"qid":"5147.png-1","query":"What is the ratio of the value added by agriculture sector in 1975 to that in 1976 ?","answer":"0.854586129753915","options":null,"is_numerical":1}
+{"qid":"8434.png-1","query":"Across all years, what is the maximum aid flow in in Samoa ?","answer":"31490000.0","options":null,"is_numerical":1}
+{"qid":"2915.png-1","query":"What is the ratio of the lower secondary completion rate of female students in Upper middle income in 2007 to that in 2011?","answer":"0.9373145465707496","options":null,"is_numerical":1}
+{"qid":"9628.png-1","query":"In which year was the number of applications made by in Germany maximum?","answer":"2000","options":null,"is_numerical":0}
+{"qid":"3527.png-1","query":"In which year was the net bilateral aid flow in Cabo Verde maximum?","answer":"2000","options":null,"is_numerical":0}
+{"qid":"10763.png-1","query":"What is the difference between the percentage of employed children who are not attending school in Nepal and that in Mozambique ?","answer":"-4.754258092649799","options":null,"is_numerical":1}
+{"qid":"16038.png-1","query":"What is the difference between the highest and the second highest unemployed male youth population ?","answer":"2.33","options":null,"is_numerical":1}
+{"qid":"22000.png-1","query":"In which year was the number of tractors minimum ?","answer":"1973","options":null,"is_numerical":0}
+{"qid":"22765.png-1","query":"What is the difference between the highest and the second highest co2 emissions due to manufacturing industries ?","answer":"1.284832304355099","options":null,"is_numerical":1}
+{"qid":"24566.png-1","query":"Is it the case that in every year, the sum of the global equity indices in Oman and global equity indices in Pakistan is greater than the global equity indices in Mexico ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"28060.png-1","query":"What is the difference between the highest and the second highest net official aid flow in 2007 ?","answer":"570000.0","options":null,"is_numerical":1}
+{"qid":"24497.png-1","query":"Across all years, what is the minimum remittances received by the government employees in Croatia ?","answer":"1890465246.39956","options":null,"is_numerical":1}
+{"qid":"33235.png-1","query":"Across all years, what is the maximum amount of fertilizer consumption ?","answer":"150.51328419937","options":null,"is_numerical":1}
+{"qid":"2980.png-1","query":"Across all years, what is the maximum percentage of population listed by a private credit bureau in Euro area ?","answer":"47.97368421052629","options":null,"is_numerical":1}
+{"qid":"13567.png-1","query":"What is the difference between the highest and the lowest percentage of vaccinated children in 1983 ?","answer":"29.0","options":null,"is_numerical":1}
+{"qid":"26773.png-1","query":"In which year was the amount of co2 emissions from solid fuel maximum?","answer":"2007","options":null,"is_numerical":0}
+{"qid":"6373.png-1","query":"Does \"1996\" appear as one of the legend labels in the graph ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"26007.png-1","query":"What is the ratio of the percentage of long-term unemployed male population in 1980 in Australia to that in United States?","answer":"3.788461824140624","options":null,"is_numerical":1}
+{"qid":"4005.png-1","query":"What is the ratio of the amount of CO2 emitted in West Bank and Gaza in 2001 to that in 2002?","answer":"1.168253968253968","options":null,"is_numerical":1}
+{"qid":"21196.png-1","query":"In which year was the total expenditure spent by the government in R&D projects in Belgium maximum?","answer":"2005","options":null,"is_numerical":0}
+{"qid":"28707.png-1","query":"In which year was the percentage of firms offering payroll services maximum?","answer":"2009","options":null,"is_numerical":0}
+{"qid":"30535.png-2","query":"Is the sum of the percentage of workers in agriculture in 1996 and 1998 greater than the maximum percentage of workers in industry across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"17022.png-1","query":"Is the earnings from merchandise exports strictly greater than the earnings from merchandise imports over the years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"11113.png-1","query":"What is the total amount earned by trading goods and services in 1961 in Ecuador ?","answer":"1190439881.9048","options":null,"is_numerical":1}
+{"qid":"427.png-2","query":"Is the percentage of firms listed by private credit bureau in 2007 less than that in 2009 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"13534.png-1","query":"In how many years, is the CPIA rating in Timor-Leste greater than 0.5  ?","answer":"5","options":null,"is_numerical":1}
+{"qid":"3026.png-1","query":"Is the total revenue generated in Estonia in 2001 less than that in 2002 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"6459.png-1","query":"What is the difference between the cost of damage caused due to CO2 emissisons in Libya in 1976 and that in 1979 ?","answer":"-31714813.507522978","options":null,"is_numerical":1}
+{"qid":"11792.png-1","query":"Is the sum of the male labor force participation rate in 1993 in Latvia and Lebanon greater than the maximum male labor force participation rate in 1991 across all countries ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"26996.png-1","query":"Across all years, what is the minimum percentage of undernourished population in Ethiopia ?","answer":"58.0","options":null,"is_numerical":1}
+{"qid":"26856.png-1","query":"What is the difference between the PPP conversion factor for private consumption in Gabon in 2011 and the PPP conversion factor for private consumption in Ghana in 2012?","answer":"358.37576027620247","options":null,"is_numerical":1}
+{"qid":"33498.png-1","query":"What is the average percentage of agricultural irrigated land per year ?","answer":"3.792","options":null,"is_numerical":1}
+{"qid":"29451.png-1","query":"In which country was the percentage of urban population growth in 1962 minimum?","answer":"Czech Republic","options":null,"is_numerical":0}
+{"qid":"3137.png-1","query":"What is the difference between the highest and the lowest number of days required to start a business in Marshall Islands ?","answer":"0","options":null,"is_numerical":0}
+{"qid":"28794.png-1","query":"What is the average coal rent in 1973 per country?","answer":"0.03401188643337526","options":null,"is_numerical":1}
+{"qid":"3608.png-1","query":"Does the percentage of vaccinated children in Tonga monotonically increase over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"25976.png-1","query":"In which year was the age dependency ratio in in United Kingdom minimum?","answer":"1989","options":null,"is_numerical":0}
+{"qid":"9033.png-2","query":"What is the difference between the highest and the second highest amount of CO2 emitted in Bulgaria ?","answer":"1151.438","options":null,"is_numerical":1}
+{"qid":"12869.png-1","query":"In the year 1993, what is the difference between the net bilateral aid flow in Grenada and net bilateral aid flow in Kazakhstan ?","answer":"100000.0","options":null,"is_numerical":1}
+{"qid":"18764.png-1","query":"Does the line corresponding to percentage of revenue generated by taxes on goods and services intersect with the line corresponding to percentage of revenue generated by tax on international trade ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"16145.png-1","query":"Is the sum of the net bilateral aid flows from dac donors in 1987 and 1989 greater than the maximum net bilateral aid flows from dac donors across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"33480.png-1","query":"What is the difference between the highest and the second highest percentage of agricultural irrigated land ?","answer":"0.298","options":null,"is_numerical":1}
+{"qid":"15300.png-1","query":"What is the ratio of the number of days required to register property in Ethiopia to that in Finland?","answer":"3.714","options":null,"is_numerical":1}
+{"qid":"31658.png-1","query":"Is the labor force participation rate in 1993 in Low & middle income less than that in Lower middle income ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"25514.png-1","query":"In which country was the amount of nitrous oxide emitted in 1990 maximum?","answer":"Switzerland","options":null,"is_numerical":0}
+{"qid":"29622.png-1","query":"Is the sum of the net official aid flow in East Asia (all income levels) in 2011 and 2012 greater than the maximum net official aid flow in Sudan across all years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"11878.png-1","query":"What is the difference between the amount of nitrous oxide emitted in 2008 in Singapore and that in Slovenia ?","answer":"-791.3","options":null,"is_numerical":1}
+{"qid":"30312.png-1","query":"What is the ratio of the number of procedures required to register a property in Estonia in 2013 to that in 2014?","answer":"1.0","options":null,"is_numerical":1}
+{"qid":"6652.png-2","query":"Is the sum of the share of income held by first 20% of the population in Ukraine in 1995 and 1999 greater than the maximum share of income held by first 20% of the population in Belize across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"7917.png-1","query":"In the year 1968, what is the difference between the net official aid received in North America and net official aid received in Maldives ?","answer":"-250000.0","options":null,"is_numerical":1}
+{"qid":"13614.png-1","query":"What is the total female labor force participation rate in Korea (Republic) in the graph ?","answer":"149.7999992370606","options":null,"is_numerical":1}
+{"qid":"33069.png-1","query":"Across all countries, what is the minimum time to prepare and pay taxes ?","answer":"117.0","options":null,"is_numerical":1}
+{"qid":"24080.png-1","query":"Does \"GDP per capita\" appear as one of the legend labels in the graph ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"3706.png-1","query":"What is the net bilateral aid flow in Estonia in 1998 ?","answer":"790000.0","options":null,"is_numerical":1}
+{"qid":"8606.png-1","query":"Across all countries, what is the maximum total arable land in 1961 ?","answer":"1925000.0","options":null,"is_numerical":1}
+{"qid":"30731.png-1","query":"What is the ratio of the number of procedures required to register a property in Iceland in 2013 to that in 2015?","answer":"1.0","options":null,"is_numerical":1}
+{"qid":"22501.png-2","query":"What is the difference between the highest and the second highest Logistic performance index in Jamaica ?","answer":"0.5057399999999999","options":null,"is_numerical":1}
+{"qid":"1912.png-1","query":"Does \"French Polynesia\" appear as one of the legend labels in the graph ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"31838.png-1","query":"In which year was the total labor force participation rate maximum ?","answer":"1997","options":null,"is_numerical":0}
+{"qid":"19645.png-1","query":"Does \"Low & middle income\" appear as one of the legend labels in the graph ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"19987.png-1","query":"Across all years, what is the maximum CPIA rating in Middle East & North Africa (developing only) ?","answer":"3.25","options":null,"is_numerical":1}
+{"qid":"24300.png-1","query":"Is the percentage of economically active children in agriculture in Cambodia less than that in Madagascar ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"29452.png-1","query":"What is the difference between the amount of CO2 emitted of/in 1960 and amount of CO2 emitted of/in 1961 in Dominica?","answer":"0.0","options":null,"is_numerical":1}
+{"qid":"17976.png-1","query":"In which year was the age dependency ratio in in Lithuania maximum?","answer":"1993","options":null,"is_numerical":0}
+{"qid":"9303.png-1","query":"Is the sum of the number of broadband subscriptions in 2000 in Korea (Republic) and Singapore greater than the maximum number of broadband subscriptions in 1999 across all countries ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"11069.png-1","query":"Across all years, what is the minimum number of days required to register a property in Guyana ?","answer":"75","options":null,"is_numerical":0}
+{"qid":"11689.png-1","query":"What is the difference between the total CO2 emitted in Serbia in 1994 and the total CO2 emitted in Ethiopia in 1993 ?","answer":"-12.18207533229665","options":null,"is_numerical":1}
+{"qid":"12275.png-1","query":"What is the ratio of the percentage of population listed by a public credit bureau in 2006 in Central African Republic to that in Chile ?","answer":"0.035143769968051124","options":null,"is_numerical":1}
+{"qid":"4370.png-1","query":"In how many years, is the total debt in Mauritius greater than 5200000000 US$?","answer":"0","options":null,"is_numerical":1}
+{"qid":"25396.png-1","query":"In which year was the percentage of HIV infected female population in Uzbekistan maximum?","answer":"1999","options":null,"is_numerical":0}
+{"qid":"23994.png-1","query":"In how many countries, is the amount of aid given by japan greater than the average amount of aid given by japan taken over all countries ?","answer":"1","options":null,"is_numerical":1}
+{"qid":"8466.png-1","query":"Is the under-five mortality rate in Romania in 1990 less than that in 2000 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"21554.png-1","query":"What is the ratio of the survival rate in 1974 to that in 1981 ?","answer":"0.8175472140583616","options":null,"is_numerical":1}
+{"qid":"28735.png-1","query":"What is the total net enrolment rate of males in secondary schools in Lesotho in the graph ?","answer":"110.89881896972649","options":null,"is_numerical":1}
+{"qid":"9733.png-1","query":"What is the difference between the percentage of trained teachers in Congo (Republic) in 2002 and that in 2003 ?","answer":"0.807009696960499","options":null,"is_numerical":1}
+{"qid":"13287.png-1","query":"What is the difference between the highest and the lowest CPIA rating in Timor-Leste ?","answer":"0.5","options":null,"is_numerical":1}
+{"qid":"32468.png-1","query":"Across all countries, what is the minimum survival rate in primary education ?","answer":"40.69043","options":null,"is_numerical":1}
+{"qid":"5293.png-1","query":"Do a majority of the years between 2010 and 2008 (inclusive) have amount of fertilizer consumption greater than 0.6000000000000001 % ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"14047.png-2","query":"Is the net bilateral aid flows in 2008 in Kazakhstan less than that in Lebanon ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"10505.png-1","query":"What is the difference between the number of fixed telephone subscriptions in 1970 in Lithuania and that in Luxembourg ?","answer":"61225.0","options":null,"is_numerical":1}
+{"qid":"10445.png-1","query":"Is the male life expectancy at birth in 1961 in Kenya less than that in Korea (Democratic) ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"24872.png-1","query":"Is the difference between the annual population growth in Macedonia in 1987 and 1988 greater than the difference between the annual population growth in Lithuania in 1987 and 1988 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"15018.png-1","query":"What is the total number of international migrant stock in 1980 ?","answer":"557173","options":null,"is_numerical":1}
+{"qid":"25532.png-1","query":"What does the 1st bar from the right in 1989 represents ?","answer":"Madagascar","options":null,"is_numerical":0}
+{"qid":"28472.png-1","query":"In how many countries, is the proportion of the female population that is economically active in 1981 greater than 6 %?","answer":"4","options":null,"is_numerical":1}
+{"qid":"2364.png-1","query":"What is the ratio of the total labor force participation rate in High income: OECD in 1992 to that in 1995?","answer":"1.0315228808961168","options":null,"is_numerical":1}
+{"qid":"27716.png-1","query":"What is the ratio of the employment to population ratio(female) in Sri Lanka to that in Nigeria ?","answer":"0.7607526520605443","options":null,"is_numerical":1}
+{"qid":"3197.png-1","query":"What is the difference between the CPIA rating in Timor-Leste in 2007 and the CPIA rating in Kiribati in 2009?","answer":"-1.5","options":null,"is_numerical":1}
+{"qid":"13705.png-1","query":"In which country was the percentage of economically active male population minimum?","answer":"Spain","options":null,"is_numerical":0}
+{"qid":"26889.png-1","query":"Across all countries, what is the minimum net bilateral aid flow in 2008 ?","answer":"10730000.0","options":null,"is_numerical":1}
+{"qid":"1282.png-1","query":"What is the difference between the total undisbursed external debt in Costa Rica in 1973 and that in 1975 ?","answer":"-217519000","options":null,"is_numerical":0}
+{"qid":"28100.png-2","query":"In which country was the balance of payments for travel services in 2007 minimum?","answer":"South Asia","options":null,"is_numerical":0}
+{"qid":"11457.png-1","query":"In which country was the IDA resource allocation index in 2006 minimum?","answer":"Sudan","options":null,"is_numerical":0}
+{"qid":"29484.png-3","query":"Across all countries, what is the maximum net official aid flow in 2005 ?","answer":"5100000.0","options":null,"is_numerical":1}
+{"qid":"8684.png-1","query":"In which country was the GDP per capita in 1960 minimum?","answer":"Kenya","options":null,"is_numerical":0}
+{"qid":"26653.png-1","query":"In which country was the total commercial service import in 2006 minimum?","answer":"Georgia","options":null,"is_numerical":0}
+{"qid":"24671.png-1","query":"In the year 2010, what is the difference between the number of days required to register a property in Botswana and number of days required to register a property in Congo (Republic) ?","answer":"-43","options":null,"is_numerical":0}
+{"qid":"1374.png-1","query":"Across all years, what is the maximum account balance in Thailand ?","answer":"7.774393981469692","options":null,"is_numerical":1}
+{"qid":"26150.png-1","query":"What is the ratio of the rural population in Dominica in 1981 to that in 1983?","answer":"1.0710666146933918","options":null,"is_numerical":1}
+{"qid":"32626.png-1","query":"Do a majority of the years between 2002 and 1999 (inclusive) have poverty gap at national poverty lines greater than 3.6 % ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"33398.png-1","query":"What is the total elevated land area in 1990 ?","answer":"5.497674","options":null,"is_numerical":1}
+{"qid":"22005.png-1","query":"What is the difference between the highest and the second highest electric power consumption ?","answer":"29.124134507249437","options":null,"is_numerical":1}
+{"qid":"1898.png-1","query":"Is the growth rate in Equatorial Guinea strictly less than the growth rate in Iraq over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"32574.png-1","query":"Is the sum of the co2 intensity in 1990 and 1992 greater than the maximum co2 intensity across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"4960.png-1","query":"Is the birth registration in 2004 less than that in 2009 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"9432.png-1","query":"In the year 2000, what is the difference between the amount of stocks in in Slovak Republic and amount of stocks in in Mexico ?","answer":"1.691759079061514","options":null,"is_numerical":1}
+{"qid":"4418.png-1","query":"Across all years, what is the maximum percentage of broad money claimed on domestic economy in Azerbaijan ?","answer":"24.0479396597143","options":null,"is_numerical":1}
+{"qid":"12689.png-1","query":"Is the sum of the CPIA rating in Sudan in 2007 and 2008 greater than the maximum CPIA rating in Niger across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"3742.png-2","query":"In the year 2014, what is the difference between the number of days required to enforce a contract in Romania and number of days required to enforce a contract in Mexico ?","answer":"123.0","options":null,"is_numerical":1}
+{"qid":"12379.png-1","query":"What is the value added in manufacturing chemicals in 1964 in Canada ?","answer":"7.15789473798944","options":null,"is_numerical":1}
+{"qid":"14672.png-1","query":"What is the ratio of the CPIA rating in 2008 in Samoa to that in Sao Tome and Principe ?","answer":"1.6","options":null,"is_numerical":1}
+{"qid":"14850.png-2","query":"What is the difference between the highest and the second highest amount of CO2 emitted in 1963 ?","answer":"1250.4470000000001","options":null,"is_numerical":1}
+{"qid":"17398.png-1","query":"What is the difference between the number of trademark applications made by residents in 2001 and that in 2004 ?","answer":"-289","options":null,"is_numerical":0}
+{"qid":"3012.png-1","query":"What is the ratio of the number of days required to start a business in Papua New Guinea in 2006 to that in 2008?","answer":"1.0","options":null,"is_numerical":1}
+{"qid":"16096.png-1","query":"What is the average total water productivity per year ?","answer":"62.209","options":null,"is_numerical":1}
+{"qid":"12633.png-1","query":"In which country was the employment to population ratio in 1994 maximum?","answer":"United States","options":null,"is_numerical":0}
+{"qid":"627.png-1","query":"Across all years, what is the maximum share of income held by second 20% of the population in Philippines ?","answer":"9.5","options":null,"is_numerical":1}
+{"qid":"31667.png-1","query":"What is the difference between the highest and the second highest amount of CO2 emitted in Grenada ?","answer":"3.6670000000000016","options":null,"is_numerical":1}
+{"qid":"2542.png-1","query":"In which year was the rural population in Uzbekistan minimum?","answer":"2002","options":null,"is_numerical":0}
+{"qid":"12327.png-1","query":"In how many years, is the lpi rating of quality of logistic services greater than 1.2  ?","answer":"4","options":null,"is_numerical":1}
+{"qid":"26291.png-1","query":"What is the percentage of population within the age-group 15-64 in Afghanistan ?","answer":"52.6943193054805","options":null,"is_numerical":1}
+{"qid":"21955.png-1","query":"What is the average total number of international migrant stock per year ?","answer":"38806.875","options":null,"is_numerical":1}
+{"qid":"11066.png-1","query":"What is the difference between the highest and the second highest net energy imports in 1961 ?","answer":"15.988748429151599","options":null,"is_numerical":1}
+{"qid":"25314.png-1","query":"In which country was the percentage of amount earned from merchandise imports in 1962 maximum?","answer":"Least developed countries","options":null,"is_numerical":0}
+{"qid":"14645.png-1","query":"In how many countries, is the gross enrolment ratio(male) in primary schools greater than the average gross enrolment ratio(male) in primary schools taken over all countries ?","answer":"3","options":null,"is_numerical":1}
+{"qid":"24267.png-1","query":"What is the average amount of loans disbursed in 1970 per country?","answer":"4146500.0","options":null,"is_numerical":1}
+{"qid":"26261.png-1","query":"In which country was the age dependency ratio in in 1961 maximum?","answer":"Uganda","options":null,"is_numerical":0}
+{"qid":"26813.png-1","query":"What is the difference between the GDP at purchase prices of/in 1961 and GDP at purchase prices of/in 1960 in Sudan?","answer":"1192300.7171993256","options":null,"is_numerical":1}
+{"qid":"13496.png-2","query":"What is the difference between the highest and the lowest CPIA rating in Bhutan ?","answer":"0.16666666666665986","options":null,"is_numerical":1}
+{"qid":"9838.png-1","query":"What is the difference between the highest and the second highest total undisbursed external debt in 1972 ?","answer":"46193000.0","options":null,"is_numerical":1}
+{"qid":"2762.png-1","query":"What is the ratio of the under-five mortality rate in High income: nonOECD in 2000 to that in 2015?","answer":"1.8545620961334257","options":null,"is_numerical":1}
+{"qid":"9655.png-1","query":"What is the difference between the highest and the lowest unemployment in females in in 1992 ?","answer":"44.0999984741211","options":null,"is_numerical":1}
+{"qid":"11624.png-2","query":"In the year 1993, what is the difference between the percentage of female labor force in Vanuatu and percentage of female labor force in Croatia ?","answer":"2.9951380172531117","options":null,"is_numerical":1}
+{"qid":"11912.png-2","query":"What is the average total CO2 emitted in 1962 per country ?","answer":"19.598277874366083","options":null,"is_numerical":1}
+{"qid":"17688.png-1","query":"In which year was the enrollment rate of female students minimum?","answer":"2000","options":null,"is_numerical":0}
+{"qid":"22761.png-1","query":"What is the total percentage of females employed in Industrial sector in 1981 in the graph ?","answer":"129.9000015258789","options":null,"is_numerical":1}
+{"qid":"3007.png-2","query":"What is the CPIA rating in Nepal in 2008 ?","answer":"4.0","options":null,"is_numerical":1}
+{"qid":"10857.png-1","query":"In how many years, is the money spent in energy sector in Vietnam greater than 1900000000 US$ ?","answer":"0","options":null,"is_numerical":1}
+{"qid":"11051.png-1","query":"In the year 2009, what is the difference between the percentage of amount earned from merchandise exports in Azerbaijan and percentage of amount earned from merchandise exports in Kazakhstan ?","answer":"-0.7792765855035997","options":null,"is_numerical":1}
+{"qid":"25078.png-1","query":"What is the difference between the electric power transmission and distribution losses in 1962 in Belgium and that in France ?","answer":"-3.1146226338622807","options":null,"is_numerical":1}
+{"qid":"22709.png-1","query":"What is the difference between the earnings from merchandise imports in 1985 and the earnings from merchandise exports in 1984?","answer":"9198003.699999988","options":null,"is_numerical":1}
+{"qid":"20287.png-1","query":"Across all years, what is the maximum net official DA received in Mozambique ?","answer":"15.8054130258164","options":null,"is_numerical":1}
+{"qid":"29198.png-1","query":"In which year was the gross intake ratio in Nigeria maximum?","answer":"2004","options":null,"is_numerical":0}
+{"qid":"9042.png-1","query":"Across all years, what is the maximum percentage of HIV infected male population in Slovenia ?","answer":"0.1","options":null,"is_numerical":1}
+{"qid":"29640.png-2","query":"In how many years, is the total annual withdrawals from freshwater in Dominican Republic greater than 42 %?","answer":"0","options":null,"is_numerical":1}
+{"qid":"5789.png-1","query":"Is the merchandise imports in 1972 less than that in 1976 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"3991.png-1","query":"Across all years, what is the maximum Balance of Payments in Uganda ?","answer":"68007264.23","options":null,"is_numerical":1}
+{"qid":"7681.png-2","query":"What is the difference between the percentage of amount earned from merchandise exports in 1962 and percentage of amount earned from merchandise exports in 1961 in Malta ?","answer":"1.788577772295593","options":null,"is_numerical":1}
+{"qid":"29460.png-1","query":"Across all years, what is the minimum percentage of agricultural land in Macedonia ?","answer":"48.1321274085726","options":null,"is_numerical":1}
+{"qid":"184.png-1","query":"Does \"Chile\" appear as one of the legend labels in the graph ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"2648.png-1","query":"What is the difference between the highest and the lowest number of new registrations in Sweden ?","answer":"3.190890622833881","options":null,"is_numerical":1}
+{"qid":"16593.png-1","query":"Is the difference between the investment in energy in Pakistan and Romania greater than the difference between any two countries ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"17240.png-2","query":"Is the difference between the incurrence of foreign liabilities in 2008 and 2009 greater than the difference between the incurrence of domestic liabilities in 2008 and 2009 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"10470.png-2","query":"What is the difference between the female mortality rate and male mortality rate in Senegal ?","answer":"-57.593999999999994","options":null,"is_numerical":1}
+{"qid":"16243.png-1","query":"What is the sum of the unemployed female youth population ?","answer":"23.7600002288818","options":null,"is_numerical":1}
+{"qid":"8338.png-1","query":"Is the difference between the electric power transmission and distribution losses in 1960 in High income and High income: OECD greater than the difference between the electric power transmission and distribution losses in 1962 in High income and High income: OECD ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"8260.png-1","query":"What does the 2nd bar from the top in Gabon represents ?","answer":"1971","options":null,"is_numerical":0}
+{"qid":"7132.png-1","query":"What is the ratio of the enrolment ratio of male students in pre-primary schools in Hungary in 2009 to that in 2012 ?","answer":"0.972460248298215","options":null,"is_numerical":1}
+{"qid":"23283.png-1","query":"Across all countries, what is the minimum percentage of underweighted female children ?","answer":"11.5","options":null,"is_numerical":1}
+{"qid":"23245.png-1","query":"Is the earnings from merchandise exports in Eritrea less than that in Ethiopia ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"18065.png-1","query":"What is the difference between the highest and the second highest percentage of long-term unemployed male population in Estonia ?","answer":"26.699998855590806","options":null,"is_numerical":1}
+{"qid":"9156.png-1","query":"Across all countries, what is the minimum percentage of revenue obtained from taxes on profits and capital gains ?","answer":"24.243849371149","options":null,"is_numerical":1}
+{"qid":"6786.png-1","query":"What does the 1st bar from the bottom in Dominican Republic represents ?","answer":"Official aid received","options":null,"is_numerical":0}
+{"qid":"18225.png-1","query":"What is the difference between the highest and the second highest number of physicians in Kazakhstan ?","answer":"0.9449000587463403","options":null,"is_numerical":1}
+{"qid":"9031.png-1","query":"What is the difference between the net official development assistance aid received in Korea (Republic) in 1970 and the net official development assistance aid received in Liberia in 1967 ?","answer":"1572710000.0","options":null,"is_numerical":1}
+{"qid":"5.png-2","query":"What is the average income share held by lowest 20% of the population per year?","answer":"2.1466666666666665","options":null,"is_numerical":1}
+{"qid":"30412.png-1","query":"Is the sum of the proportion of the tax revenue collected in Azerbaijan in 2008 and 2011 greater than the maximum proportion of the tax revenue collected in Liberia across all years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"22776.png-1","query":"Is the sum of the balance of payments of transport services in 2008 and 2012 greater than the maximum balance of payments of travel services across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"16971.png-1","query":"In which year was the number of mobile cellular subscriptions maximum?","answer":"1995","options":null,"is_numerical":0}
+{"qid":"25659.png-2","query":"What is the ratio of the Insurance provided to residents in Russian Federation in 2005 to that in 2006?","answer":"0.9147361371369895","options":null,"is_numerical":1}
+{"qid":"29151.png-1","query":"What is the difference between the total theoretical duration of secondary education in Switzerland in 1992 and the total theoretical duration of secondary education in Benin in 1993?","answer":"0","options":null,"is_numerical":0}
+{"qid":"28501.png-1","query":"What is the difference between the oil rent of/in 1973 and oil rent of/in 1971 in South Asia?","answer":"0.0418908079209076","options":null,"is_numerical":1}
+{"qid":"23692.png-1","query":"Is the sum of the revenue generated by grants in 1998 and 2002 greater than the maximum revenue generated by taxes across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"1244.png-1","query":"Across all years, what is the minimum cost of communications and computers in Haiti ?","answer":"13.9245438432554","options":null,"is_numerical":1}
+{"qid":"3003.png-1","query":"What is the ratio of the percentage of male labor force with tertiary education in Croatia in 2005 to that in 2013?","answer":"0.7753303872220054","options":null,"is_numerical":1}
+{"qid":"25426.png-1","query":"What is the ratio of the amount of agricultural nitrous oxide emitted in 2000 in Venezuela to that in Yemen, Rep.?","answer":"1.0025903267762937","options":null,"is_numerical":1}
+{"qid":"15028.png-2","query":"Is the difference between the electric power transmission and distribution losses in 1982 and 1983 greater than the difference between any two years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"2982.png-1","query":"What is the female labor force participation rate in Latin America(all income levels) in 2000 ?","answer":"48.133605000481","options":null,"is_numerical":1}
+{"qid":"24609.png-1","query":"In which year was the percentage of the HIV infected people who are receiving antiretroviral therapy in Ethiopia maximum?","answer":"2013","options":null,"is_numerical":0}
+{"qid":"14961.png-1","query":"What is the value added by the industrial sector to the total GDP in 1963 in Honduras ?","answer":"19.65903036760789","options":null,"is_numerical":1}
+{"qid":"12000.png-1","query":"What is the difference between the cost of damage due to depletion of water in Italy and that in Austria ?","answer":"-0.11052023678030298","options":null,"is_numerical":1}
+{"qid":"16208.png-1","query":"In which year was the co2 intensity maximum ?","answer":"2009","options":null,"is_numerical":0}
+{"qid":"12015.png-1","query":"Across all years, what is the maximum net bilateral aid flow in Brazil ?","answer":"1240000.0","options":null,"is_numerical":1}
+{"qid":"26464.png-1","query":"What is the difference between the life expectancy(male) in Belgium and the life expectancy(female) in Chad?","answer":"24.57699999999999","options":null,"is_numerical":1}
+{"qid":"5934.png-1","query":"Is the amount of aid given by italy in Low income less than that in Middle income ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"1247.png-2","query":"Is the percentage of employed workers who are vulnerable to fall into poverty in Bangladesh in 2000 less than that in 2003 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"30937.png-1","query":"What is the difference between the highest and the lowest net ODA received in Central African Republic ?","answer":"54.42158259745089","options":null,"is_numerical":1}
+{"qid":"9880.png-2","query":"What is the ratio of the percentage of clean energy produced in 1962 in Canada to that in Denmark ?","answer":"520.0095223571014","options":null,"is_numerical":1}
+{"qid":"17833.png-1","query":"Across all years, what is the maximum employment to population ratio(age 15+) ?","answer":"66.2335288645315","options":null,"is_numerical":1}
+{"qid":"27644.png-1","query":"Is the sum of the under-five mortality rate in 1960 in Mauritania and Nepal greater than the maximum under-five mortality rate in 1961 across all countries ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"24760.png-1","query":"What is the difference between the highest and the second highest amount of CO2 emitted due to industrial production in Libya ?","answer":"0.6422579843379599","options":null,"is_numerical":1}
+{"qid":"1540.png-1","query":"Is it the case that in every year, the sum of the total agricultural land in South Sudan and total agricultural land in Netherlands  is greater than the total agricultural land in United States ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"4209.png-1","query":"In the year 2000, what is the difference between the male infant mortality rate in Mauritius and male infant mortality rate in Australia ?","answer":"9.5","options":null,"is_numerical":1}
+{"qid":"15464.png-1","query":"In how many years, is the value lost due to electrical outages greater than 0.4 % ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"3444.png-1","query":"What is the difference between the highest and the second highest percentage of the unemployed labor force with secondary education in Brazil ?","answer":"2.099998474121101","options":null,"is_numerical":1}
+{"qid":"23307.png-1","query":"Does \"Imports\" appear as one of the legend labels in the graph ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"31953.png-1","query":"In which country was the contributing family workers minimum ?","answer":"Estonia","options":null,"is_numerical":0}
+{"qid":"28733.png-1","query":"Is the difference between the adjusted net savings in Papua New Guinea in 1990 and 1991 greater than the difference between the adjusted net savings in Sri Lanka in 1990 and 1991 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"9023.png-1","query":"In which year was the female population in in Caribbean small states maximum?","answer":"2003","options":null,"is_numerical":0}
+{"qid":"26453.png-1","query":"What is the difference between the percentage of co2 emissions from transport in 1995 and that in 1996 ?","answer":"-6.442492478895598","options":null,"is_numerical":1}
+{"qid":"13859.png-1","query":"In which country was the total CO2 emitted in 1962 maximum?","answer":"European Union","options":null,"is_numerical":0}
+{"qid":"27383.png-2","query":"What is the difference between the highest and the second highest amount earned from merchandise exports in Bahamas ?","answer":"228297342.30000007","options":null,"is_numerical":1}
+{"qid":"4871.png-1","query":"Is the sum of the value added by agriculture sector in 2001 and 2002 greater than the maximum value added by agriculture sector across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"8756.png-1","query":"What is the difference between the highest and the lowest percentage of repeaters in secondary general education in Cabo Verde ?","answer":"6.253259658813501","options":null,"is_numerical":1}
+{"qid":"11656.png-2","query":"What is the ratio of the male mortality rate in Senegal in 1997 to that in 1998 ?","answer":"0.9979845205450026","options":null,"is_numerical":1}
+{"qid":"26285.png-1","query":"What is the difference between the total arms export in Japan in 1963 and that in 1966 ?","answer":"2000000.0","options":null,"is_numerical":1}
+{"qid":"24692.png-1","query":"Across all countries, what is the maximum total number of flight takeoffs in 1972 ?","answer":"283800.0","options":null,"is_numerical":1}
+{"qid":"3097.png-1","query":"Does the percentage of self employed female workers monotonically increase over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"217.png-1","query":"In which year was the gdp per capita maximum?","answer":"1982","options":null,"is_numerical":0}
+{"qid":"26242.png-1","query":"In which country was the female life expectancy at birth in 1960 minimum?","answer":"Uganda","options":null,"is_numerical":0}
+{"qid":"10360.png-1","query":"What is the net official development assistance aid received in 1960 in Togo ?","answer":"970000.0","options":null,"is_numerical":1}
+{"qid":"6623.png-1","query":"In which country was the percentage of female workers in industry maximum?","answer":"Portugal","options":null,"is_numerical":0}
+{"qid":"28889.png-1","query":"In the year 2015, what is the difference between the number of procedures required to register a property in Mongolia and number of procedures required to register a property in Japan ?","answer":"-1.0","options":null,"is_numerical":1}
+{"qid":"24738.png-1","query":"In how many years, is the electricity production in in Cambodia greater than 8 %?","answer":"3","options":null,"is_numerical":1}
+{"qid":"7405.png-1","query":"In the year 1978, what is the difference between the cost of damage caused due to coal depletion in United States and cost of damage caused due to coal depletion in Panama ?","answer":"0.228705823578094","options":null,"is_numerical":1}
+{"qid":"5926.png-1","query":"What is the difference between the highest and the second highest percentage of self-employed male workers in Ukraine ?","answer":"3.1000003814697","options":null,"is_numerical":1}
+{"qid":"10670.png-1","query":"What is the average percentage of amount earned from merchandise imports in 1962 per country ?","answer":"80.53288589869521","options":null,"is_numerical":1}
+{"qid":"7093.png-1","query":"Across all years, what is the maximum enrolment ratio of male students in primary schools in Iceland ?","answer":"101.36589050293","options":null,"is_numerical":1}
+{"qid":"32228.png-2","query":"In which year was the age dependency ratio minimum ?","answer":"2005","options":null,"is_numerical":0}
+{"qid":"20128.png-2","query":"Across all years, what is the minimum amount collected as tax on revenue ?","answer":"21967700","options":null,"is_numerical":0}
+{"qid":"6094.png-2","query":"What is the difference between the Logistic performance index in Vietnam in 2010 and that in 2012 ?","answer":"0.20999999999999996","options":null,"is_numerical":1}
+{"qid":"11274.png-1","query":"What is the amount of energy used in in World in 1977 ?","answer":"1444.6954269509","options":null,"is_numerical":1}
+{"qid":"23840.png-1","query":"In the year 1978, what is the difference between the percentage of female teachers in primary schools and percentage of female teachers in secondary schools ?","answer":"0.0","options":null,"is_numerical":1}
+{"qid":"961.png-2","query":"In which year was the number of female out-of-school students maximum?","answer":"1985","options":null,"is_numerical":0}
+{"qid":"4584.png-1","query":"Across all years, what is the minimum long-term unemployment ?","answer":"19.7000007629395","options":null,"is_numerical":1}
+{"qid":"7028.png-1","query":"What does the 2nd bar from the top in Bolivia represents ?","answer":"Infant","options":null,"is_numerical":0}
+{"qid":"1709.png-1","query":"Is the amount earned from merchandise exports in Liberia in 1966 less than that in 1968 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"3924.png-1","query":"What is the difference between the highest and the lowest cpia rating of gender equality ?","answer":"0","options":null,"is_numerical":0}
+{"qid":"29644.png-1","query":"What is the difference between the cpia rating of macroeconomic management in 2008 and that in 2013 ?","answer":"1.0","options":null,"is_numerical":1}
+{"qid":"18840.png-1","query":"What is the difference between the value added by industrial sector in 1970 and the value added by agricultural sector in 1969?","answer":"1692804233.35969","options":null,"is_numerical":1}
+{"qid":"27412.png-1","query":"Across all countries, what is the minimum unemployment in females in in 1992 ?","answer":"3.40000009536743","options":null,"is_numerical":1}
+{"qid":"18757.png-1","query":"In which year was the percentage of expenditure per student in Austria maximum?","answer":"2011","options":null,"is_numerical":0}
+{"qid":"28669.png-1","query":"What does the 4th bar from the left in Moldova represents ?","answer":"1994","options":null,"is_numerical":0}
+{"qid":"4657.png-2","query":"Across all years, what is the maximum production of clean energy ?","answer":"2.80538627445805","options":null,"is_numerical":1}
+{"qid":"13467.png-2","query":"What is the difference between the highest and the second highest total exports of goods and services in 1960 ?","answer":"140317818278.7649","options":null,"is_numerical":1}
+{"qid":"32179.png-2","query":"What is the difference between the highest and the lowest unemployed male youth population ?","answer":"4.87","options":null,"is_numerical":1}
+{"qid":"12159.png-2","query":"What is the female labor force participation rate in 1992 in Hungary ?","answer":"39.7999992370605","options":null,"is_numerical":1}
+{"qid":"2.png-1","query":"What is the under-5 mortality rate in 1996 ?","answer":"41.9","options":null,"is_numerical":1}
+{"qid":"24549.png-1","query":"What does the 3rd bar from the right in Grants represents ?","answer":"Belarus","options":null,"is_numerical":0}
+{"qid":"6963.png-1","query":"What is the difference between the primary completion rate of female entrants in 1994 and that in 1998 ?","answer":"-4.185","options":null,"is_numerical":1}
+{"qid":"27911.png-1","query":"What is the difference between the highest and the second highest percentage of self-employed female workers in 1982 ?","answer":"8.400000572204602","options":null,"is_numerical":1}
+{"qid":"1719.png-2","query":"What is the average percentage of children who received treatment for diarrhoea  in Central African Republic per year?","answer":"13.666666666666666","options":null,"is_numerical":1}
+{"qid":"26189.png-1","query":"What is the average balance of payments for travel services in Dominican Republic per year?","answer":"59.07799836649354","options":null,"is_numerical":1}
+{"qid":"13589.png-1","query":"In which year was the gross enrolment ratio in pre-primary schools maximum?","answer":"1991","options":null,"is_numerical":0}
+{"qid":"11357.png-1","query":"In which country was the number of trademark applications made by the nonresidents in 1962 maximum?","answer":"Japan","options":null,"is_numerical":0}
+{"qid":"2055.png-2","query":"What is the difference between the highest and the lowest average precipitation in St. Kitts and Nevis ?","answer":"0","options":null,"is_numerical":0}
+{"qid":"4042.png-1","query":"What is the difference between the percentage of the unemployed labor force with secondary education in Kyrgyz Republic in 2002 and that in 2003 ?","answer":"-5.199996948242088","options":null,"is_numerical":1}
+{"qid":"24516.png-1","query":"Is the amount of energy used in in 1961 in Netherlands less than that in Poland ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"27602.png-1","query":"What is the ratio of the distance to frontier score of in 2010 in Zambia to that in Zimbabwe?","answer":"1.3703349282296653","options":null,"is_numerical":1}
+{"qid":"20573.png-1","query":"What is the difference between the gross enrolment ratio(male) in pre-primary schools in 2006 and that in 2012 ?","answer":"-11.68923950195311","options":null,"is_numerical":1}
+{"qid":"594.png-1","query":"What is the difference between the percentage of children who received treatment for malaria in 1987 and the percentage of children who received treatment for diarrhoea in 1986?","answer":"-15.7","options":null,"is_numerical":1}
+{"qid":"30518.png-3","query":"Across all years, what is the minimum amount of disbursements received from International Monetary Fund in Bangladesh ?","answer":"0","options":null,"is_numerical":1}
+{"qid":"3259.png-1","query":"Across all years, what is the maximum female labor force participation rate in Greece ?","answer":"38.2999992370605","options":null,"is_numerical":1}
+{"qid":"30775.png-1","query":"In which country was the number of days required to start a business in 2003 maximum?","answer":"Angola","options":null,"is_numerical":0}
+{"qid":"7096.png-1","query":"In how many countries, is the percentage of women justifying domestic violence due to refusal of sex greater than 28 % ?","answer":"0","options":null,"is_numerical":1}
+{"qid":"5029.png-1","query":"Does the total debt service monotonically increase over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"12378.png-1","query":"What is the ratio of the earnings from merchandise exports in Australia to that in Grenada ?","answer":"1699.7000845968853","options":null,"is_numerical":1}
+{"qid":"25032.png-1","query":"What is the amount spent on the travel items for national tourists in 1996 in Iceland ?","answer":"176000000.0","options":null,"is_numerical":1}
+{"qid":"21467.png-1","query":"Across all years, what is the minimum contributing family workers ?","answer":"7.900000095367429","options":null,"is_numerical":1}
+{"qid":"24637.png-2","query":"In which country was the net bilateral aid flow in 2008 maximum?","answer":"Low & middle income","options":null,"is_numerical":0}
+{"qid":"20851.png-1","query":"What is the difference between the highest and the lowest CPIA rating in Rwanda ?","answer":"1","options":null,"is_numerical":1}
+{"qid":"11325.png-3","query":"Is the female life expectancy at birth in Chad in 1991 less than that in 1993 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"1508.png-2","query":"What is the difference between the number of applications filed in Euro area in 1993 and the number of applications filed in El Salvador in 1990?","answer":"18629.0","options":null,"is_numerical":1}
+{"qid":"15082.png-1","query":"Do a majority of the years between 1990 and 2000 (inclusive) have total elevated land area greater than 0.4 % ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"25033.png-1","query":"What is the difference between the highest and the second highest tuberculosis case detection rate in in Malta ?","answer":"10","options":null,"is_numerical":1}
+{"qid":"7806.png-1","query":"Is the enrollment rate in primary education in Kuwait less than that in Canada ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"29358.png-1","query":"What does the 1st bar from the left in Middle East & North Africa (developing only) represents ?","answer":"2005","options":null,"is_numerical":0}
+{"qid":"31582.png-1","query":"In which year was the value added by various sectors to the total GDP in Tanzania minimum?","answer":"2004","options":null,"is_numerical":0}
+{"qid":"27911.png-2","query":"Across all countries, what is the maximum percentage of self-employed female workers in 1981 ?","answer":"19.5","options":null,"is_numerical":1}
+{"qid":"23261.png-1","query":"What is the difference between the merchandise imports in 1975 and that in 1976 ?","answer":"3.194065860137102","options":null,"is_numerical":1}
+{"qid":"17096.png-1","query":"What is the difference between the number of male out-of-school students in 1981 and the number of female out-of-school students in 1982?","answer":"-251","options":null,"is_numerical":0}
+{"qid":"28576.png-1","query":"Across all years, what is the minimum amount collected by government from taxes on goods and services in Peru ?","answer":"9575450000.0","options":null,"is_numerical":1}
+{"qid":"6367.png-1","query":"What is the ratio of the percentage of self-employed workers in 1980 in Finland to that in Italy ?","answer":"0.601398620053292","options":null,"is_numerical":1}
+{"qid":"18863.png-1","query":"In which year was the percentage of amount earned from merchandise imports in Saudi Arabia maximum?","answer":"1973","options":null,"is_numerical":0}
+{"qid":"27396.png-2","query":"What is the income share held by lowest 10% of the population in Hungary ?","answer":"3.44","options":null,"is_numerical":1}
+{"qid":"3385.png-1","query":"What is the ratio of the percentage of female pupils in higher and secondary schools in High income in 2010 to that in 2011?","answer":"1.003637835618031","options":null,"is_numerical":1}
+{"qid":"31850.png-1","query":"What is the ratio of the age dependency ratio in El Salvador to that in Estonia?","answer":"1.885","options":null,"is_numerical":1}
+{"qid":"13527.png-1","query":"What is the difference between the male labor force participation rate in 1992 in Switzerland and that in Tajikistan ?","answer":"4.7000045776367045","options":null,"is_numerical":1}
+{"qid":"19970.png-1","query":"What is the total proportion of the tax revenue collected in Norway in the graph ?","answer":"-0.000900552390193602","options":null,"is_numerical":1}
+{"qid":"4415.png-2","query":"What is the difference between the highest and the second highest net bilateral aid flow in OECD members ?","answer":"13060000","options":null,"is_numerical":1}
+{"qid":"22835.png-2","query":"What is the ratio of the net bilateral aid flow in 1966 in Low & middle income to that in Low income?","answer":"60.06315789473684","options":null,"is_numerical":1}
+{"qid":"24977.png-1","query":"What does the 2nd bar from the right in Portugal represents ?","answer":"1961","options":null,"is_numerical":0}
+{"qid":"25573.png-1","query":"In the year 2014, what is the difference between the time required to import goods in Sudan and time required to import goods in Fragile and conflict affected situations ?","answer":"1.625","options":null,"is_numerical":1}
+{"qid":"23612.png-2","query":"In which country was the value added by manufacturing food and tobacco minimum ?","answer":"Germany","options":null,"is_numerical":0}
+{"qid":"13615.png-1","query":"What is the difference between the highest and the lowest male infant mortality rate in Sub-Saharan Africa (all income levels) ?","answer":"48.9198622407155","options":null,"is_numerical":1}
+{"qid":"3290.png-1","query":"Does \"CO2 damage\" appear as one of the legend labels in the graph ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"17264.png-1","query":"What is the difference between the highest and the second highest percentage of urban population who used sanitation services ?","answer":"0.0","options":null,"is_numerical":1}
+{"qid":"2133.png-2","query":"What is the ratio of the percentage of long-term unemployed female population in Macedonia in 2011 to that in 2013?","answer":"0.9890109705847255","options":null,"is_numerical":1}
+{"qid":"21114.png-1","query":"What is the difference between the highest and the lowest CPIA rating in Madagascar ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"16588.png-1","query":"Do a majority of the years between 1993 and 1994 (inclusive) have total unemployed youth population greater than 6.8 % ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"15324.png-1","query":"What is the ratio of the total labor force in 2004 to that in 2006?","answer":"0.975","options":null,"is_numerical":1}
+{"qid":"22005.png-2","query":"Does the electric power consumption monotonically increase over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"9737.png-1","query":"Across all countries, what is the maximum oda received as percentage of gni ?","answer":"4.4843609315702","options":null,"is_numerical":1}
+{"qid":"20008.png-1","query":"Does \"Seychelles\" appear as one of the legend labels in the graph ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"3651.png-1","query":"What is the average CPIA rating in Ghana per year?","answer":"4.0","options":null,"is_numerical":1}
+{"qid":"24474.png-1","query":"What is the difference between the total arable land of/in 1962 and total arable land of/in 1961 in Barbados?","answer":"-0.0002702117577478985","options":null,"is_numerical":1}
+{"qid":"28264.png-1","query":"In the year 2008, what is the difference between the adolescent fertility rate in Turkmenistan and adolescent fertility rate in Botswana ?","answer":"-26.838999999999995","options":null,"is_numerical":1}
+{"qid":"17677.png-2","query":"What is the primary completion rate of female entrants in 1991 ?","answer":"94.61998","options":null,"is_numerical":1}
+{"qid":"8817.png-1","query":"Is the amount spent on the passenger transport items of national tourists in Pakistan in 2008 less than that in 2011 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"27328.png-1","query":"In the year 2011, what is the difference between the net incurrence of foreign liabilities in Kiribati and net incurrence of foreign liabilities in Belize ?","answer":"-24867955.1","options":null,"is_numerical":1}
+{"qid":"13223.png-1","query":"What does the 1st bar from the top in Imports represents ?","answer":"Singapore","options":null,"is_numerical":0}
+{"qid":"30416.png-1","query":"What is the difference between the net taxes on products in 1960 in Pakistan and that in Swaziland ?","answer":"202292220.05378932","options":null,"is_numerical":1}
+{"qid":"25636.png-2","query":"Is the percentage of rural population having access to drinking water in 1990 in Senegal less than that in Seychelles ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"9420.png-1","query":"What is the difference between the highest and the lowest proportion of the population that is economically active in 1982 ?","answer":"10.743734010503701","options":null,"is_numerical":1}
+{"qid":"26233.png-1","query":"Across all years, what is the maximum rural population in Bosnia and Herzegovina ?","answer":"60.84","options":null,"is_numerical":1}
+{"qid":"13858.png-1","query":"Across all years, what is the maximum expenditure spent by government on the tertiary education in Benin ?","answer":"21.2028694152832","options":null,"is_numerical":1}
+{"qid":"29146.png-1","query":"Is the number of enrolments in secondary schools in Senegal in 1979 less than that in 1981 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"22395.png-1","query":"What is the average time required to build a warehouse per year ?","answer":"171.5","options":null,"is_numerical":1}
+{"qid":"31297.png-1","query":"Is the sum of the employment to population ratio in Gambia, The in 1997 and 2001 greater than the maximum employment to population ratio in Europe(all income levels) across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"4169.png-2","query":"Is the percentage of land under cultivation in Other small states strictly less than the percentage of land under cultivation in Dominica over the years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"14719.png-1","query":"In the year 2013, what is the difference between the cpia rating of debt policy and cpia rating of building human resources ?","answer":"-0.163","options":null,"is_numerical":1}
+{"qid":"32516.png-2","query":"What is the median unemployed female youth population ?","answer":"11.6500000953674","options":null,"is_numerical":1}
+{"qid":"31693.png-1","query":"In how many countries, is the CPIA rating in 2006 greater than 3.4 ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"27707.png-2","query":"Is the difference between the percentage of undernourished population in Cabo Verde in 2001 and 2002 greater than the difference between the percentage of undernourished population in Korea (Republic) in 2001 and 2002 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"16400.png-2","query":"Is the sum of the average precipitation in depth in 1987 and 2002 greater than the maximum average precipitation in depth across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"10185.png-1","query":"What is the GDP per capita in 1961 in Oman ?","answer":"500.9708515799431","options":null,"is_numerical":1}
+{"qid":"4168.png-2","query":"What is the female infant mortality rate in Cyprus in 2015 ?","answer":"2.7","options":null,"is_numerical":1}
+{"qid":"23772.png-1","query":"Does \"Merchandise imports\" appear as one of the legend labels in the graph ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"10997.png-1","query":"What is the difference between the highest and the lowest ODA received in in Middle East & North Africa (all income levels) ?","answer":"25.7653825228054","options":null,"is_numerical":1}
+{"qid":"32782.png-2","query":"What is the value lost due to electrical outages in 2007 ?","answer":"5.0","options":null,"is_numerical":1}
+{"qid":"27622.png-1","query":"Across all years, what is the maximum female life expectancy at birth in Central African Republic ?","answer":"45.46","options":null,"is_numerical":1}
+{"qid":"29644.png-2","query":"What is the difference between the highest and the second highest cpia rating of revenue mobilization ?","answer":"0.0","options":null,"is_numerical":1}
+{"qid":"7978.png-1","query":"Across all countries, what is the maximum percentage of unemployed male labor force in 1981 ?","answer":"8.199999809265138","options":null,"is_numerical":1}
+{"qid":"27210.png-2","query":"Is it the case that in every year, the sum of the service imports in Australia and service imports in East Asia (developing only) is greater than the service imports in Sri Lanka ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"29643.png-1","query":"What is the ratio of the female infant mortality rate in Dominica in 2000 to that in 2015?","answer":"0.6857142857142857","options":null,"is_numerical":1}
+{"qid":"1662.png-1","query":"Does the percentage of expenditure towards staff compensation in Mali monotonically increase over the years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"1511.png-1","query":"What is the difference between the total cereal yield in East Asia (all income levels) in 1984 and the total cereal yield in Liberia in 1983?","answer":"2124.89278189538","options":null,"is_numerical":1}
+{"qid":"27245.png-3","query":"What does the 1st bar from the left in Europe(all income levels) represents ?","answer":"1960","options":null,"is_numerical":0}
+{"qid":"25732.png-1","query":"Across all years, what is the minimum measure of agricultural productivity in Iceland ?","answer":"60584.9069536521","options":null,"is_numerical":1}
+{"qid":"13804.png-2","query":"What is the average total CO2 emitted in 1960 per country ?","answer":"48.66721352047015","options":null,"is_numerical":1}
+{"qid":"29559.png-1","query":"What is the difference between the highest and the second highest CPIA rating in Angola ?","answer":"0.0","options":null,"is_numerical":1}
+{"qid":"14293.png-1","query":"Across all years, what is the maximum value added by various sectors to the total GDP in Benin ?","answer":"51.86011095398671","options":null,"is_numerical":1}
+{"qid":"18466.png-1","query":"Across all years, what is the maximum days required to build a warehouse in in Poland ?","answer":"156","options":null,"is_numerical":0}
+{"qid":"10723.png-1","query":"Is the percentage of unemployed female youth population in Colombia in 1997 less than that in 2001 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"11423.png-1","query":"In how many countries, is the ratings of the quality of port infrastructure in 2009 greater than 3.2  ?","answer":"3","options":null,"is_numerical":1}
+{"qid":"8561.png-2","query":"What is the PPP conversion factor for private consumption in 1990 in Papua New Guinea ?","answer":"0.7535991975174059","options":null,"is_numerical":1}
+{"qid":"19657.png-1","query":"Is the age dependency ratio(young) in Chad strictly greater than the age dependency ratio(young) in Iceland over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"23381.png-1","query":"What is the difference between the net bilateral aid flow in Rwanda in 2007 and the net bilateral aid flow in Korea (Democratic) in 2008?","answer":"-90000.0","options":null,"is_numerical":1}
+{"qid":"1500.png-2","query":"Is the sum of the percentage of HIV infected female population in Botswana in 1997 and 1998 greater than the maximum percentage of HIV infected female population in Senegal across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"25599.png-1","query":"What is the average amount of fertilizer consumption in Moldova per year?","answer":"10.471979334682354","options":null,"is_numerical":1}
+{"qid":"1541.png-2","query":"What is the difference between the percentage of male labor force within the age group 15-20 in 1996 and the percentage of male labor force within the age group 20-50 in 1995?","answer":"-26.3000030517578","options":null,"is_numerical":1}
+{"qid":"1222.png-1","query":"Is the price level ratio in Suriname in 1997 less than that in 1999 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"12372.png-1","query":"In which year was the percentage of imports to different countries in Belize minimum?","answer":"2009","options":null,"is_numerical":0}
+{"qid":"1299.png-1","query":"Is the percentage of undernourished population in Cambodia in 2002 less than that in 2009 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"1610.png-1","query":"What is the difference between the highest and the second highest female life expectancy at birth in Curacao ?","answer":"0.6000000000000085","options":null,"is_numerical":1}
+{"qid":"5303.png-1","query":"Across all years, what is the maximum vitamin a supplementation coverage rate ?","answer":"90.0","options":null,"is_numerical":1}
+{"qid":"22302.png-1","query":"Across all years, what is the maximum number of power outages ?","answer":"1.2","options":null,"is_numerical":1}
+{"qid":"28288.png-1","query":"What is the average percentage of repeaters in Turkey per year?","answer":"2.293386618296303","options":null,"is_numerical":1}
+{"qid":"20571.png-1","query":"Across all years, what is the maximum percentage of expenses made by the government on compensation of employees in Kiribati ?","answer":"40.7254756363516","options":null,"is_numerical":1}
+{"qid":"839.png-2","query":"What is the difference between the highest and the lowest rating of statistical capacity in Indonesia ?","answer":"5.555555555555586","options":null,"is_numerical":1}
+{"qid":"13506.png-1","query":"Across all years, what is the maximum percentage of the population ages 15 to 64 in Ghana ?","answer":"51.6825872926604","options":null,"is_numerical":1}
+{"qid":"26197.png-2","query":"Across all years, what is the minimum number of trademark applications made by the nonresidents in Algeria ?","answer":"99.0","options":null,"is_numerical":1}
+{"qid":"24591.png-1","query":"What is the difference between the highest and the lowest GDP at purchase prices in 1961 ?","answer":"9541304543021.158","options":null,"is_numerical":1}
+{"qid":"25299.png-2","query":"What is the ratio of the income share held by lowest 10% of the population in Switzerland to that in Hungary ?","answer":"0.8467966573816157","options":null,"is_numerical":1}
+{"qid":"31924.png-2","query":"What is the difference between the amount of co2 emissions in 1989 and 1991 ?","answer":"-0.144","options":null,"is_numerical":1}
+{"qid":"30238.png-1","query":"What is the difference between the highest and the lowest percentage of self employed male workers ?","answer":"28.3000011444092","options":null,"is_numerical":1}
+{"qid":"21002.png-1","query":"Across all years, what is the maximum net enrollment rate of male students in primary schools in Bhutan ?","answer":"81.5343399047852","options":null,"is_numerical":1}
+{"qid":"10963.png-2","query":"Is the difference between the amount of CO2 emitted in 1961 in Finland and France greater than the difference between the amount of CO2 emitted in 1960 in Finland and France ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"27226.png-2","query":"What is the ratio of the amount spent on the transport items of national tourists in Mongolia in 2010 to that in 2012?","answer":"1.1578947368421053","options":null,"is_numerical":1}
+{"qid":"22320.png-1","query":"Is the ease of doing business index in 2014 less than that in 2015 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"4556.png-1","query":"Is the co2 intensity in 2006 less than that in 2008 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"25838.png-1","query":"What is the difference between the highest and the second highest number of applications filed in 1960 ?","answer":"-961.0","options":null,"is_numerical":1}
+{"qid":"25034.png-2","query":"In how many countries, is the amount of co2 emissions from liquid fuel greater than the average amount of co2 emissions from liquid fuel taken over all countries ?","answer":"1","options":null,"is_numerical":1}
+{"qid":"15052.png-1","query":"In which year was the unemployed female youth population minimum ?","answer":"2013","options":null,"is_numerical":0}
+{"qid":"3599.png-1","query":"In the year 1994, what is the difference between the female labor force participation rate in Venezuela and female labor force participation rate in Ethiopia ?","answer":"-47.8999977111817","options":null,"is_numerical":1}
+{"qid":"28051.png-1","query":"Is it the case that in every year, the sum of the tuberculosis treatment success rate in Sierra Leone and tuberculosis treatment success rate in Paraguay is greater than the tuberculosis treatment success rate in Europe(developing only) ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"28092.png-1","query":"In the year 2001, what is the difference between the percentage of labor force in Vanuatu and percentage of labor force in Costa Rica ?","answer":"-1648907","options":null,"is_numerical":0}
+{"qid":"3618.png-1","query":"What is the average percentage of adult males who smoke in Brunei Darussalam per year?","answer":"29.250000000000004","options":null,"is_numerical":1}
+{"qid":"17931.png-2","query":"Is the percentage of male workers employed in Agricultural sector in Mexico strictly greater than the percentage of male workers employed in Agricultural sector in Argentina over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"28273.png-1","query":"Is the difference between the percentage of amount earned from merchandise imports in Latvia in 2004 and 2005 greater than the difference between the percentage of amount earned from merchandise imports in St. Vincent and the Grenadines in 2004 and 2005 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"27959.png-1","query":"What is the difference between the income share held by highest 20% of the population in Georgia and that in France ?","answer":"5.759999999999998","options":null,"is_numerical":1}
+{"qid":"14008.png-2","query":"What is the difference between the amount of grants received(excluding technical cooperation) in Myanmar and the amount of grants received(including technical cooperation) in Maldives ?","answer":"154250000","options":null,"is_numerical":0}
+{"qid":"3024.png-1","query":"Is it the case that in every year, the sum of the net bilateral aid flow in Senegal and net bilateral aid flow in Tajikistan  is greater than the net bilateral aid flow in East Asia (all income levels) ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"5517.png-1","query":"Do a majority of the years between 1982 and 1984 (inclusive) have value added by agriculture sector greater than 12000000 LCU ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"3251.png-1","query":"In how many years, is the CPIA rating in Tanzania greater than 0.6000000000000001 ?","answer":"8","options":null,"is_numerical":1}
+{"qid":"23066.png-1","query":"What is the difference between the highest and the second highest amount of grants received(excluding technical cooperation) ?","answer":"1520000","options":null,"is_numerical":1}
+{"qid":"1379.png-1","query":"In the year 2005, what is the difference between the tuberculosis treatment success rate in Maldives and tuberculosis treatment success rate in Lesotho ?","answer":"16.0","options":null,"is_numerical":1}
+{"qid":"1396.png-1","query":"What is the average female life expectancy at birth in Burundi per year?","answer":"50.057","options":null,"is_numerical":1}
+{"qid":"847.png-1","query":"In how many years, is the amount spent in travel items greater than 70000000000 US$?","answer":"7","options":null,"is_numerical":1}
+{"qid":"2549.png-2","query":"In how many years, is the percentage of long-term unemployed male population in Austria greater than the average percentage of long-term unemployed male population in Austria taken over all years ?","answer":"5","options":null,"is_numerical":1}
+{"qid":"1430.png-2","query":"What is the difference between the highest and the lowest net financial aid flows in Latin America(developing only) ?","answer":"1532281000","options":null,"is_numerical":0}
+{"qid":"20128.png-3","query":"In how many years, is the amount collected as tax on revenue greater than 1000000000 $?","answer":"2","options":null,"is_numerical":1}
+{"qid":"9672.png-1","query":"What is the difference between the highest and the lowest male life expectancy at birth in Least developed countries ?","answer":"1.3500892897666077","options":null,"is_numerical":1}
+{"qid":"6801.png-2","query":"In how many years, is the net national savings greater than the average net national savings taken over all years ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"28486.png-1","query":"What does the 4th bar from the left in Heavily indebted poor countries represents ?","answer":"Tertiary schools","options":null,"is_numerical":0}
+{"qid":"8185.png-2","query":"In which country was the percentage of raw materials imports minimum?","answer":"Jamaica","options":null,"is_numerical":0}
+{"qid":"11407.png-1","query":"What is the ratio of the duration of primary education in Iraq to that in Ukraine ?","answer":"2.0","options":null,"is_numerical":1}
+{"qid":"2243.png-1","query":"Is the tuberculosis case detection rate in in Chad in 2004 less than that in 2005 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"27184.png-2","query":"What is the net official aid received in Bolivia in 1997 ?","answer":"697750000.0","options":null,"is_numerical":1}
+{"qid":"25615.png-2","query":"What is the difference between the highest and the second highest number of procedures to build a warehouse in in 2007 ?","answer":"-4.455555555555499","options":null,"is_numerical":1}
+{"qid":"1951.png-1","query":"In the year 2008, what is the difference between the percentage of employed females who are vulnerable to fall into poverty in Bahrain and percentage of employed females who are vulnerable to fall into poverty in Malta ?","answer":"-9.29999995231628","options":null,"is_numerical":1}
+{"qid":"14898.png-1","query":"What is the difference between the total debt in Bolivia in 1992 and that in 1998 ?","answer":"-13057000","options":null,"is_numerical":0}
+{"qid":"7008.png-2","query":"Is the domestic credit provided by banks in 2004 less than that in 2005 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"4281.png-2","query":"What is the net official aid flow in Bhutan in 1991 ?","answer":"4030000.0","options":null,"is_numerical":1}
+{"qid":"25347.png-1","query":"In which country was the percentage of urban population who used drinking water services minimum ?","answer":"Cameroon","options":null,"is_numerical":0}
+{"qid":"1802.png-1","query":"In the year 1982, what is the difference between the average precipitation in Ghana and average precipitation in Hungary ?","answer":"598","options":null,"is_numerical":0}
+{"qid":"19095.png-1","query":"In which year was the GDP per capita in Greece maximum?","answer":"1976","options":null,"is_numerical":0}
+{"qid":"14242.png-1","query":"In which country was the net bilateral aid flow in 1963 minimum?","answer":"Heavily indebted poor countries","options":null,"is_numerical":0}
+{"qid":"32485.png-1","query":"In how many years, is the total interest payments on external debt greater than the average total interest payments on external debt taken over all years ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"1206.png-1","query":"In the year 1992, what is the difference between the number of trademark applications made by the residents in Low & middle income and number of trademark applications made by the residents in Dominica ?","answer":"133026.0","options":null,"is_numerical":1}
+{"qid":"30255.png-1","query":"What is the difference between the highest and the second highest CPIA rating in Congo (Republic) ?","answer":"0.0","options":null,"is_numerical":1}
+{"qid":"8419.png-1","query":"Is the sum of the percentage of gaseous fuel emission in 1982 and 1986 greater than the maximum percentage of liquid fuel emission across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"15958.png-1","query":"What is the ratio of the contraceptive prevalence in 1984 to that in 1994?","answer":"0.798","options":null,"is_numerical":1}
+{"qid":"3009.png-1","query":"What is the difference between the value added in manufacturing chemicals in Singapore in 1993 and the value added in manufacturing chemicals in St. Lucia in 1996?","answer":"4.7940397954745295","options":null,"is_numerical":1}
+{"qid":"3270.png-1","query":"Across all years, what is the minimum proportion of the tax revenue collected in Cameroon ?","answer":"1.22373508152631","options":null,"is_numerical":1}
+{"qid":"30154.png-1","query":"What is the ratio of the percentage of the unemployed labor force with secondary education in Bulgaria in 2006 to that in 2008?","answer":"1.0569619590996868","options":null,"is_numerical":1}
+{"qid":"29964.png-1","query":"Across all years, what is the maximum percentage of imports to different countries in World ?","answer":"7.01461869888366","options":null,"is_numerical":1}
+{"qid":"7273.png-2","query":"In the year 1990, what is the difference between the net bilateral aid flow in Honduras and net bilateral aid flow in Middle East & North Africa (developing only) ?","answer":"-14080000.0","options":null,"is_numerical":1}
+{"qid":"11216.png-1","query":"What is the percentage of population that have access to electricity in American Samoa in 2010 ?","answer":"55.8","options":null,"is_numerical":1}
+{"qid":"3063.png-2","query":"Across all years, what is the maximum number of days required to start a business in South Africa ?","answer":"22","options":null,"is_numerical":0}
+{"qid":"29193.png-1","query":"What is the average net national savings in 1971 per country?","answer":"8955722838.190872","options":null,"is_numerical":1}
+{"qid":"14901.png-2","query":"Is the total CO2 emitted in Portugal in 2003 less than that in 2004 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"11932.png-1","query":"What is the number of procedures required to register a business in Togo in 2012 ?","answer":"6","options":null,"is_numerical":0}
+{"qid":"5946.png-2","query":"In how many years, is the amount of methane emissions greater than the average amount of methane emissions taken over all years ?","answer":"1","options":null,"is_numerical":1}
+{"qid":"4093.png-1","query":"In how many years, is the CPIA rating in Georgia greater than 1.2 ?","answer":"7","options":null,"is_numerical":1}
+{"qid":"13958.png-1","query":"What is the ratio of the CPIA rating in Niger in 2007 to that in 2009 ?","answer":"1.0","options":null,"is_numerical":1}
+{"qid":"4559.png-2","query":"Is the sum of the production of clean energy in 1962 and 1963 greater than the maximum production of clean energy across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"3375.png-1","query":"Across all years, what is the minimum net bilateral aid flows in Peru ?","answer":"220000","options":null,"is_numerical":0}
+{"qid":"6841.png-1","query":"Is the co2 emissions due to electricity and heat production in 1983 less than that in 1986 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"11474.png-1","query":"Across all years, what is the minimum number of passengers carried by air carriers in Botswana ?","answer":"10400.0","options":null,"is_numerical":1}
+{"qid":"17489.png-1","query":"Is the percentage of firms using banks to finance investment strictly greater than the percentage of firms using banks to finance working capital over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"32172.png-3","query":"What is the difference between the completeness of infant death reporting in 2007 and 2009 ?","answer":"0.033","options":null,"is_numerical":1}
+{"qid":"5605.png-3","query":"In the year 2012, what is the difference between the export of goods as percentage of gdp and external balance on goods as percentage of gdp ?","answer":"80.796","options":null,"is_numerical":1}
+{"qid":"11094.png-1","query":"What is the percentage of undernourished population in Kiribati in 1995 ?","answer":"6.3","options":null,"is_numerical":1}
+{"qid":"19281.png-1","query":"In which year was the rating of the efficiency of customs procedure in Korea (Republic) maximum?","answer":"2011","options":null,"is_numerical":0}
+{"qid":"27863.png-1","query":"Across all countries, what is the minimum electric power consumption in in 1962 ?","answer":"2012.660584621111","options":null,"is_numerical":1}
+{"qid":"25457.png-1","query":"Is the balance of payments for travel services in Fiji in 2007 less than that in 2008 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"23435.png-1","query":"Is the sum of the death rate in Belgium and Bermuda greater than the maximum birth rate across all countries ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"30246.png-1","query":"Across all countries, what is the minimum CPIA rating in 2007 ?","answer":"3.0","options":null,"is_numerical":1}
+{"qid":"28809.png-1","query":"What is the difference between the CPIA rating of/in 2006 and CPIA rating of/in 2008 in Dominica?","answer":"0.0","options":null,"is_numerical":1}
+{"qid":"31731.png-3","query":"What is the average number of procedures required to register a business in Rwanda per year?","answer":"7.25","options":null,"is_numerical":1}
+{"qid":"30969.png-1","query":"What is the net national savings in 1971 in Italy ?","answer":"17452284600.0028","options":null,"is_numerical":1}
+{"qid":"29817.png-1","query":"What is the difference between the net official DA received in 1963 in Fiji and the net official DA received in 1960 in Gabon?","answer":"3.593036163955795","options":null,"is_numerical":1}
+{"qid":"19419.png-1","query":"What is the difference between the highest and the lowest female life expectancy at birth in Liechtenstein ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"13272.png-1","query":"What is the average labor force participation rate in 1993 per country ?","answer":"66.83333269755043","options":null,"is_numerical":1}
+{"qid":"24305.png-2","query":"Is the sum of the percentage of women justifying domestic violence due to refusal of sex in Rwanda and Armenia greater than the maximum percentage of women justifying domestic violence due to arguments across all countries ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"33387.png-1","query":"What is the life expectancy at birth in Armenia ?","answer":"67.85334146341471","options":null,"is_numerical":1}
+{"qid":"31210.png-1","query":"What is the difference between the percentage of population listed by a public credit bureau in East Asia (all income levels) in 2007 and that in 2010 ?","answer":"-1.7239999999999975","options":null,"is_numerical":1}
+{"qid":"3004.png-1","query":"Across all years, what is the minimum number of days required to start a business in Germany ?","answer":"10.5","options":null,"is_numerical":1}
+{"qid":"24000.png-1","query":"What does the 2nd bar from the right in Brazil represents ?","answer":"Health","options":null,"is_numerical":0}
+{"qid":"32361.png-1","query":"Do a majority of the years between 2009 and 2005 (inclusive) have percentage of trained male teachers greater than 48 % ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"27236.png-1","query":"What is the difference between the under-five mortality rate in 1960 in Dominican Republic and the under-five mortality rate in 1961 in El Salvador?","answer":"-35.5","options":null,"is_numerical":1}
+{"qid":"6299.png-2","query":"What is the difference between the merchandise exports in 1964 and that in 1969 ?","answer":"0.342","options":null,"is_numerical":1}
+{"qid":"25883.png-1","query":"In the year 1981, what is the difference between the number of infant deaths in Madagascar and number of infant deaths in Cabo Verde ?","answer":"40447.0","options":null,"is_numerical":1}
+{"qid":"14651.png-2","query":"What is the difference between the CPIA rating in 2006 and CPIA rating in 2008 in Mozambique ?","answer":"-0.5","options":null,"is_numerical":1}
+{"qid":"7638.png-2","query":"What is the difference between the net taxes in us$ in Burkina Faso and that in Burundi ?","answer":"-5919486.377","options":null,"is_numerical":1}
+{"qid":"31286.png-1","query":"Across all years, what is the maximum CPIA rating in Sao Tome and Principe ?","answer":"2.5","options":null,"is_numerical":1}
+{"qid":"1195.png-1","query":"What is the average total debt stocks in Middle income per year?","answer":"75.73179182779535","options":null,"is_numerical":1}
+{"qid":"3609.png-1","query":"Does the total electricity produced in Azerbaijan monotonically increase over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"30206.png-1","query":"What is the difference between the female infant mortality rate in Tunisia in 2000 and the female infant mortality rate in Greece in 1990?","answer":"16.900000000000002","options":null,"is_numerical":1}
+{"qid":"24692.png-2","query":"In how many countries, is the total number of flight takeoffs in 1972 greater than 50000 ?","answer":"3","options":null,"is_numerical":1}
+{"qid":"22682.png-2","query":"In how many years, is the percentage of overweight children greater than 1.4 %?","answer":"5","options":null,"is_numerical":1}
+{"qid":"6080.png-1","query":"Across all countries, what is the maximum percentage of self-employed workers in 1980 ?","answer":"25.39999961853031","options":null,"is_numerical":1}
+{"qid":"376.png-1","query":"In how many years, is the merchandise imports greater than 6.4 %?","answer":"6","options":null,"is_numerical":1}
+{"qid":"16458.png-1","query":"Across all years, what is the maximum electric power transmission and distribution losses ?","answer":"18.2131280388979","options":null,"is_numerical":1}
+{"qid":"4178.png-1","query":"Is the value added by manufacturing to the total GDP in United States in 2000 less than that in 2005 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"26366.png-1","query":"In how many countries, is the container port traffic in 2000 greater than 48000000 TEU?","answer":"2","options":null,"is_numerical":1}
+{"qid":"23425.png-1","query":"In which year was the long-term debts owed by residents maximum?","answer":"1989","options":null,"is_numerical":0}
+{"qid":"31312.png-1","query":"What is the ratio of the net bilateral aid flow in Maldives in 1997 to that in 2000?","answer":"1.0","options":null,"is_numerical":1}
+{"qid":"9892.png-1","query":"Is the percentage of unemployed male labor force in 1980 in Costa Rica less than that in Israel ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"1770.png-1","query":"In which year was the under-five mortality rate in Latvia minimum?","answer":"2015","options":null,"is_numerical":0}
+{"qid":"3292.png-1","query":"What is the net enrolment rate of males in secondary schools in United Kingdom in 2001 ?","answer":"94.0364837646484","options":null,"is_numerical":1}
+{"qid":"13999.png-2","query":"What is the difference between the percentage of the population ages 65 and above in Georgia in 1978 and the percentage of the population ages 65 and above in East Asia (developing only) in 1977 ?","answer":"4.917901697319119","options":null,"is_numerical":1}
+{"qid":"14023.png-1","query":"What is the percentage of the population ages 65 and above in Bolivia in 1988 ?","answer":"4.23142746762484","options":null,"is_numerical":1}
+{"qid":"13251.png-1","query":"In which country was the oil rent in 1970 minimum?","answer":"Europe(all income levels)","options":null,"is_numerical":0}
+{"qid":"8466.png-2","query":"In which year was the under-five mortality rate in Romania minimum?","answer":"2015","options":null,"is_numerical":0}
+{"qid":"31325.png-1","query":"What is the difference between the highest and the second highest percentage of broad money claimed on centeral government in Kenya ?","answer":"0.9707093121618602","options":null,"is_numerical":1}
+{"qid":"30126.png-2","query":"In the year 2013, what is the difference between the number of borrowers involved with commercial banks in Fragile and conflict affected situations and number of borrowers involved with commercial banks in Kiribati ?","answer":"-10.551622255841497","options":null,"is_numerical":1}
+{"qid":"4957.png-2","query":"Do a majority of the years between 1995 and 2009 (inclusive) have number of physicians greater than 0.112  ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"12915.png-1","query":"What is the difference between the percentage of employed boys and percentage of employed girls in Jamaica ?","answer":"0.9","options":null,"is_numerical":1}
+{"qid":"19059.png-1","query":"What is the difference between the highest and the lowest proportion of the male labor force who participated in production in Albania ?","answer":"4","options":null,"is_numerical":1}
+{"qid":"22549.png-1","query":"Across all countries, what is the minimum life expectancy(female) ?","answer":"43.307","options":null,"is_numerical":1}
+{"qid":"24480.png-1","query":"In which year was the balance of payments for transport services in Venezuela minimum?","answer":"2010","options":null,"is_numerical":0}
+{"qid":"21897.png-1","query":"Across all years, what is the maximum total number of fixed broadband subscriptions ?","answer":"0.0791455854126743","options":null,"is_numerical":1}
+{"qid":"4050.png-1","query":"In how many years, is the expenditure spent by government on the secondary education in Denmark greater than the average expenditure spent by government on the secondary education in Denmark taken over all years ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"12546.png-1","query":"What is the difference between the highest and the lowest net official DA received in 1963 ?","answer":"2.4764481296639422","options":null,"is_numerical":1}
+{"qid":"8361.png-3","query":"Is it the case that in every country, the sum of the urban population in 1962 and urban population in 1960 is greater than the urban population in 1961 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"2119.png-1","query":"In the year 2007, what is the difference between the cost of business start-up procedures in Serbia and cost of business start-up procedures in El Salvador ?","answer":"-65.8","options":null,"is_numerical":1}
+{"qid":"25142.png-1","query":"In the year 2005, what is the difference between the percentage of unemployed female population in in Estonia and percentage of unemployed female population in in Mexico ?","answer":"-20.5499982833862","options":null,"is_numerical":1}
+{"qid":"2442.png-1","query":"In the year 2009, what is the difference between the distance to frontier score of in Mauritius and distance to frontier score of in Morocco ?","answer":"12.570000000000007","options":null,"is_numerical":1}
+{"qid":"26494.png-1","query":"In which country was the IDA resource allocation index in 2005 minimum?","answer":"Haiti","options":null,"is_numerical":0}
+{"qid":"29936.png-1","query":"What is the difference between the highest and the second highest total grants received by the government in 1972 ?","answer":"26240000.0","options":null,"is_numerical":1}
+{"qid":"1347.png-2","query":"In how many years, is the electric power transmission and distribution losses in Botswana greater than the average electric power transmission and distribution losses in Botswana taken over all years ?","answer":"3","options":null,"is_numerical":1}
+{"qid":"8719.png-1","query":"Across all years, what is the minimum percentage of total male population who survived till the age of 65 years in Bangladesh ?","answer":"43.76829","options":null,"is_numerical":1}
+{"qid":"21178.png-2","query":"In which year was the mineral rent in East Asia (developing only) maximum?","answer":"1997","options":null,"is_numerical":0}
+{"qid":"25005.png-1","query":"What is the ratio of the amount of agricultural methane emitted in Croatia in 1990 to that in 2008?","answer":"1.474902694608712","options":null,"is_numerical":1}
+{"qid":"30135.png-1","query":"In how many countries, is the merchandise imports greater than 31 % ?","answer":"1","options":null,"is_numerical":1}
+{"qid":"27106.png-1","query":"In which year was the value added in manufacturing machinery minimum?","answer":"2009","options":null,"is_numerical":0}
+{"qid":"12799.png-2","query":"What is the difference between the highest and the second highest cpia rating of debt policy ?","answer":"0.5","options":null,"is_numerical":1}
+{"qid":"3505.png-1","query":"What is the ratio of the net bilateral aid flow in Panama in 2009 to that in 2010?","answer":"1.0","options":null,"is_numerical":1}
+{"qid":"7903.png-1","query":"In the year 1992, what is the difference between the price level ratio in Gambia, The and price level ratio in Tanzania ?","answer":"0.5253683828176798","options":null,"is_numerical":1}
+{"qid":"2080.png-1","query":"In the year 2002, what is the difference between the percentage of unemployed population in in Kyrgyz Republic and percentage of unemployed population in in Bahrain ?","answer":"10.10000038146973","options":null,"is_numerical":1}
+{"qid":"26314.png-2","query":"In how many years, is the percentage of repeaters in secondary general education in Netherlands greater than 0.8 %?","answer":"4","options":null,"is_numerical":1}
+{"qid":"14700.png-1","query":"Is the amount of CO2 emitted in New Zealand in 1963 less than that in 1965 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"32794.png-1","query":"In which year was the strength of legal rights index minimum ?","answer":"2013","options":null,"is_numerical":0}
+{"qid":"12092.png-1","query":"In the year 2000, what is the difference between the value added by the industrial sector to the total GDP in Sub-Saharan Africa (developing only) and value added by the industrial sector to the total GDP in Benin ?","answer":"1.8236004817586","options":null,"is_numerical":1}
+{"qid":"9566.png-1","query":"What is the difference between the number of tuberculosis cases reported in in 1992 and number of tuberculosis cases reported in in 1991 in Grenada ?","answer":"0.6000000000000001","options":null,"is_numerical":1}
+{"qid":"923.png-1","query":"In how many years, is the investments of government greater than 23 %?","answer":"2","options":null,"is_numerical":1}
+{"qid":"16975.png-1","query":"In how many years, is the amount earned by trading services greater than -680000000 US$?","answer":"0","options":null,"is_numerical":1}
+{"qid":"23421.png-2","query":"What is the ratio of the amount of loans disbursed in 1970 in Costa Rica to that in Upper middle income?","answer":"0.048822063387567005","options":null,"is_numerical":1}
+{"qid":"11096.png-1","query":"In the year 1991, what is the difference between the percentage of urban population having access to drinking water in Czech Republic and percentage of urban population having access to drinking water in Serbia ?","answer":"0.30000000000001137","options":null,"is_numerical":1}
+{"qid":"4152.png-2","query":"What is the total percentage of the unemployed male labor force with primary education in West Bank and Gaza in the graph ?","answer":"151.3000011444092","options":null,"is_numerical":1}
+{"qid":"12795.png-2","query":"What is the difference between the total debt in 1973 in Congo (Democratic) and the total debt in 1972 in Central African Republic?","answer":"241271000.0","options":null,"is_numerical":1}
+{"qid":"11402.png-1","query":"What is the difference between the amount of agricultural methane emitted in 1990 in Mozambique and that in Myanmar ?","answer":"19.124247705598513","options":null,"is_numerical":1}
+{"qid":"24368.png-1","query":"Across all years, what is the minimum percentage of self-employed workers in Philippines ?","answer":"49.2999992370605","options":null,"is_numerical":1}
+{"qid":"9357.png-1","query":"Is the sum of the population of in 1960 in Marshall Islands and Micronesia greater than the maximum population of in 1962 across all countries ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"11179.png-1","query":"What is the ratio of the percentage of enrolment in primary education in Upper middle income in 1974 to that in 1983 ?","answer":"1.0965699693022537","options":null,"is_numerical":1}
+{"qid":"26877.png-2","query":"In how many countries, is the government conusmption in 1961 greater than 6000000000 US$?","answer":"1","options":null,"is_numerical":1}
+{"qid":"9823.png-1","query":"Is the percentage of HIV infected male population in 1992 in Jamaica less than that in Kazakhstan ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"21535.png-1","query":"What is the difference between the time to clear exports through customs in 2006 and 2010 ?","answer":"-4.800000000000001","options":null,"is_numerical":1}
+{"qid":"9753.png-1","query":"In which country was the official exchange rate in 1961 minimum?","answer":"Israel","options":null,"is_numerical":0}
+{"qid":"13197.png-1","query":"In the year 1984, what is the difference between the net taxes on products in Equatorial Guinea and net taxes on products in Antigua and Barbuda ?","answer":"-21285980.977790173","options":null,"is_numerical":1}
+{"qid":"10317.png-2","query":"Across all years, what is the maximum Insurance provided to residents in Gambia, The ?","answer":"6.015624018231209","options":null,"is_numerical":1}
+{"qid":"3993.png-1","query":"Is the percentage of the unemployed female labor force with secondary education in Slovak Republic in 2005 less than that in 2007 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"29014.png-1","query":"What is the percentage of female labor force within the age group 20-50 in Costa Rica ?","answer":"40.2999992370605","options":null,"is_numerical":1}
+{"qid":"14860.png-2","query":"What is the difference between the proportion of the female population that is economically active in 1980 in Finland and that in Israel ?","answer":"23.2000007629394","options":null,"is_numerical":1}
+{"qid":"16652.png-1","query":"Across all countries, what is the maximum cereal yield ?","answer":"7455.486","options":null,"is_numerical":1}
+{"qid":"27047.png-3","query":"What is the difference between the percentage of labor force in 1991 in Ghana and that in Greece ?","answer":"1907737","options":null,"is_numerical":0}
+{"qid":"29952.png-2","query":"What is the difference between the gross intake ratio in Tuvalu in 2003 and the gross intake ratio in Sri Lanka in 2006?","answer":"-4.620025634765582","options":null,"is_numerical":1}
+{"qid":"516.png-1","query":"In how many years, is the education completion rate of male students greater than the average education completion rate of male students taken over all years ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"3529.png-1","query":"In which year was the amount of long-term external debts owed by residents in East Asia (developing only) maximum?","answer":"1997","options":null,"is_numerical":0}
+{"qid":"1314.png-1","query":"Does the percentage of electricity produced by coal monotonically increase over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"7285.png-2","query":"Is the percentage of male workers employed in Agricultural sector in Morocco in 2006 less than that in 2008 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"15362.png-1","query":"What is the difference between the highest and the lowest fossil fuel energy consumption ?","answer":"87.27","options":null,"is_numerical":1}
+{"qid":"1557.png-2","query":"What is the difference between the highest and the lowest strength index in Palau ?","answer":"0","options":null,"is_numerical":0}
+{"qid":"24131.png-2","query":"Is the Logistic performance index in 2007 in Argentina less than that in Armenia ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"10808.png-1","query":"Across all countries, what is the maximum gender parity index in tertiary education ?","answer":"0.7553600072860721","options":null,"is_numerical":1}
+{"qid":"7877.png-3","query":"What is the life expectancy(male) in Maldives ?","answer":"61.819","options":null,"is_numerical":1}
+{"qid":"14257.png-2","query":"Across all countries, what is the maximum amount of loan disbursed from government in 1972 ?","answer":"185708000.0","options":null,"is_numerical":1}
+{"qid":"28813.png-2","query":"What is the ratio of the survival rate of male students in primary education in Eritrea to that in Hong Kong ?","answer":"0.8427990004439175","options":null,"is_numerical":1}
+{"qid":"2199.png-1","query":"Is the sum of the total commercial service import in Euro area in 2006 and 2011 greater than the maximum total commercial service import in Romania across all years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"866.png-1","query":"Across all years, what is the maximum expenditure in education ?","answer":"100","options":null,"is_numerical":0}
+{"qid":"24240.png-1","query":"What is the percentage of employed children who are not attending school in 1994 ?","answer":"98.6","options":null,"is_numerical":1}
+{"qid":"26142.png-1","query":"In how many years, is the value added by services greater than the average value added by services taken over all years ?","answer":"2","options":null,"is_numerical":1}
+{"qid":"4872.png-1","query":"What is the median unemployed female youth ?","answer":"50.70000076293945","options":null,"is_numerical":1}
+{"qid":"29128.png-1","query":"Is the difference between the percentage of the unemployed labor force with primary education in Morocco in 2002 and 2003 greater than the difference between the percentage of the unemployed labor force with primary education in West Bank and Gaza in 2002 and 2003 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"29373.png-1","query":"What is the number of procedures required to register a property in St. Vincent and the Grenadines in 2008 ?","answer":"7.0","options":null,"is_numerical":1}
+{"qid":"12634.png-1","query":"Is the difference between the total CO2 emitted in Cote d'Ivoire in 1973 and 1975 greater than the difference between the total CO2 emitted in Middle income in 1973 and 1975 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"25594.png-1","query":"In how many countries, is the volume of the air carriers in 1970 greater than 22 million ton-km?","answer":"3","options":null,"is_numerical":1}
+{"qid":"8490.png-1","query":"What is the percentage of population that have access to electricity in 2010 in Dominica ?","answer":"91.83897","options":null,"is_numerical":1}
+{"qid":"6578.png-2","query":"In the year 2008, what is the difference between the percentage of employed males who are not attending school and percentage of employed males who are attending school ?","answer":"-79.526","options":null,"is_numerical":1}
+{"qid":"13374.png-1","query":"What is the difference between the percentage of vaccinated children in Lesotho in 2009 and the percentage of vaccinated children in Middle East & North Africa (developing only) in 2012 ?","answer":"-3.8266291539508046","options":null,"is_numerical":1}
+{"qid":"19357.png-1","query":"What is the difference between the percentage of female labor force who received tertiary education in 2009 and that in 2010 ?","answer":"-3.7999992370605007","options":null,"is_numerical":1}
+{"qid":"2381.png-1","query":"Is the difference between the proportion of the male labor force who participated in production in Congo (Democratic) in 2004 and 2005 greater than the difference between the proportion of the male labor force who participated in production in Mauritius in 2004 and 2005 ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"29269.png-1","query":"In which country was the value added by the agricultural sector in 1962 minimum?","answer":"Congo (Republic)","options":null,"is_numerical":0}
+{"qid":"17291.png-1","query":"In how many years, is the undisbursed external debt of private creditors greater than 28000000 US$?","answer":"0","options":null,"is_numerical":1}
+{"qid":"22761.png-3","query":"What is the difference between the highest and the second highest percentage of females employed in Industrial sector in 1981 ?","answer":"-9.600002288818398","options":null,"is_numerical":1}
+{"qid":"4021.png-3","query":"What is the female labor force participation rate in Qatar in 1997 ?","answer":"25.7999992370605","options":null,"is_numerical":1}
+{"qid":"13477.png-1","query":"What is the difference between the highest and the second highest number of teachers teaching in primary schools in Latin America(all income levels) ?","answer":"76103.5","options":null,"is_numerical":1}
+{"qid":"22501.png-3","query":"Is the Logistic performance index in Sao Tome and Principe in 2012 less than that in 2014 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"28227.png-1","query":"In which year was the amount earned from merchandise imports in Middle income maximum?","answer":"1976","options":null,"is_numerical":0}
+{"qid":"1703.png-2","query":"Is the percentage of annual freshwater withdrawals in United Kingdom in 1992 less than that in 2013 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"7505.png-1","query":"Is the rent towards natural gas in Turkey less than that in Kyrgyz Republic ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"19006.png-1","query":"Across all years, what is the maximum amount paid to workers in Kyrgyz Republic ?","answer":"89837488.23","options":null,"is_numerical":1}
+{"qid":"16906.png-1","query":"What is the ratio of the percentage of undernourished female children in 1999 to that in 2014?","answer":"2.7931034879650447","options":null,"is_numerical":1}
+{"qid":"7964.png-2","query":"What is the under-five mortality rate in 1961 in Ireland ?","answer":"33.9","options":null,"is_numerical":1}
+{"qid":"4977.png-2","query":"What is the ratio of the tuberculosis treatment success rate in 2006 to that in 2010 ?","answer":"0.9487179487179487","options":null,"is_numerical":1}
+{"qid":"14052.png-1","query":"What is the ratio of the CPIA rating in 2008 in Rwanda to that in Samoa ?","answer":"1.0","options":null,"is_numerical":1}
+{"qid":"30294.png-1","query":"In how many countries, is the coal rent in 1970 greater than the average coal rent in 1970 taken over all countries ?","answer":"1","options":null,"is_numerical":1}
+{"qid":"29439.png-2","query":"What is the ratio of the percentage of forest land in 1991 in St. Lucia to that in St. Vincent and the Grenadines?","answer":"0.5537587355496048","options":null,"is_numerical":1}
+{"qid":"16941.png-1","query":"In the year 1985, what is the difference between the adolescent fertility rate and fertility rate ?","answer":"103.7398","options":null,"is_numerical":1}
+{"qid":"26190.png-1","query":"What is the average total cereal yield in Congo (Democratic) per year?","answer":"771.633","options":null,"is_numerical":1}
+{"qid":"7014.png-1","query":"Across all years, what is the minimum percentage of self-employed male workers in Austria ?","answer":"15.5","options":null,"is_numerical":1}
+{"qid":"124.png-1","query":"In the year 2000, what is the difference between the percentage of employed males who are not attending school and percentage of employed males who are attending school ?","answer":"-93.39934","options":null,"is_numerical":1}
+{"qid":"22693.png-1","query":"In how many countries, is the number of fixed telephone subscribers greater than the average number of fixed telephone subscribers taken over all countries ?","answer":"3","options":null,"is_numerical":1}
+{"qid":"868.png-1","query":"What is the percentage of children who received treatment for diarrhoea in 1989 ?","answer":"45","options":null,"is_numerical":0}
+{"qid":"7926.png-1","query":"In how many countries, is the value added by services greater than the average value added by services taken over all countries ?","answer":"1","options":null,"is_numerical":1}
+{"qid":"6212.png-1","query":"What is the difference between the income share held by lowest 10% of the population in Bulgaria and the income share held by highest 10% of the population in Canada ?","answer":"-19.36","options":null,"is_numerical":1}
+{"qid":"32788.png-1","query":"Is the sum of the contraceptive prevalence in Colombia and Costa Rica greater than the maximum contraceptive prevalence across all countries ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"1066.png-2","query":"Is the percentage of female teachers in secondary schools strictly greater than the percentage of female teachers in primary schools over the years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"27998.png-1","query":"In the year 1997, what is the difference between the percentage of female part-time workers in Suriname and percentage of female part-time workers in North America ?","answer":"10.206807393173001","options":null,"is_numerical":1}
+{"qid":"32243.png-1","query":"Across all years, what is the maximum percentage of firms with female as top manager ?","answer":"28.8","options":null,"is_numerical":1}
+{"qid":"8030.png-1","query":"Across all years, what is the minimum percentage of trained teachers in Cyprus ?","answer":"10.0079298019409","options":null,"is_numerical":1}
+{"qid":"30207.png-2","query":"What is the difference between the net bilateral aid flow in 1961 in Low income and that in Middle income ?","answer":"-38850000.0","options":null,"is_numerical":1}
+{"qid":"30987.png-1","query":"Across all years, what is the maximum percentage of the unemployed male labor force with secondary education in Sweden ?","answer":"56.5999984741211","options":null,"is_numerical":1}
+{"qid":"26103.png-1","query":"In how many years, is the percentage of external PPG debt contracted in Euros in Mauritius greater than 12 %?","answer":"4","options":null,"is_numerical":1}
+{"qid":"7861.png-1","query":"What is the percentage of trained primary school teachers (males) in Kuwait in 2007 ?","answer":"100.0","options":null,"is_numerical":1}
+{"qid":"25929.png-2","query":"What does the 1st bar from the left in Private credit bureau represents ?","answer":"OECD members","options":null,"is_numerical":0}
+{"qid":"23367.png-1","query":"What is the difference between the highest and the lowest percentage of self-employed male workers in 1980 ?","answer":"12.2999992370605","options":null,"is_numerical":1}
+{"qid":"12667.png-1","query":"What is the difference between the percentage of male repeaters in Aruba in 2005 and the percentage of male repeaters in Low income in 2003 ?","answer":"5.308260917663601","options":null,"is_numerical":1}
+{"qid":"3407.png-1","query":"What is the amount of loan disimbursed by international monetary fund in 1983 ?","answer":"1026000","options":null,"is_numerical":0}
+{"qid":"771.png-2","query":"Is the enrolment ratio of female students in secondary schools in Kiribati in 1991 less than that in 1996 ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"28265.png-1","query":"What is the difference between the percentage of male labor force above age 50 in 1996 and the percentage of male labor force within the age group 15-20 in 1998?","answer":"0.40000152587879256","options":null,"is_numerical":1}
+{"qid":"653.png-2","query":"What is the ratio of the enrolment ratio of female students in tertiary schools in Bermuda in 2009 to that in 2013?","answer":"1.1284121188581024","options":null,"is_numerical":1}
+{"qid":"4159.png-1","query":"Is the percentage of terrestrial protected land in Guinea-Bissau strictly greater than the percentage of terrestrial protected land in Bangladesh over the years ?","answer":"Yes","options":null,"is_numerical":0}
+{"qid":"33378.png-2","query":"In which year was the number of trademark applications minimum ?","answer":"1986","options":null,"is_numerical":0}
+{"qid":"11926.png-1","query":"In the year 2009, what is the difference between the number of days required to enforce a contract in European Union and number of days required to enforce a contract in Singapore ?","answer":"399.37037037037","options":null,"is_numerical":1}
+{"qid":"18742.png-1","query":"Does the line corresponding to Dominican Republic intersect with the line corresponding to Ireland ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"5708.png-1","query":"In which country was the earnings from merchandise imports maximum?","answer":"Bulgaria","options":null,"is_numerical":0}
+{"qid":"2309.png-2","query":"Does the percentage of HIV infected female population in Tanzania monotonically increase over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"332.png-2","query":"Does the rating of statistical capacity in Montenegro monotonically increase over the years ?","answer":"No","options":null,"is_numerical":0}
+{"qid":"8542.png-1","query":"In the year 1996, what is the difference between the percentage of long-term unemployed male population in Korea (Republic) and percentage of long-term unemployed male population in Hungary ?","answer":"-52.80000019073486","options":null,"is_numerical":1}
+{"qid":"4430.png-2","query":"What is the difference between the net bilateral aid flow in Sao Tome and Principe in 1999 and that in 2000 ?","answer":"-1200000.0","options":null,"is_numerical":1}
+{"qid":"30456.png-5","query":"In the year 1999, what is the difference between the percentage of female teachers in Iraq and percentage of female teachers in Slovenia ?","answer":"-0.08961486816409092","options":null,"is_numerical":1}
+{"qid":"7547.png-1","query":"What is the income share held by lowest 10% of the population in Romania ?","answer":"3.43","options":null,"is_numerical":1}
+{"qid":"2098.png-1","query":"What is the average percentage of total male population who survived till the age of 65 years in Myanmar per year?","answer":"46.85663800000001","options":null,"is_numerical":1}

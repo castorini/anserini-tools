@@ -1,0 +1,125 @@
+{
+  "beir-v1.0.0-arguana": [
+    "beir-v1.0.0-arguana-test",
+    "beir-v1.0.0-arguana.test"
+  ],
+  "beir-v1.0.0-bioasq": [
+    "beir-v1.0.0-bioasq-test",
+    "beir-v1.0.0-bioasq.test"
+  ],
+  "beir-v1.0.0-climate-fever": [
+    "beir-v1.0.0-climate-fever-test",
+    "beir-v1.0.0-climate-fever.test"
+  ],
+  "beir-v1.0.0-cqadupstack-android": [
+    "beir-v1.0.0-cqadupstack-android-test",
+    "beir-v1.0.0-cqadupstack-android.test"
+  ],
+  "beir-v1.0.0-cqadupstack-english": [
+    "beir-v1.0.0-cqadupstack-english-test",
+    "beir-v1.0.0-cqadupstack-english.test"
+  ],
+  "beir-v1.0.0-cqadupstack-gaming": [
+    "beir-v1.0.0-cqadupstack-gaming-test",
+    "beir-v1.0.0-cqadupstack-gaming.test"
+  ],
+  "beir-v1.0.0-cqadupstack-gis": [
+    "beir-v1.0.0-cqadupstack-gis-test",
+    "beir-v1.0.0-cqadupstack-gis.test"
+  ],
+  "beir-v1.0.0-cqadupstack-mathematica": [
+    "beir-v1.0.0-cqadupstack-mathematica-test",
+    "beir-v1.0.0-cqadupstack-mathematica.test"
+  ],
+  "beir-v1.0.0-cqadupstack-physics": [
+    "beir-v1.0.0-cqadupstack-physics-test",
+    "beir-v1.0.0-cqadupstack-physics.test"
+  ],
+  "beir-v1.0.0-cqadupstack-programmers": [
+    "beir-v1.0.0-cqadupstack-programmers-test",
+    "beir-v1.0.0-cqadupstack-programmers.test"
+  ],
+  "beir-v1.0.0-cqadupstack-stats": [
+    "beir-v1.0.0-cqadupstack-stats-test",
+    "beir-v1.0.0-cqadupstack-stats.test"
+  ],
+  "beir-v1.0.0-cqadupstack-tex": [
+    "beir-v1.0.0-cqadupstack-tex-test",
+    "beir-v1.0.0-cqadupstack-tex.test"
+  ],
+  "beir-v1.0.0-cqadupstack-unix": [
+    "beir-v1.0.0-cqadupstack-unix-test",
+    "beir-v1.0.0-cqadupstack-unix.test"
+  ],
+  "beir-v1.0.0-cqadupstack-webmasters": [
+    "beir-v1.0.0-cqadupstack-webmasters-test",
+    "beir-v1.0.0-cqadupstack-webmasters.test"
+  ],
+  "beir-v1.0.0-cqadupstack-wordpress": [
+    "beir-v1.0.0-cqadupstack-wordpress-test",
+    "beir-v1.0.0-cqadupstack-wordpress.test"
+  ],
+  "beir-v1.0.0-dbpedia-entity": [
+    "beir-v1.0.0-dbpedia-entity-test",
+    "beir-v1.0.0-dbpedia-entity.test"
+  ],
+  "beir-v1.0.0-fever": [
+    "beir-v1.0.0-fever-test",
+    "beir-v1.0.0-fever.test"
+  ],
+  "beir-v1.0.0-fiqa": [
+    "beir-v1.0.0-fiqa-test",
+    "beir-v1.0.0-fiqa.test"
+  ],
+  "beir-v1.0.0-hotpotqa": [
+    "beir-v1.0.0-hotpotqa-test",
+    "beir-v1.0.0-hotpotqa.test"
+  ],
+  "beir-v1.0.0-nfcorpus": [
+    "beir-v1.0.0-nfcorpus-test",
+    "beir-v1.0.0-nfcorpus.test"
+  ],
+  "beir-v1.0.0-nq": [
+    "beir-v1.0.0-nq-test",
+    "beir-v1.0.0-nq.test"
+  ],
+  "beir-v1.0.0-quora": [
+    "beir-v1.0.0-quora-test",
+    "beir-v1.0.0-quora.test"
+  ],
+  "beir-v1.0.0-robust04": [
+    "beir-v1.0.0-robust04-test",
+    "beir-v1.0.0-robust04.test"
+  ],
+  "beir-v1.0.0-scidocs": [
+    "beir-v1.0.0-scidocs-test",
+    "beir-v1.0.0-scidocs.test"
+  ],
+  "beir-v1.0.0-scifact": [
+    "beir-v1.0.0-scifact-test",
+    "beir-v1.0.0-scifact.test"
+  ],
+  "beir-v1.0.0-signal1m": [
+    "beir-v1.0.0-signal1m-test",
+    "beir-v1.0.0-signal1m.test"
+  ],
+  "beir-v1.0.0-trec-covid": [
+    "beir-v1.0.0-trec-covid-test",
+    "beir-v1.0.0-trec-covid.test"
+  ],
+  "beir-v1.0.0-trec-news": [
+    "beir-v1.0.0-trec-news-test",
+    "beir-v1.0.0-trec-news.test"
+  ],
+  "beir-v1.0.0-webis-touche2020": [
+    "beir-v1.0.0-webis-touche2020-test",
+    "beir-v1.0.0-webis-touche2020.test"
+  ],
+  "msmarco-passage-dev-subset": [
+    "msmarco-passage-dev",
+    "msmarco-passage.dev-subset",
+    "msmarco-passage.dev",
+    "msmarco-v1-passage-dev",
+    "msmarco-v1-passage.dev"
+  ]
+}

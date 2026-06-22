@@ -1847,6 +1847,10 @@
     "path": "topics.rag24.test.txt",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "rag25.test": {
+    "path": "topics.rag25.test.jsonl",
+    "reader_class": "io.anserini.search.topicreader.JsonStringTopicReader"
+  },
   "robust04": {
     "path": "topics.robust04.txt",
     "reader_class": "io.anserini.search.topicreader.TrecTopicReader"

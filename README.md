@@ -2,7 +2,7 @@
 
 # Evaluation Data for Anserini and Pyserini
 
-This repository holds various data and various tools used by [anserini](http://anserini.io/), [pyserini](http://pyserini.io/).
+This repository holds various data and various tools used by [Anserini](http://anserini.io/), [Pyserini](http://pyserini.io/).
 
 Build the included evaluation tools as follows (you might get warnings, but you can ignore):
 

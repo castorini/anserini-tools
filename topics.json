@@ -1067,8 +1067,16 @@
     "path": "topics.miracl-v1.0-ar-dev.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
+  "miracl-v1.0-ar-train": {
+    "path": "topics.miracl-v1.0-ar-train.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
   "miracl-v1.0-bn-dev": {
     "path": "topics.miracl-v1.0-bn-dev.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
+  "miracl-v1.0-bn-train": {
+    "path": "topics.miracl-v1.0-bn-train.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
   "miracl-v1.0-de-dev": {
@@ -1079,52 +1087,104 @@
     "path": "topics.miracl-v1.0-en-dev.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
+  "miracl-v1.0-en-train": {
+    "path": "topics.miracl-v1.0-en-train.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
   "miracl-v1.0-es-dev": {
     "path": "topics.miracl-v1.0-es-dev.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "miracl-v1.0-es-train": {
+    "path": "topics.miracl-v1.0-es-train.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "miracl-v1.0-fa-dev": {
     "path": "topics.miracl-v1.0-fa-dev.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "miracl-v1.0-fa-train": {
+    "path": "topics.miracl-v1.0-fa-train.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "miracl-v1.0-fi-dev": {
     "path": "topics.miracl-v1.0-fi-dev.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
+  "miracl-v1.0-fi-train": {
+    "path": "topics.miracl-v1.0-fi-train.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
   "miracl-v1.0-fr-dev": {
     "path": "topics.miracl-v1.0-fr-dev.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
+  "miracl-v1.0-fr-train": {
+    "path": "topics.miracl-v1.0-fr-train.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
   "miracl-v1.0-hi-dev": {
     "path": "topics.miracl-v1.0-hi-dev.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "miracl-v1.0-hi-train": {
+    "path": "topics.miracl-v1.0-hi-train.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "miracl-v1.0-id-dev": {
     "path": "topics.miracl-v1.0-id-dev.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
+  "miracl-v1.0-id-train": {
+    "path": "topics.miracl-v1.0-id-train.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
   "miracl-v1.0-ja-dev": {
     "path": "topics.miracl-v1.0-ja-dev.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
+  "miracl-v1.0-ja-train": {
+    "path": "topics.miracl-v1.0-ja-train.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
   "miracl-v1.0-ko-dev": {
     "path": "topics.miracl-v1.0-ko-dev.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
+  "miracl-v1.0-ko-train": {
+    "path": "topics.miracl-v1.0-ko-train.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
   "miracl-v1.0-ru-dev": {
     "path": "topics.miracl-v1.0-ru-dev.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
+  "miracl-v1.0-ru-train": {
+    "path": "topics.miracl-v1.0-ru-train.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
   "miracl-v1.0-sw-dev": {
     "path": "topics.miracl-v1.0-sw-dev.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
+  "miracl-v1.0-sw-train": {
+    "path": "topics.miracl-v1.0-sw-train.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
   "miracl-v1.0-te-dev": {
     "path": "topics.miracl-v1.0-te-dev.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
+  "miracl-v1.0-te-train": {
+    "path": "topics.miracl-v1.0-te-train.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
   "miracl-v1.0-th-dev": {
     "path": "topics.miracl-v1.0-th-dev.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
+  "miracl-v1.0-th-train": {
+    "path": "topics.miracl-v1.0-th-train.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
   "miracl-v1.0-yo-dev": {
@@ -1133,6 +1193,10 @@
   },
   "miracl-v1.0-zh-dev": {
     "path": "topics.miracl-v1.0-zh-dev.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
+  },
+  "miracl-v1.0-zh-train": {
+    "path": "topics.miracl-v1.0-zh-train.tsv",
     "reader_class": "io.anserini.search.topicreader.TsvStringTopicReader"
   },
   "mmeb-visdoc-MMLongBench-doc.test": {

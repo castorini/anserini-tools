@@ -1,4 +1,31 @@
 {
+  "adhoc.101-150": [
+    "trec2-adhoc"
+  ],
+  "adhoc.151-200": [
+    "trec3-adhoc"
+  ],
+  "adhoc.351-400": [
+    "trec7-adhoc"
+  ],
+  "adhoc.401-450": [
+    "trec8-adhoc"
+  ],
+  "adhoc.451-550": [
+    "wt10g"
+  ],
+  "adhoc.51-100": [
+    "trec1-adhoc"
+  ],
+  "backgroundlinking18": [
+    "trec2018-bl"
+  ],
+  "backgroundlinking19": [
+    "trec2019-bl"
+  ],
+  "backgroundlinking20": [
+    "trec2020-bl"
+  ],
   "beir-v1.0.0-arguana": [
     "beir-v1.0.0-arguana-test",
     "beir-v1.0.0-arguana.test"
@@ -115,29 +142,293 @@
     "beir-v1.0.0-webis-touche2020-test",
     "beir-v1.0.0-webis-touche2020.test"
   ],
-  "msmarco-passage-dev-subset": [
+  "car17v1.5.benchmarkY1test": [
+    "car17v1.5-benchmarkY1test"
+  ],
+  "car17v2.0.benchmarkY1test": [
+    "car17v2.0-benchmarkY1test"
+  ],
+  "clef06fr": [
+    "clef2006-fr"
+  ],
+  "fire12bn.176-225": [
+    "fire2012-bn"
+  ],
+  "fire12en.176-225": [
+    "fire2012-en"
+  ],
+  "fire12hi.176-225": [
+    "fire2012-hi"
+  ],
+  "hc4-neuclir22-fa.test": [
+    "hc4-neuclir22-fa-test"
+  ],
+  "hc4-neuclir22-ru.test": [
+    "hc4-neuclir22-ru-test"
+  ],
+  "hc4-neuclir22-zh.test": [
+    "hc4-neuclir22-zh-test"
+  ],
+  "hc4-v1.0-fa.dev": [
+    "hc4-v1.0-fa-dev"
+  ],
+  "hc4-v1.0-fa.test": [
+    "hc4-v1.0-fa-test"
+  ],
+  "hc4-v1.0-ru.dev": [
+    "hc4-v1.0-ru-dev"
+  ],
+  "hc4-v1.0-ru.test": [
+    "hc4-v1.0-ru-test"
+  ],
+  "hc4-v1.0-zh.dev": [
+    "hc4-v1.0-zh-dev"
+  ],
+  "hc4-v1.0-zh.test": [
+    "hc4-v1.0-zh-test"
+  ],
+  "microblog2011": [
+    "mb11"
+  ],
+  "microblog2012": [
+    "mb12"
+  ],
+  "microblog2013": [
+    "mb13"
+  ],
+  "microblog2014": [
+    "mb14"
+  ],
+  "mmeb-visdoc-MMLongBench-doc.test": [
+    "mmeb-visdoc-MMLongBench-doc-test"
+  ],
+  "mmeb-visdoc-MMLongBench-page.test": [
+    "mmeb-visdoc-MMLongBench-page-test"
+  ],
+  "mmeb-visdoc-ViDoRe_arxivqa.test": [
+    "mmeb-visdoc-ViDoRe_arxivqa-test"
+  ],
+  "mmeb-visdoc-ViDoRe_biomedical_lectures_v2.test": [
+    "mmeb-visdoc-ViDoRe_biomedical_lectures_v2-test"
+  ],
+  "mmeb-visdoc-ViDoRe_biomedical_lectures_v2_multilingual.test": [
+    "mmeb-visdoc-ViDoRe_biomedical_lectures_v2_multilingual-test"
+  ],
+  "mmeb-visdoc-ViDoRe_docvqa.test": [
+    "mmeb-visdoc-ViDoRe_docvqa-test"
+  ],
+  "mmeb-visdoc-ViDoRe_economics_reports_v2.test": [
+    "mmeb-visdoc-ViDoRe_economics_reports_v2-test"
+  ],
+  "mmeb-visdoc-ViDoRe_economics_reports_v2_multilingual.test": [
+    "mmeb-visdoc-ViDoRe_economics_reports_v2_multilingual-test"
+  ],
+  "mmeb-visdoc-ViDoRe_esg_reports_human_labeled_v2.test": [
+    "mmeb-visdoc-ViDoRe_esg_reports_human_labeled_v2-test"
+  ],
+  "mmeb-visdoc-ViDoRe_esg_reports_v2.test": [
+    "mmeb-visdoc-ViDoRe_esg_reports_v2-test"
+  ],
+  "mmeb-visdoc-ViDoRe_esg_reports_v2_multilingual.test": [
+    "mmeb-visdoc-ViDoRe_esg_reports_v2_multilingual-test"
+  ],
+  "mmeb-visdoc-ViDoRe_infovqa.test": [
+    "mmeb-visdoc-ViDoRe_infovqa-test"
+  ],
+  "mmeb-visdoc-ViDoRe_shiftproject.test": [
+    "mmeb-visdoc-ViDoRe_shiftproject-test"
+  ],
+  "mmeb-visdoc-ViDoRe_syntheticDocQA_artificial_intelligence.test": [
+    "mmeb-visdoc-ViDoRe_syntheticDocQA_artificial_intelligence-test"
+  ],
+  "mmeb-visdoc-ViDoRe_syntheticDocQA_energy.test": [
+    "mmeb-visdoc-ViDoRe_syntheticDocQA_energy-test"
+  ],
+  "mmeb-visdoc-ViDoRe_syntheticDocQA_government_reports.test": [
+    "mmeb-visdoc-ViDoRe_syntheticDocQA_government_reports-test"
+  ],
+  "mmeb-visdoc-ViDoRe_syntheticDocQA_healthcare_industry.test": [
+    "mmeb-visdoc-ViDoRe_syntheticDocQA_healthcare_industry-test"
+  ],
+  "mmeb-visdoc-ViDoRe_tabfquad.test": [
+    "mmeb-visdoc-ViDoRe_tabfquad-test"
+  ],
+  "mmeb-visdoc-ViDoRe_tatdqa.test": [
+    "mmeb-visdoc-ViDoRe_tatdqa-test"
+  ],
+  "mmeb-visdoc-ViDoSeek-doc.test": [
+    "mmeb-visdoc-ViDoSeek-doc-test"
+  ],
+  "mmeb-visdoc-ViDoSeek-page.test": [
+    "mmeb-visdoc-ViDoSeek-page-test"
+  ],
+  "mmeb-visdoc-VisRAG_ArxivQA.train": [
+    "mmeb-visdoc-VisRAG_ArxivQA-train"
+  ],
+  "mmeb-visdoc-VisRAG_ChartQA.train": [
+    "mmeb-visdoc-VisRAG_ChartQA-train"
+  ],
+  "mmeb-visdoc-VisRAG_InfoVQA.train": [
+    "mmeb-visdoc-VisRAG_InfoVQA-train"
+  ],
+  "mmeb-visdoc-VisRAG_MP-DocVQA.train": [
+    "mmeb-visdoc-VisRAG_MP-DocVQA-train"
+  ],
+  "mmeb-visdoc-VisRAG_PlotQA.train": [
+    "mmeb-visdoc-VisRAG_PlotQA-train"
+  ],
+  "mmeb-visdoc-VisRAG_SlideVQA.train": [
+    "mmeb-visdoc-VisRAG_SlideVQA-train"
+  ],
+  "mrtydi-v1.1-ar.dev": [
+    "mrtydi-v1.1-arabic-dev"
+  ],
+  "mrtydi-v1.1-ar.test": [
+    "mrtydi-v1.1-arabic-test"
+  ],
+  "mrtydi-v1.1-ar.train": [
+    "mrtydi-v1.1-arabic-train"
+  ],
+  "mrtydi-v1.1-bn.dev": [
+    "mrtydi-v1.1-bengali-dev"
+  ],
+  "mrtydi-v1.1-bn.test": [
+    "mrtydi-v1.1-bengali-test"
+  ],
+  "mrtydi-v1.1-bn.train": [
+    "mrtydi-v1.1-bengali-train"
+  ],
+  "mrtydi-v1.1-en.dev": [
+    "mrtydi-v1.1-english-dev"
+  ],
+  "mrtydi-v1.1-en.test": [
+    "mrtydi-v1.1-english-test"
+  ],
+  "mrtydi-v1.1-en.train": [
+    "mrtydi-v1.1-english-train"
+  ],
+  "mrtydi-v1.1-fi.dev": [
+    "mrtydi-v1.1-finnish-dev"
+  ],
+  "mrtydi-v1.1-fi.test": [
+    "mrtydi-v1.1-finnish-test"
+  ],
+  "mrtydi-v1.1-fi.train": [
+    "mrtydi-v1.1-finnish-train"
+  ],
+  "mrtydi-v1.1-id.dev": [
+    "mrtydi-v1.1-indonesian-dev"
+  ],
+  "mrtydi-v1.1-id.test": [
+    "mrtydi-v1.1-indonesian-test"
+  ],
+  "mrtydi-v1.1-id.train": [
+    "mrtydi-v1.1-indonesian-train"
+  ],
+  "mrtydi-v1.1-ja.dev": [
+    "mrtydi-v1.1-japanese-dev"
+  ],
+  "mrtydi-v1.1-ja.test": [
+    "mrtydi-v1.1-japanese-test"
+  ],
+  "mrtydi-v1.1-ja.train": [
+    "mrtydi-v1.1-japanese-train"
+  ],
+  "mrtydi-v1.1-ko.dev": [
+    "mrtydi-v1.1-korean-dev"
+  ],
+  "mrtydi-v1.1-ko.test": [
+    "mrtydi-v1.1-korean-test"
+  ],
+  "mrtydi-v1.1-ko.train": [
+    "mrtydi-v1.1-korean-train"
+  ],
+  "mrtydi-v1.1-ru.dev": [
+    "mrtydi-v1.1-russian-dev"
+  ],
+  "mrtydi-v1.1-ru.test": [
+    "mrtydi-v1.1-russian-test"
+  ],
+  "mrtydi-v1.1-ru.train": [
+    "mrtydi-v1.1-russian-train"
+  ],
+  "mrtydi-v1.1-sw.dev": [
+    "mrtydi-v1.1-swahili-dev"
+  ],
+  "mrtydi-v1.1-sw.test": [
+    "mrtydi-v1.1-swahili-test"
+  ],
+  "mrtydi-v1.1-sw.train": [
+    "mrtydi-v1.1-swahili-train"
+  ],
+  "mrtydi-v1.1-te.dev": [
+    "mrtydi-v1.1-telugu-dev"
+  ],
+  "mrtydi-v1.1-te.test": [
+    "mrtydi-v1.1-telugu-test"
+  ],
+  "mrtydi-v1.1-te.train": [
+    "mrtydi-v1.1-telugu-train"
+  ],
+  "mrtydi-v1.1-th.dev": [
+    "mrtydi-v1.1-thai-dev"
+  ],
+  "mrtydi-v1.1-th.test": [
+    "mrtydi-v1.1-thai-test"
+  ],
+  "mrtydi-v1.1-th.train": [
+    "mrtydi-v1.1-thai-train"
+  ],
+  "msmarco-doc.dev": [
+    "msmarco-doc-dev"
+  ],
+  "msmarco-passage.dev-subset": [
+    "msmarco-passage-dev-subset",
     "msmarco-passage-dev",
-    "msmarco-passage.dev-subset",
     "msmarco-passage.dev",
     "msmarco-v1-passage-dev",
     "msmarco-v1-passage.dev"
   ],
+  "msmarco-v2-doc.dev": [
+    "msmarco-v2-doc-dev"
+  ],
+  "msmarco-v2-doc.dev2": [
+    "msmarco-v2-doc-dev2"
+  ],
+  "msmarco-v2-passage.dev": [
+    "msmarco-v2-passage-dev"
+  ],
+  "msmarco-v2-passage.dev2": [
+    "msmarco-v2-passage-dev2"
+  ],
+  "ntcir8.eval": [
+    "ntcir8-zh"
+  ],
   "rag24.test-umbrela": [
     "rag24.test-umbrela-all"
   ],
-  "msmarco-doc-dev": [
-    "msmarco-doc.dev"
+  "terabyte04.701-750": [
+    "trec2004-terabyte"
   ],
-  "msmarco-v2-doc-dev": [
-    "msmarco-v2-doc.dev"
+  "terabyte05.751-800": [
+    "trec2005-terabyte"
   ],
-  "msmarco-v2-doc-dev2": [
-    "msmarco-v2-doc.dev2"
+  "terabyte06.801-850": [
+    "trec2006-terabyte"
   ],
-  "msmarco-v2-passage-dev": [
-    "msmarco-v2-passage.dev"
+  "trec02ar": [
+    "trec2002-ar"
   ],
-  "msmarco-v2-passage-dev2": [
-    "msmarco-v2-passage.dev2"
+  "web.101-150": [
+    "trec2011-web"
+  ],
+  "web.151-200": [
+    "trec2012-web"
+  ],
+  "web.201-250": [
+    "trec2013-web"
+  ],
+  "web.251-300": [
+    "trec2014-web"
   ]
 }

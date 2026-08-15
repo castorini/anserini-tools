@@ -71,6 +71,15 @@
   "atomic.validation.text.openai.clip-vit-large-patch14": [
     "atomic-v0.2.1-openai.clip-vit-large-patch14-text-validation"
   ],
+  "backgroundlinking18": [
+    "trec2018-bl"
+  ],
+  "backgroundlinking19": [
+    "trec2019-bl"
+  ],
+  "backgroundlinking20": [
+    "trec2020-bl"
+  ],
   "beir-v1.0.0-arguana.test": [
     "beir-v1.0.0-arguana",
     "beir-v1.0.0-arguana-test",
@@ -225,6 +234,33 @@
   "clef06fr.mono.fr": [
     "clef2006-fr"
   ],
+  "dl19-doc.unicoil-noexp.0shot": [
+    "dl19-doc-unicoil-noexp"
+  ],
+  "dl19-doc.unicoil.0shot": [
+    "dl19-doc-unicoil"
+  ],
+  "dl19-passage.splade-pp-ed": [
+    "dl19-passage-splade-pp-ed"
+  ],
+  "dl19-passage.splade-pp-sd": [
+    "dl19-passage-splade-pp-sd"
+  ],
+  "dl19-passage.splade-v3": [
+    "dl19-passage-splade-v3"
+  ],
+  "dl19-passage.splade_distil_cocodenser_medium": [
+    "dl19-passage-splade-distil-cocodenser-medium",
+    "dl19-passage.splade-distil-cocodenser-medium"
+  ],
+  "dl19-passage.unicoil-noexp.0shot": [
+    "dl19-passage-unicoil-noexp",
+    "dl19-passage.unicoil-noexp"
+  ],
+  "dl19-passage.unicoil.0shot": [
+    "dl19-passage-unicoil",
+    "dl19-passage.unicoil"
+  ],
   "dl20": [
     "dl20-passage",
     "dl20-doc"
@@ -234,17 +270,67 @@
     "dl20-passage.cohere-embed-english-v3.0",
     "dl20-doc.cohere-embed-english-v3.0"
   ],
+  "dl20.splade-pp-ed": [
+    "dl20-passage-splade-pp-ed",
+    "dl20-passage.splade-pp-ed",
+    "dl20-splade-pp-ed"
+  ],
+  "dl20.splade-pp-sd": [
+    "dl20-passage-splade-pp-sd",
+    "dl20-passage.splade-pp-sd",
+    "dl20-splade-pp-sd"
+  ],
+  "dl20.splade-v3": [
+    "dl20-passage-splade-v3",
+    "dl20-passage.splade-v3",
+    "dl20-splade-v3"
+  ],
+  "dl20.splade_distil_cocodenser_medium": [
+    "dl20-passage-splade-distil-cocodenser-medium",
+    "dl20-passage.splade-distil-cocodenser-medium",
+    "dl20-splade-distil-cocodenser-medium"
+  ],
+  "dl20.unicoil-noexp.0shot": [
+    "dl20-doc-unicoil-noexp",
+    "dl20-passage-unicoil-noexp",
+    "dl20-passage.unicoil-noexp",
+    "dl20-unicoil-noexp"
+  ],
+  "dl20.unicoil.0shot": [
+    "dl20-doc-unicoil",
+    "dl20-passage-unicoil",
+    "dl20-passage.unicoil",
+    "dl20-unicoil"
+  ],
   "dl21": [
     "dl21-doc",
     "dl21-passage"
+  ],
+  "dl21.unicoil-noexp.0shot": [
+    "dl21-unicoil-noexp"
+  ],
+  "dl21.unicoil.0shot": [
+    "dl21-unicoil"
   ],
   "dl22": [
     "dl22-doc",
     "dl22-passage"
   ],
+  "dl22.unicoil-noexp.0shot": [
+    "dl22-unicoil-noexp"
+  ],
+  "dl22.unicoil.0shot": [
+    "dl22-unicoil"
+  ],
   "dl23": [
     "dl23-doc",
     "dl23-passage"
+  ],
+  "dl23.unicoil-noexp.0shot": [
+    "dl23-unicoil-noexp"
+  ],
+  "dl23.unicoil.0shot": [
+    "dl23-unicoil"
   ],
   "dpr.curated.test": [
     "dpr-curated-test"
@@ -627,6 +713,12 @@
   "msmarco-doc.dev": [
     "msmarco-doc-dev"
   ],
+  "msmarco-doc.dev.unicoil": [
+    "msmarco-doc-dev-unicoil"
+  ],
+  "msmarco-doc.dev.unicoil-noexp": [
+    "msmarco-doc-dev-unicoil-noexp"
+  ],
   "msmarco-doc.test": [
     "msmarco-doc-test"
   ],
@@ -655,20 +747,108 @@
     "msmarco-v1-passage-dev.deepimpact",
     "msmarco-v1-passage.dev.deepimpact"
   ],
+  "msmarco-passage.dev-subset.distill-splade-max": [
+    "msmarco-passage-dev-subset-distill-splade-max",
+    "msmarco-passage-dev-subset.distill-splade-max",
+    "msmarco-passage-dev.distill-splade-max",
+    "msmarco-passage.dev.distill-splade-max",
+    "msmarco-v1-passage-dev.distill-splade-max",
+    "msmarco-v1-passage.dev.distill-splade-max"
+  ],
+  "msmarco-passage.dev-subset.splade-pp-ed": [
+    "msmarco-passage-dev-subset-splade-pp-ed",
+    "msmarco-passage-dev-subset.splade-pp-ed",
+    "msmarco-passage-dev.splade-pp-ed",
+    "msmarco-passage.dev.splade-pp-ed",
+    "msmarco-v1-passage-dev.splade-pp-ed",
+    "msmarco-v1-passage.dev.splade-pp-ed"
+  ],
+  "msmarco-passage.dev-subset.splade-pp-sd": [
+    "msmarco-passage-dev-subset-splade-pp-sd",
+    "msmarco-passage-dev-subset.splade-pp-sd",
+    "msmarco-passage-dev.splade-pp-sd",
+    "msmarco-passage.dev.splade-pp-sd",
+    "msmarco-v1-passage-dev.splade-pp-sd",
+    "msmarco-v1-passage.dev.splade-pp-sd"
+  ],
+  "msmarco-passage.dev-subset.splade-v3": [
+    "msmarco-passage-dev-subset-splade-v3",
+    "msmarco-passage-dev-subset.splade-v3",
+    "msmarco-passage-dev.splade-v3",
+    "msmarco-passage.dev.splade-v3",
+    "msmarco-v1-passage-dev.splade-v3",
+    "msmarco-v1-passage.dev.splade-v3"
+  ],
+  "msmarco-passage.dev-subset.splade_distil_cocodenser_medium": [
+    "msmarco-passage-dev-subset-splade-distil-cocodenser-medium",
+    "msmarco-passage-dev-subset.splade-distil-cocodenser-medium",
+    "msmarco-passage-dev.splade-distil-cocodenser-medium",
+    "msmarco-passage.dev.splade-distil-cocodenser-medium",
+    "msmarco-v1-passage-dev.splade-distil-cocodenser-medium",
+    "msmarco-v1-passage.dev.splade-distil-cocodenser-medium"
+  ],
+  "msmarco-passage.dev-subset.unicoil": [
+    "msmarco-passage-dev-subset-unicoil",
+    "msmarco-passage-dev-subset.unicoil",
+    "msmarco-passage-dev.unicoil",
+    "msmarco-passage.dev.unicoil",
+    "msmarco-v1-passage-dev.unicoil",
+    "msmarco-v1-passage.dev.unicoil"
+  ],
+  "msmarco-passage.dev-subset.unicoil-noexp": [
+    "msmarco-passage-dev-subset-unicoil-noexp",
+    "msmarco-passage-dev-subset.unicoil-noexp",
+    "msmarco-passage-dev.unicoil-noexp",
+    "msmarco-passage.dev.unicoil-noexp",
+    "msmarco-v1-passage-dev.unicoil-noexp",
+    "msmarco-v1-passage.dev.unicoil-noexp"
+  ],
+  "msmarco-passage.dev-subset.unicoil-tilde-expansion": [
+    "msmarco-passage-dev-subset-unicoil-tilde",
+    "msmarco-passage-dev-subset.unicoil-tilde",
+    "msmarco-passage-dev.unicoil-tilde",
+    "msmarco-passage.dev.unicoil-tilde",
+    "msmarco-v1-passage-dev.unicoil-tilde",
+    "msmarco-v1-passage.dev.unicoil-tilde"
+  ],
   "msmarco-passage.test-subset": [
     "msmarco-passage-test-subset"
   ],
   "msmarco-v2-doc.dev": [
     "msmarco-v2-doc-dev"
   ],
+  "msmarco-v2-doc.dev.unicoil-noexp.0shot": [
+    "msmarco-v2-doc-dev-unicoil-noexp"
+  ],
+  "msmarco-v2-doc.dev.unicoil.0shot": [
+    "msmarco-v2-doc-dev-unicoil"
+  ],
   "msmarco-v2-doc.dev2": [
     "msmarco-v2-doc-dev2"
+  ],
+  "msmarco-v2-doc.dev2.unicoil-noexp.0shot": [
+    "msmarco-v2-doc-dev2-unicoil-noexp"
+  ],
+  "msmarco-v2-doc.dev2.unicoil.0shot": [
+    "msmarco-v2-doc-dev2-unicoil"
   ],
   "msmarco-v2-passage.dev": [
     "msmarco-v2-passage-dev"
   ],
+  "msmarco-v2-passage.dev.unicoil-noexp.0shot": [
+    "msmarco-v2-passage-dev-unicoil-noexp"
+  ],
+  "msmarco-v2-passage.dev.unicoil.0shot": [
+    "msmarco-v2-passage-dev-unicoil"
+  ],
   "msmarco-v2-passage.dev2": [
     "msmarco-v2-passage-dev2"
+  ],
+  "msmarco-v2-passage.dev2.unicoil-noexp.0shot": [
+    "msmarco-v2-passage-dev2-unicoil-noexp"
+  ],
+  "msmarco-v2-passage.dev2.unicoil.0shot": [
+    "msmarco-v2-passage-dev2-unicoil"
   ],
   "neuclir22-en.original-desc": [
     "neuclir22-en-desc"

@@ -7,6 +7,14 @@
     "path": "topics.adhoc.151-200.txt",
     "reader_class": "io.anserini.search.topicreader.TrecTopicReader"
   },
+  "adhoc.351-400": {
+    "path": "topics.adhoc.351-400.txt",
+    "reader_class": "io.anserini.search.topicreader.TrecTopicReader"
+  },
+  "adhoc.401-450": {
+    "path": "topics.adhoc.401-450.txt",
+    "reader_class": "io.anserini.search.topicreader.TrecTopicReader"
+  },
   "adhoc.451-550": {
     "path": "topics.adhoc.451-550.txt",
     "reader_class": "io.anserini.search.topicreader.TrecTopicReader"

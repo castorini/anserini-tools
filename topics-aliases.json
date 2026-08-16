@@ -5,6 +5,12 @@
   "adhoc.151-200": [
     "trec3-adhoc"
   ],
+  "adhoc.351-400": [
+    "trec7-adhoc"
+  ],
+  "adhoc.401-450": [
+    "trec8-adhoc"
+  ],
   "adhoc.451-550": [
     "wt10g"
   ],

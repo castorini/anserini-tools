@@ -707,6 +707,10 @@
     "path": "topics.dl19-passage.cohere-embed-english-v3.0.jsonl.gz",
     "reader_class": "io.anserini.search.topicreader.JsonIntVectorTopicReader"
   },
+  "dl19-passage.cos-dpr-distil": {
+    "path": "topics.dl19-passage.cos-dpr-distil.jsonl.gz",
+    "reader_class": "io.anserini.search.topicreader.JsonIntVectorTopicReader"
+  },
   "dl19-passage.splade-pp-ed": {
     "path": "topics.dl19-passage.splade-pp-ed.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
@@ -741,6 +745,10 @@
   },
   "dl20.cohere-embed-english-v3.0": {
     "path": "topics.dl20.cohere-embed-english-v3.0.jsonl.gz",
+    "reader_class": "io.anserini.search.topicreader.JsonIntVectorTopicReader"
+  },
+  "dl20.cos-dpr-distil": {
+    "path": "topics.dl20.cos-dpr-distil.jsonl.gz",
     "reader_class": "io.anserini.search.topicreader.JsonIntVectorTopicReader"
   },
   "dl20.splade-pp-ed": {
@@ -1485,6 +1493,10 @@
   },
   "msmarco-passage.dev-subset.cohere-embed-english-v3.0": {
     "path": "topics.msmarco-passage.dev-subset.cohere-embed-english-v3.0.jsonl.gz",
+    "reader_class": "io.anserini.search.topicreader.JsonIntVectorTopicReader"
+  },
+  "msmarco-passage.dev-subset.cos-dpr-distil": {
+    "path": "topics.msmarco-passage.dev-subset.cos-dpr-distil.jsonl.gz",
     "reader_class": "io.anserini.search.topicreader.JsonIntVectorTopicReader"
   },
   "msmarco-passage.dev-subset.deepimpact": {

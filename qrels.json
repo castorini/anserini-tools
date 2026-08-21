@@ -229,6 +229,8 @@
   "msmarco-v2-passage.dev2": "qrels.msmarco-v2-passage.dev2.txt",
   "msmarco-v2.1-doc.dev": "qrels.msmarco-v2.1-doc.dev.txt",
   "msmarco-v2.1-doc.dev2": "qrels.msmarco-v2.1-doc.dev2.txt",
+  "nanoknow-v1.0-nq.supported": "qrels.nanoknow-v1.0-nq.supported.txt",
+  "nanoknow-v1.0-squad.supported": "qrels.nanoknow-v1.0-squad.supported.txt",
   "neuclir22-fa": "qrels.neuclir22-fa.txt",
   "neuclir22-ru": "qrels.neuclir22-ru.txt",
   "neuclir22-zh": "qrels.neuclir22-zh.txt",

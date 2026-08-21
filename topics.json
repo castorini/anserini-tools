@@ -1603,6 +1603,14 @@
     "path": "topics.msmarco-v2-passage.dev2.unicoil.0shot.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
+  "nanoknow-v1.0-nq.supported": {
+    "path": "topics.nanoknow-v1.0-nq.supported.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
+  "nanoknow-v1.0-squad.supported": {
+    "path": "topics.nanoknow-v1.0-squad.supported.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
   "neuclir22-en.original-desc": {
     "path": "topics.neuclir22-en.original-desc.txt",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"

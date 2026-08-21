@@ -879,6 +879,10 @@
     "path": "topics.epidemic-qa.expert.prelim.json",
     "reader_class": "io.anserini.search.topicreader.EpidemicQATopicReader"
   },
+  "fever.dev": {
+    "path": "topics.fever.dev.txt",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
   "fire12bn.176-225": {
     "path": "topics.fire12bn.176-225.txt",
     "reader_class": "io.anserini.search.topicreader.TrecTopicReader"
@@ -1599,6 +1603,14 @@
     "path": "topics.msmarco-v2-passage.dev2.unicoil.0shot.tsv.gz",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
+  "nanoknow-v1.0-nq.supported": {
+    "path": "topics.nanoknow-v1.0-nq.supported.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
+  "nanoknow-v1.0-squad.supported": {
+    "path": "topics.nanoknow-v1.0-squad.supported.tsv",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
   "neuclir22-en.original-desc": {
     "path": "topics.neuclir22-en.original-desc.txt",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
@@ -1609,6 +1621,18 @@
   },
   "neuclir22-en.original-title": {
     "path": "topics.neuclir22-en.original-title.txt",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
+  "neuclir22-en.splade.original-desc": {
+    "path": "topics.neuclir22-en.splade.original-desc.txt.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
+  "neuclir22-en.splade.original-desc_title": {
+    "path": "topics.neuclir22-en.splade.original-desc_title.txt.gz",
+    "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
+  },
+  "neuclir22-en.splade.original-title": {
+    "path": "topics.neuclir22-en.splade.original-title.txt.gz",
     "reader_class": "io.anserini.search.topicreader.TsvIntTopicReader"
   },
   "neuclir22-fa.ht-desc": {

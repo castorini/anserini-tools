@@ -94,6 +94,7 @@
   "dl23-doc": "qrels.dl23-doc.txt",
   "dl23-doc-msmarco-v2.1": "qrels.dl23-doc-msmarco-v2.1.txt",
   "dl23-passage": "qrels.dl23-passage.txt",
+  "fever.dev": "qrels.fever.dev.txt",
   "fire12bn.176-225": "qrels.fire12bn.176-225.txt",
   "fire12en.176-225": "qrels.fire12en.176-225.txt",
   "fire12hi.176-225": "qrels.fire12hi.176-225.txt",
@@ -228,6 +229,8 @@
   "msmarco-v2-passage.dev2": "qrels.msmarco-v2-passage.dev2.txt",
   "msmarco-v2.1-doc.dev": "qrels.msmarco-v2.1-doc.dev.txt",
   "msmarco-v2.1-doc.dev2": "qrels.msmarco-v2.1-doc.dev2.txt",
+  "nanoknow-v1.0-nq.supported": "qrels.nanoknow-v1.0-nq.supported.txt",
+  "nanoknow-v1.0-squad.supported": "qrels.nanoknow-v1.0-squad.supported.txt",
   "neuclir22-fa": "qrels.neuclir22-fa.txt",
   "neuclir22-ru": "qrels.neuclir22-ru.txt",
   "neuclir22-zh": "qrels.neuclir22-zh.txt",
@@ -247,5 +250,6 @@
   "web.101-150": "qrels.web.101-150.txt",
   "web.151-200": "qrels.web.151-200.txt",
   "web.201-250": "qrels.web.201-250.txt",
-  "web.251-300": "qrels.web.251-300.txt"
+  "web.251-300": "qrels.web.251-300.txt",
+  "web.51-100": "qrels.web.51-100.txt"
 }

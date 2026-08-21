@@ -94,6 +94,7 @@
   "dl23-doc": "qrels.dl23-doc.txt",
   "dl23-doc-msmarco-v2.1": "qrels.dl23-doc-msmarco-v2.1.txt",
   "dl23-passage": "qrels.dl23-passage.txt",
+  "fever.dev": "qrels.fever.dev.txt",
   "fire12bn.176-225": "qrels.fire12bn.176-225.txt",
   "fire12en.176-225": "qrels.fire12en.176-225.txt",
   "fire12hi.176-225": "qrels.fire12hi.176-225.txt",
